@@ -1,0 +1,84 @@
+[submodule "Alligator"]
+	path = Alligator
+	url = https://github.com/EA31337/Strategy-Alligator
+[submodule "Bands"]
+	path = Bands
+	url = https://github.com/EA31337/Strategy-Bands
+[submodule "AC"]
+	path = AC
+	url = https://github.com/EA31337/Strategy-AC
+[submodule "AD"]
+	path = AD
+	url = https://github.com/EA31337/Strategy-AD
+[submodule "ADX"]
+	path = ADX
+	url = https://github.com/EA31337/Strategy-ADX
+[submodule "ATR"]
+	path = ATR
+	url = https://github.com/EA31337/Strategy-ATR
+[submodule "BWMFI"]
+	path = BWMFI
+	url = https://github.com/EA31337/Strategy-BWMFI
+[submodule "BBPower"]
+	path = BBPower
+	url = https://github.com/EA31337/Strategy-BBPower
+[submodule "CCI"]
+	path = CCI
+	url = https://github.com/EA31337/Strategy-CCI
+[submodule "DeMarker"]
+	path = DeMarker
+	url = https://github.com/EA31337/Strategy-DeMarker
+[submodule "Envelopes"]
+	path = Envelopes
+	url = https://github.com/EA31337/Strategy-Envelopes
+[submodule "Force"]
+	path = Force
+	url = https://github.com/EA31337/Strategy-Force
+[submodule "Fractals"]
+	path = Fractals
+	url = https://github.com/EA31337/Strategy-Fractals
+[submodule "Gator"]
+	path = Gator
+	url = https://github.com/EA31337/Strategy-Gator
+[submodule "Ichimoku"]
+	path = Ichimoku
+	url = https://github.com/EA31337/Strategy-Ichimoku
+[submodule "MA"]
+	path = MA
+	url = https://github.com/EA31337/Strategy-MA
+[submodule "MACD"]
+	path = MACD
+	url = https://github.com/EA31337/Strategy-MACD
+[submodule "MFI"]
+	path = MFI
+	url = https://github.com/EA31337/Strategy-MFI
+[submodule "Momentum"]
+	path = Momentum
+	url = https://github.com/EA31337/Strategy-Momentum
+[submodule "OBV"]
+	path = OBV
+	url = https://github.com/EA31337/Strategy-OBV
+[submodule "OsMA"]
+	path = OsMA
+	url = https://github.com/EA31337/Strategy-OsMA
+[submodule "RSI"]
+	path = RSI
+	url = https://github.com/EA31337/Strategy-RSI
+[submodule "RVI"]
+	path = RVI
+	url = https://github.com/EA31337/Strategy-RVI
+[submodule "SAR"]
+	path = SAR
+	url = https://github.com/EA31337/Strategy-SAR
+[submodule "StdDev"]
+	path = StdDev
+	url = https://github.com/EA31337/Strategy-StdDev
+[submodule "Stochastic"]
+	path = Stochastic
+	url = https://github.com/EA31337/Strategy-Stochastic
+[submodule "WPR"]
+	path = WPR
+	url = https://github.com/EA31337/Strategy-WPR
+[submodule "ZigZag"]
+	path = ZigZag
+	url = https://github.com/EA31337/Strategy-ZigZag
