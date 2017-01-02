@@ -88,3 +88,6 @@
 [submodule "HeikinAshi"]
 	path = HeikinAshi
 	url = https://github.com/EA31337/Strategy-HeikinAshi
+[submodule "Awesome"]
+	path = Awesome
+	url = https://github.com/EA31337/Strategy-Awesome
