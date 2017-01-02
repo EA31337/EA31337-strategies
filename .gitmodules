@@ -83,7 +83,7 @@
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag
 [submodule "ElliotWave"]
-	path = ElliotWave
+	path = ElliottWave
 	url = https://github.com/EA31337/Strategy-ElliotWave
 [submodule "HeikinAshi"]
 	path = HeikinAshi
