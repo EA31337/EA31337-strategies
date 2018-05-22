@@ -4,6 +4,9 @@ install:
 before_test:
 #- mklink /D "..\include\EA31337-classes" "%cd%"
 - pwd
+clone_script:
+- git clone -q --recursive --branch=%APPVEYOR_REPO_BRANCH% https://github.com/%APPVEYOR_REPO_NAME%.git %APPVEYOR_BUILD_FOLDER%
+- git checkout -qf %APPVEYOR_REPO_COMMIT%
 test_script:
 - metaeditor /s /compile:. /inc:.. /log:errors.log || exit /b 0
 - type *.log
