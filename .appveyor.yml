@@ -5,6 +5,7 @@ before_test:
 #- mklink /D "..\include\EA31337-classes" "%cd%"
 - pwd
 test_script:
+- for /r %%i in (*.mqh) do mqh /s /mql5 %%i || exit /b 1
 - metaeditor /s /compile:. /inc:.. /log:errors.log || exit /b 0
 - type *.log
 - type *.log | find /v "Result" | findstr "error" && exit /b 1 || exit /b 0
