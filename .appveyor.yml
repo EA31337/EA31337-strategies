@@ -5,9 +5,15 @@ before_test:
 #- mklink /D "..\include\EA31337-classes" "%cd%"
 - pwd
 test_script:
+- call :check_mqh "Hello"
 - metaeditor /s /compile:. /inc:.. /log:errors.log || exit /b 0
 - type *.log
 - type *.log | find /v "Result" | findstr "error" && exit /b 1 || exit /b 0
 - type *.log | find /v "Result" | findstr "warning" && exit /b 1 || exit /b 0
+- goto :eof
+- :check_mqh
+- setlocal
+- echo %1
+- goto :eof
 build: off
 platform: x86
