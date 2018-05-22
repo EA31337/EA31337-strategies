@@ -8,9 +8,8 @@ clone_script:
 - git clone -q --recursive --branch=%APPVEYOR_REPO_BRANCH% https://github.com/%APPVEYOR_REPO_NAME%.git %APPVEYOR_BUILD_FOLDER%
 - git checkout -qf %APPVEYOR_REPO_COMMIT%
 test_script:
-- metaeditor /s /compile:. /inc:.. /log:errors.log || exit /b 0
-- type *.log
-- type *.log | find /v "Result" | findstr "error" && exit /b 1 || exit /b 0
-- type *.log | find /v "Result" | findstr "warning" && exit /b 1 || exit /b 0
+- metaeditor /s /compile:. /inc:.. /log:appveyor.log
+- type appveyor.log
+- (type appveyor.log | findstr /v "Result" | findstr "error warning" > nul) && exit /b 1
 build: off
 platform: x86
