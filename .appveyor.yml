@@ -1,3 +1,6 @@
+clone_script:
+- git clone -q --recursive --branch=%APPVEYOR_REPO_BRANCH% https://github.com/%APPVEYOR_REPO_NAME%.git %APPVEYOR_BUILD_FOLDER%
+- git checkout -qf %APPVEYOR_REPO_COMMIT%
 install:
 - curl -sLo metaeditor.exe https://github.com/EA31337/FX-MT-VM/releases/download/4.x/metaeditor.exe
 - git clone -q --recursive https://github.com/EA31337/EA31337-classes ../include/EA31337-classes
