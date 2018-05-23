@@ -8,8 +8,6 @@ clone_script:
 - git clone -q --recursive --branch=%APPVEYOR_REPO_BRANCH% https://github.com/%APPVEYOR_REPO_NAME%.git %APPVEYOR_BUILD_FOLDER%
 - git checkout -qf %APPVEYOR_REPO_COMMIT%
 test_script:
-- metaeditor /s /compile:Test.mq5 /inc:.. /log:appveyor.log || exit /b 0
-- type appveyor.log
-- (type appveyor.log | findstr /v "Result" | findstr "error warning" > nul) && exit /b 1
+- appveyor-test.bat
 build: off
 platform: x86
