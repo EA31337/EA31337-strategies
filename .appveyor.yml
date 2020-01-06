@@ -1,15 +1,16 @@
+init:
+- ps: iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 install:
-- curl -sLo metaeditor.exe https://github.com/EA31337/FX-MT-VM/releases/download/4.x/metaeditor.exe
-- git clone -q --recursive https://github.com/EA31337/EA31337-classes ../include/EA31337-classes
+- appveyor DownloadFile https://github.com/EA31337/MetaEditor/raw/master/metaeditor64.exe
+- scoop install ruby python
 before_test:
-#- mklink /D "..\include\EA31337-classes" "%cd%"
-- pwd
-clone_script:
-- git clone -q --recursive --branch=%APPVEYOR_REPO_BRANCH% https://github.com/%APPVEYOR_REPO_NAME%.git %APPVEYOR_BUILD_FOLDER%
-- git checkout -qf %APPVEYOR_REPO_COMMIT%
+- ruby --version
 test_script:
-- metaeditor /s /compile:. /inc:.. /log:appveyor.log
-- type appveyor.log
-- (type appveyor.log | findstr /v "Result" | findstr "error warning" > nul) && exit /b 1
+- metaeditor64 /s /compile:. /log:mql.log || exit /b 0
+- type mql.log
+- ruby -e "if File.open('mql.log', mode:'rb:BOM|UTF-16LE').readlines.grep(Regexp.new '[1-9] error'.encode(Encoding::UTF_16LE)) {exit 1}; end"
+- ruby -e "if File.open('mql.log', mode:'rb:BOM|UTF-16LE').readlines.grep(Regexp.new '[1-9] warning'.encode(Encoding::UTF_16LE)) {exit 1}; end"
+- ruby -e "if File.open('mql.log', mode:'rb:BOM|UTF-16LE').readlines.grep(Regexp.new '[1-9][0-9] error'.encode(Encoding::UTF_16LE)) {exit 1}; end"
+- ruby -e "if File.open('mql.log', mode:'rb:BOM|UTF-16LE').readlines.grep(Regexp.new '[1-9][0-9] warning'.encode(Encoding::UTF_16LE)) {exit 1}; end"
 build: off
 platform: x86
