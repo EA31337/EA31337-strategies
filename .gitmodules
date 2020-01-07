@@ -25,6 +25,9 @@
 [submodule "BearsPower"]
 	path = BearsPower
 	url = https://github.com/EA31337/Strategy-BearsPower.git
+[submodule "BullsPower"]
+	path = BullsPower
+	url = https://github.com/EA31337/Strategy-BullsPower.git
 [submodule "CCI"]
 	path = CCI
 	url = https://github.com/EA31337/Strategy-CCI
