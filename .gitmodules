@@ -1,9 +1,3 @@
-[submodule "Alligator"]
-	path = Alligator
-	url = https://github.com/EA31337/Strategy-Alligator
-[submodule "Bands"]
-	path = Bands
-	url = https://github.com/EA31337/Strategy-Bands
 [submodule "AC"]
 	path = AC
 	url = https://github.com/EA31337/Strategy-AC
@@ -16,18 +10,30 @@
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/EA31337/Strategy-ATR
+[submodule "Alligator"]
+	path = Alligator
+	url = https://github.com/EA31337/Strategy-Alligator
+[submodule "Awesome"]
+	path = Awesome
+	url = https://github.com/EA31337/Strategy-Awesome
 [submodule "BWMFI"]
 	path = BWMFI
 	url = https://github.com/EA31337/Strategy-BWMFI
-[submodule "BBPower"]
-	path = BBPower
-	url = https://github.com/EA31337/Strategy-BBPower
+[submodule "Bands"]
+	path = Bands
+	url = https://github.com/EA31337/Strategy-Bands
+[submodule "BearsPower"]
+	path = BearsPower
+	url = https://github.com/EA31337/Strategy-BearsPower.git
 [submodule "CCI"]
 	path = CCI
 	url = https://github.com/EA31337/Strategy-CCI
 [submodule "DeMarker"]
 	path = DeMarker
 	url = https://github.com/EA31337/Strategy-DeMarker
+[submodule "ElliotWave"]
+	path = ElliottWave
+	url = https://github.com/EA31337/Strategy-ElliotWave
 [submodule "Envelopes"]
 	path = Envelopes
 	url = https://github.com/EA31337/Strategy-Envelopes
@@ -40,6 +46,9 @@
 [submodule "Gator"]
 	path = Gator
 	url = https://github.com/EA31337/Strategy-Gator
+[submodule "HeikinAshi"]
+	path = HeikinAshi
+	url = https://github.com/EA31337/Strategy-HeikinAshi
 [submodule "Ichimoku"]
 	path = Ichimoku
 	url = https://github.com/EA31337/Strategy-Ichimoku
@@ -82,12 +91,3 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag
-[submodule "ElliotWave"]
-	path = ElliottWave
-	url = https://github.com/EA31337/Strategy-ElliotWave
-[submodule "HeikinAshi"]
-	path = HeikinAshi
-	url = https://github.com/EA31337/Strategy-HeikinAshi
-[submodule "Awesome"]
-	path = Awesome
-	url = https://github.com/EA31337/Strategy-Awesome
