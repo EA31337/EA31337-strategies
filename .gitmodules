@@ -49,9 +49,9 @@
 [submodule "Gator"]
 	path = Gator
 	url = https://github.com/EA31337/Strategy-Gator
-[submodule "HeikinAshi"]
-	path = HeikinAshi
-	url = https://github.com/EA31337/Strategy-HeikinAshi
+[submodule "HeikenAshi"]
+	path = HeikenAshi
+	url = https://github.com/EA31337/Strategy-HeikenAshi
 [submodule "Ichimoku"]
 	path = Ichimoku
 	url = https://github.com/EA31337/Strategy-Ichimoku
