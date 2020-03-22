@@ -58,6 +58,9 @@
 [submodule "MA"]
 	path = MA
 	url = https://github.com/EA31337/Strategy-MA
+[submodule "MA2"]
+	path = MA2
+	url = https://github.com/EA31337/Strategy-MA2.git
 [submodule "MACD"]
 	path = MACD
 	url = https://github.com/EA31337/Strategy-MACD
