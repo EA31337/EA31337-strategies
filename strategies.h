@@ -37,7 +37,7 @@
 #include "Fractals/Stg_Fractals.mqh"
 #include "Gator/Stg_Gator.mqh"
 #include "Ichimoku/Stg_Ichimoku.mqh"
-//#include "MA/Stg_MA.mqh"
+#include "MA/Stg_MA.mqh"
 #include "MACD/Stg_MACD.mqh"
 #include "MFI/Stg_MFI.mqh"
 #include "Momentum/Stg_Momentum.mqh"
