@@ -24,10 +24,10 @@
 	url = https://github.com/EA31337/Strategy-Bands
 [submodule "BearsPower"]
 	path = BearsPower
-	url = https://github.com/EA31337/Strategy-BearsPower.git
+	url = https://github.com/EA31337/Strategy-BearsPower
 [submodule "BullsPower"]
 	path = BullsPower
-	url = https://github.com/EA31337/Strategy-BullsPower.git
+	url = https://github.com/EA31337/Strategy-BullsPower
 [submodule "CCI"]
 	path = CCI
 	url = https://github.com/EA31337/Strategy-CCI
@@ -60,7 +60,7 @@
 	url = https://github.com/EA31337/Strategy-MA
 [submodule "MA2"]
 	path = MA2
-	url = https://github.com/EA31337/Strategy-MA2.git
+	url = https://github.com/EA31337/Strategy-MA2
 [submodule "MACD"]
 	path = MACD
 	url = https://github.com/EA31337/Strategy-MACD
@@ -94,6 +94,9 @@
 [submodule "Stochastic"]
 	path = Stochastic
 	url = https://github.com/EA31337/Strategy-Stochastic
+[submodule "TMA_Band_SVE_True"]
+	path = TMA_Band_SVE_True
+	url = https://github.com/EA31337/Strategy-TMA_Band_SVE_True
 [submodule "WPR"]
 	path = WPR
 	url = https://github.com/EA31337/Strategy-WPR
@@ -102,4 +105,4 @@
 	url = https://github.com/EA31337/Strategy-ZigZag
 [submodule "eSAWA"]
 	path = eSAWA
-	url = https://github.com/EA31337/Strategy-eSAWA.git
+	url = https://github.com/EA31337/Strategy-eSAWA
