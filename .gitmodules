@@ -106,3 +106,6 @@
 [submodule "eSAWA"]
 	path = eSAWA
 	url = https://github.com/EA31337/Strategy-eSAWA
+[submodule "TMA_True"]
+	path = TMA_True
+	url = https://github.com/EA31337/Strategy-TMA_True
