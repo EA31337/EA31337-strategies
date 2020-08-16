@@ -97,3 +97,6 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag
+[submodule "eSAWA"]
+	path = eSAWA
+	url = https://github.com/EA31337/Strategy-eSAWA.git
