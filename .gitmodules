@@ -85,6 +85,9 @@
 [submodule "SAR"]
 	path = SAR
 	url = https://github.com/EA31337/Strategy-SAR
+[submodule "SVE_Bollinger_Bands"]
+	path = SVE_Bollinger_Bands
+	url = https://github.com/EA31337/Strategy-SVE_Bollinger_Bands
 [submodule "StdDev"]
 	path = StdDev
 	url = https://github.com/EA31337/Strategy-StdDev
