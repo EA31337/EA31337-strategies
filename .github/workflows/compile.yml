@@ -1,0 +1,88 @@
+---
+name: Compile
+
+# yamllint disable-line rule:truthy
+on:
+  pull_request:
+    branches:
+      - 'master'
+      - 'dev*'
+    paths-ignore:
+      - '*.md'
+  push:
+    branches:
+      - 'master'
+      - 'dev*'
+    paths-ignore:
+      - '*.md'
+
+jobs:
+  Compile:
+    defaults:
+      run:
+        shell: powershell
+    runs-on: windows-latest
+    strategy:
+      matrix:
+        name:
+          - AC
+          - AD
+          - ADX
+          - Alligator
+          - ATR
+          - Awesome
+          - Bands
+          - BearsPower
+          - BullsPower
+          - BWMFI
+          - CCI
+          - DeMarker
+          # - ElliottWave
+          - Envelopes
+          - Force
+          - Fractals
+          - Gator
+          - HeikenAshi
+          - Ichimoku
+          - MA
+          - MA2
+          - MACD
+          - MFI
+          - Momentum
+          - OBV
+          - OsMA
+          - RSI
+          - RVI
+          - SAR
+          - StdDev
+          - Stochastic
+          - SVE_Bollinger_Bands
+          - TMA_Band_SVE_True
+          - TMA_True
+          - WPR
+          - ZigZag
+          # - eSAWA
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      - uses: actions/checkout@v2
+        with:
+          path: Include/EA31337-classes
+          repository: EA31337/EA31337-classes
+      - name: Compile for MQL4
+        uses: fx31337/mql-compile-action@master
+        with:
+          path: ./${{ matrix.name }}/Stg_${{ matrix.name }}.mq4
+          include: .
+          mt-version: 5.0.0.2361
+          verbose: true
+      - name: Compile for MQL5
+        uses: fx31337/mql-compile-action@master
+        with:
+          path: ./${{ matrix.name }}/Stg_${{ matrix.name }}.mq5
+          include: .
+          mt-version: 5.0.0.2515
+          verbose: true
+      - name: List compiled files
+        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
