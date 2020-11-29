@@ -40,7 +40,6 @@
 #include "HeikenAshi/Stg_HeikenAshi.mqh"
 #include "Ichimoku/Stg_Ichimoku.mqh"
 #include "MA/Stg_MA.mqh"
-#include "MA2/Stg_MA2.mqh"
 #include "MACD/Stg_MACD.mqh"
 #include "MFI/Stg_MFI.mqh"
 #include "Momentum/Stg_Momentum.mqh"
