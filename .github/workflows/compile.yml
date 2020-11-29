@@ -39,7 +39,7 @@ jobs:
           - BWMFI
           - CCI
           - DeMarker
-          # - ElliottWave
+          - ElliottWave
           - Envelopes
           - Force
           - Fractals
@@ -47,7 +47,6 @@ jobs:
           - HeikenAshi
           - Ichimoku
           - MA
-          - MA2
           - MACD
           - MFI
           - Momentum
@@ -63,7 +62,7 @@ jobs:
           - TMA_True
           - WPR
           - ZigZag
-          # - eSAWA
+          - eSAWA
     steps:
       - uses: actions/checkout@v2
         with:
@@ -80,8 +79,6 @@ jobs:
           mt-version: 5.0.0.2361
           path: ./${{ matrix.name }}/Stg_${{ matrix.name }}.mq4
           verbose: true
-      - name: Copy Math includes
-        run: Copy-Item -Recurse ../MetaTrader/MQL5/Include/Math Include/
       - name: Compile for MQL5
         uses: fx31337/mql-compile-action@master
         with:
