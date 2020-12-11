@@ -33,6 +33,7 @@
 #include "CCI/Stg_CCI.mqh"
 #include "DeMarker/Stg_DeMarker.mqh"
 #include "Envelopes/Stg_Envelopes.mqh"
+#include "ElliottWave/Stg_ElliottWave.mqh"
 #include "Force/Stg_Force.mqh"
 #include "Fractals/Stg_Fractals.mqh"
 #include "Gator/Stg_Gator.mqh"
