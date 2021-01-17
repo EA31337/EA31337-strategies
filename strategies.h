@@ -49,7 +49,7 @@
 #include "RSI/Stg_RSI.mqh"
 #include "RVI/Stg_RVI.mqh"
 #include "SAR/Stg_SAR.mqh"
-#include "eSAWA/Stg_SAWA.mqh"
+#include "SAWA/Stg_SAWA.mqh"
 // #include "SVE_Bollinger_Bands/Stg_SVE_Bollinger_Bands.mqh"
 #include "StdDev/Stg_StdDev.mqh"
 #include "Stochastic/Stg_Stochastic.mqh"

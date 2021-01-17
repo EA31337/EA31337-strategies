@@ -30,13 +30,13 @@ jobs:
           - AC
           - AD
           - ADX
-          - Alligator
           - ATR
+          - Alligator
           - Awesome
+          - BWMFI
           - Bands
           - BearsPower
           - BullsPower
-          - BWMFI
           - CCI
           - DeMarker
           - ElliottWave
@@ -55,14 +55,14 @@ jobs:
           - RSI
           - RVI
           - SAR
+          - SAWA
+          - SVE_Bollinger_Bands
           - StdDev
           - Stochastic
-          - SVE_Bollinger_Bands
           - TMA_Band_SVE_True
           - TMA_True
           - WPR
           - ZigZag
-          - eSAWA
     steps:
       - uses: actions/checkout@v2
         with:
