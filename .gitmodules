@@ -106,3 +106,6 @@
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True
+[submodule "DEMA"]
+	path = DEMA
+	url = https://github.com/EA31337/Strategy-DEMA.git
