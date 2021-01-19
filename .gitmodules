@@ -100,9 +100,12 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag
-[submodule "eSAWA"]
-	path = eSAWA
-	url = https://github.com/EA31337/Strategy-eSAWA
+[submodule "SAWA"]
+	path = SAWA
+	url = https://github.com/EA31337/Strategy-SAWA
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True
+[submodule "DEMA"]
+	path = DEMA
+	url = https://github.com/EA31337/Strategy-DEMA.git

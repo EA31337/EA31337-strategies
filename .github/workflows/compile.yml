@@ -30,13 +30,13 @@ jobs:
           - AC
           - AD
           - ADX
-          - Alligator
           - ATR
+          - Alligator
           - Awesome
+          - BWMFI
           - Bands
           - BearsPower
           - BullsPower
-          - BWMFI
           - CCI
           - DeMarker
           - ElliottWave
@@ -55,14 +55,14 @@ jobs:
           - RSI
           - RVI
           - SAR
+          - SAWA
+          - SVE_Bollinger_Bands
           - StdDev
           - Stochastic
-          - SVE_Bollinger_Bands
           - TMA_Band_SVE_True
           - TMA_True
           - WPR
           - ZigZag
-          - eSAWA
     steps:
       - uses: actions/checkout@v2
         with:
@@ -85,6 +85,37 @@ jobs:
           include: .
           mt-version: 5.0.0.2515
           path: ./${{ matrix.name }}/Stg_${{ matrix.name }}.mq5
+          verbose: true
+      - name: List compiled files
+        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
+      - run: Get-Location
+  Compile-All:
+    defaults:
+      run:
+        shell: powershell
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      - uses: actions/checkout@v2
+        with:
+          path: Include/EA31337-classes
+          ref: master
+          repository: EA31337/EA31337-classes
+      - name: Compile for MQL4
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-version: 5.0.0.2361
+          path: ./.github/Test.mq4
+          verbose: true
+      - name: Compile for MQL5
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-version: 5.0.0.2515
+          path: ./.github/Test.mq5
           verbose: true
       - name: List compiled files
         run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
