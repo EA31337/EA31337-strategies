@@ -89,3 +89,34 @@ jobs:
       - name: List compiled files
         run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
       - run: Get-Location
+  Compile-All:
+    defaults:
+      run:
+        shell: powershell
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      - uses: actions/checkout@v2
+        with:
+          path: Include/EA31337-classes
+          ref: master
+          repository: EA31337/EA31337-classes
+      - name: Compile for MQL4
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-version: 5.0.0.2361
+          path: ./.github/Test.mq4
+          verbose: true
+      - name: Compile for MQL5
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-version: 5.0.0.2515
+          path: ./.github/Test.mq5
+          verbose: true
+      - name: List compiled files
+        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
+      - run: Get-Location
