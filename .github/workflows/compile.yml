@@ -39,6 +39,7 @@ jobs:
           - BullsPower
           - CCI
           - DeMarker
+          - DEMA
           - ElliottWave
           - Envelopes
           - Force

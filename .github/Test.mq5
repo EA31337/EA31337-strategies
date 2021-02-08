@@ -26,14 +26,15 @@
 #include <EA31337-classes/Indicators/Indi_AC.mqh>
 #include <EA31337-classes/Indicators/Indi_AD.mqh>
 #include <EA31337-classes/Indicators/Indi_ADX.mqh>
-#include <EA31337-classes/Indicators/Indi_Alligator.mqh>
 #include <EA31337-classes/Indicators/Indi_AO.mqh>
 #include <EA31337-classes/Indicators/Indi_ATR.mqh>
+#include <EA31337-classes/Indicators/Indi_Alligator.mqh>
+#include <EA31337-classes/Indicators/Indi_BWMFI.mqh>
 #include <EA31337-classes/Indicators/Indi_Bands.mqh>
 #include <EA31337-classes/Indicators/Indi_BearsPower.mqh>
 #include <EA31337-classes/Indicators/Indi_BullsPower.mqh>
-#include <EA31337-classes/Indicators/Indi_BWMFI.mqh>
 #include <EA31337-classes/Indicators/Indi_CCI.mqh>
+#include <EA31337-classes/Indicators/Indi_DEMA.mqh>
 #include <EA31337-classes/Indicators/Indi_DeMarker.mqh>
 #include <EA31337-classes/Indicators/Indi_Envelopes.mqh>
 #include <EA31337-classes/Indicators/Indi_Force.mqh>
@@ -60,6 +61,4 @@
 #include "../enum.h"
 #include "../strategies.h"
 
-int OnInit() {
-  return INIT_SUCCEEDED;
-}
+int OnInit() { return INIT_SUCCEEDED; }

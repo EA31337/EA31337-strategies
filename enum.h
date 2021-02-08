@@ -37,25 +37,25 @@ enum ENUM_STRATEGY { // Define list of strategies.
   STRAT_DEMA,        // DEMA
   STRAT_DEMARKER,    // DeMarker
   STRAT_ENVELOPES,   // Envelopes
-  STRAT_SAWA,        // SAWA
+  STRAT_EWO,         // ElliottWave
   STRAT_FORCE,       // Force
   STRAT_FRACTALS,    // Fractals
   STRAT_GATOR,       // Gator
   STRAT_HEIKEN_ASHI, // Heiken Ashi
   STRAT_ICHIMOKU,    // Ichimoku
   STRAT_MA,          // MA
-  // STRAT_MA2, // MA2
-  STRAT_MACD,       // MACD
-  STRAT_MFI,        // MFI
-  STRAT_MOMENTUM,   // Momentum
-  STRAT_OBV,        // OBV
-  STRAT_OSMA,       // OSMA
-  STRAT_RSI,        // RSI
-  STRAT_RVI,        // RVI
-  STRAT_SAR,        // SAR
-  STRAT_SVE_BB,     // SVE Bollinger Bands
-  STRAT_STDDEV,     // StdDev
-  STRAT_STOCHASTIC, // Stochastic
+  STRAT_MACD,        // MACD
+  STRAT_MFI,         // MFI
+  STRAT_MOMENTUM,    // Momentum
+  STRAT_OBV,         // OBV
+  STRAT_OSMA,        // OSMA
+  STRAT_RSI,         // RSI
+  STRAT_RVI,         // RVI
+  STRAT_SAR,         // SAR
+  STRAT_SAWA,        // SAWA
+  STRAT_STDDEV,      // StdDev
+  STRAT_STOCHASTIC,  // Stochastic
+  STRAT_SVE_BB,      // SVE Bollinger Bands
   // STRAT_TMA_BAND_SVE_TRUE, // TMA Band SVE True
   STRAT_TMA_TRUE, // TMA True
   STRAT_WPR,      // WPR
