@@ -34,9 +34,9 @@
 [submodule "DeMarker"]
 	path = DeMarker
 	url = https://github.com/EA31337/Strategy-DeMarker
-[submodule "ElliotWave"]
+[submodule "ElliottWave"]
 	path = ElliottWave
-	url = https://github.com/EA31337/Strategy-ElliotWave
+	url = https://github.com/EA31337/Strategy-ElliottWave
 [submodule "Envelopes"]
 	path = Envelopes
 	url = https://github.com/EA31337/Strategy-Envelopes
