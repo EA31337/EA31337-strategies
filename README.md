@@ -1,6 +1,6 @@
 # EA31337 strategies
 
-<!--[![Release][github-release-image]][github-release-link]-->
+[![Release][github-release-image]][github-release-link]
 [![License][license-image]][license-link]
 [![Status][gha-image-check-master]][gha-link-check-master]
 [![Status][gha-image-compile-master]][gha-link-compile-master]
@@ -170,7 +170,7 @@ these TERMS OF USE and that you agree to be bound by such Terms of Use ("License
 
 ### Copyright information
 
-Copyright © 2016-2020 – 31337 Investments Ltd - All Rights Reserved
+Copyright © 2016-2020 - 31337 Investments Ltd - All Rights Reserved
 
 Author & Publisher: kenorb at 31337 Investments Ltd.
 
