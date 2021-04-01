@@ -1,15 +1,29 @@
 # EA31337 strategies
 
-<!--[![Release][github-release-image]][github-release-link]-->
-[![License][license-image]][license-link]
+[![Release][github-release-image]][github-release-link]
+[![Channel][tg-channel-image]][tg-channel-link]
+[![Discuss][gh-discuss-badge]][gh-discuss-link]
 [![Status][gha-image-check-master]][gha-link-check-master]
 [![Status][gha-image-compile-master]][gha-link-compile-master]
-[![Status][gha-image-lint-master]][gha-link-lint-master]
-[![Channel][tg-channel-image]][tg-channel-link]
-[![Chat][tg-chat-image]][tg-chat-link]
-[![Edit][gitpod-image]][gitpod-link]
+[![License][license-image]][license-link]
 
-EA31337 strategies.
+EA31337 strategies implementing [EA31337 framework][gh-repo-classes].
+
+## About the project
+
+The project aims to deliver fully working EA strategies at the professional level
+with code compability for MQL4 and MQL5 at the same time.
+
+This project utilizes the following sub-projects:
+
+- [EA31337 framework][gh-repo-classes]
+
+## Dependencies
+
+| Tag      | Framework |
+|:--------:|:---------:|
+| v1.000   | v2.000    |
+| v1.001   | v2.001    |
 
 ## Status
 
@@ -139,6 +153,12 @@ EA31337 strategies.
 | WPR | [![indi][ghid_s_wpr_indi]][ghld_s_wpr_indi] | [![indi][ghid_s_wpr_sopen]][ghld_s_wpr_sopen] | [![indi][ghid_s_wpr_sclose]][ghld_s_wpr_sclose] | [![indi][ghid_s_wpr_tick]][ghld_s_wpr_tick] |
 | ZigZag | [![indi][ghid_s_zigzag_indi]][ghld_s_zigzag_indi] | [![indi][ghid_s_zigzag_sopen]][ghld_s_zigzag_sopen] | [![indi][ghid_s_zigzag_sclose]][ghld_s_zigzag_sclose] | [![indi][ghid_s_zigzag_tick]][ghld_s_zigzag_tick] |
 
+## Support
+
+- For help or ideas, open a [new discussion][gh-discuss-link].
+- For bugs/features, raise a [new issue at GitHub][gh-issues].
+- Join our [Telegram channel][tg-channel-link] for news and discussion group for help.
+
 ## Legal
 
 ### License
@@ -170,7 +190,7 @@ these TERMS OF USE and that you agree to be bound by such Terms of Use ("License
 
 ### Copyright information
 
-Copyright © 2016-2020 – 31337 Investments Ltd - All Rights Reserved
+Copyright © 2016-2020 - 31337 Investments Ltd - All Rights Reserved
 
 Author & Publisher: kenorb at 31337 Investments Ltd.
 
@@ -202,23 +222,24 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [github-release-image]: https://img.shields.io/github/release/EA31337/EA31337-Strategies.svg?logo=github
 [github-release-link]: https://github.com/EA31337/EA31337-Strategies/releases
 
-[license-image]: https://img.shields.io/github/license/EA31337/EA31337-Strategies.svg
-[license-link]: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
+[gh-discuss-badge]: https://img.shields.io/badge/Discussions-Q&A-blue.svg?logo=github
+[gh-discuss-link]: https://github.com/EA31337/EA31337-Strategies/discussions
+
+[gh-issues]: https://github.com/EA31337/EA31337-Strategies/issues
 
 [gha-link-check-master]: https://github.com/EA31337/EA31337-Strategies/actions?query=workflow:Check+branch%3Amaster
 [gha-image-check-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Check/badge.svg?branch=master
 [gha-link-compile-master]: https://github.com/EA31337/EA31337-Strategies/actions?query=workflow:Compile+branch%3Amaster
 [gha-image-compile-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Compile/badge.svg?branch=master
-[gha-link-lint-master]: https://github.com/EA31337/EA31337-Strategies/actions?query=workflow:Lint+branch%3Amaster
-[gha-image-lint-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Lint/badge.svg?branch=master
 
-[tg-channel-image]: https://img.shields.io/badge/Telegram-news-0088CC.svg?logo=telegram
-[tg-channel-link]: https://t.me/EA31337_News
-[tg-chat-image]: https://img.shields.io/badge/Telegram-chat-0088CC.svg?logo=telegram
-[tg-chat-link]: https://t.me/EA31337
+[gh-repo-classes]: https://github.com/EA31337/EA31337-classes
+[gh-repo-strats]: https://github.com/EA31337/EA31337-Strategies
 
-[gitpod-image]: https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod
-[gitpod-link]: https://gitpod.io/#https://github.com/EA31337/EA31337-Strategies
+[tg-channel-image]: https://img.shields.io/badge/Telegram-join-0088CC.svg?logo=telegram
+[tg-channel-link]: https://t.me/EA31337
+
+[license-image]: https://img.shields.io/github/license/EA31337/EA31337-Strategies.svg
+[license-link]: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 [ghlm_s_ac_check]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Check+branch:master
 [ghim_s_ac_check]: https://github.com/EA31337/Strategy-AC/workflows/Check/badge.svg?branch=master
