@@ -5,7 +5,6 @@
 [![Discuss][gh-discuss-badge]][gh-discuss-link]
 [![Status][gha-image-check-master]][gha-link-check-master]
 [![Status][gha-image-compile-master]][gha-link-compile-master]
-[![Status][gha-image-lint-master]][gha-link-lint-master]
 [![License][license-image]][license-link]
 
 EA31337 strategies implementing [EA31337 framework][gh-repo-classes].
@@ -232,8 +231,6 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [gha-image-check-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Check/badge.svg?branch=master
 [gha-link-compile-master]: https://github.com/EA31337/EA31337-Strategies/actions?query=workflow:Compile+branch%3Amaster
 [gha-image-compile-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Compile/badge.svg?branch=master
-[gha-link-lint-master]: https://github.com/EA31337/EA31337-Strategies/actions?query=workflow:Lint+branch%3Amaster
-[gha-image-lint-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Lint/badge.svg?branch=master
 
 [gh-repo-classes]: https://github.com/EA31337/EA31337-classes
 [gh-repo-strats]: https://github.com/EA31337/EA31337-Strategies
