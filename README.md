@@ -1,6 +1,6 @@
 # EA31337 strategies
 
-[![Release][github-release-image]][github-release-link]
+[![Tag][gh-tag-image]][gh-tag-link]
 [![Channel][tg-channel-image]][tg-channel-link]
 [![Discuss][gh-discuss-badge]][gh-discuss-link]
 [![Status][gha-image-check-master]][gha-link-check-master]
@@ -219,13 +219,13 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 
 <!-- Named links -->
 
-[github-release-image]: https://img.shields.io/github/release/EA31337/EA31337-Strategies.svg?logo=github
-[github-release-link]: https://github.com/EA31337/EA31337-Strategies/releases
-
 [gh-discuss-badge]: https://img.shields.io/badge/Discussions-Q&A-blue.svg?logo=github
 [gh-discuss-link]: https://github.com/EA31337/EA31337-Strategies/discussions
 
 [gh-issues]: https://github.com/EA31337/EA31337-Strategies/issues
+
+[gh-tag-image]: https://img.shields.io/github/tag/EA31337/EA31337-Strategies.svg?logo=github
+[gh-tag-link]: https://github.com/EA31337/EA31337-Strategies/tags
 
 [gha-link-check-master]: https://github.com/EA31337/EA31337-Strategies/actions?query=workflow:Check+branch%3Amaster
 [gha-image-check-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Check/badge.svg?branch=master
