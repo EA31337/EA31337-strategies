@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                  EA31337 - multi-strategy advanced trading robot |
-//|                                     Copyright 2016-2021, EA31337 |
+//|                                 Copyright 2016-2021, EA31337 Ltd |
 //|                                       https://github.com/EA31337 |
 //+------------------------------------------------------------------+
 
@@ -54,6 +54,6 @@
 #include "StdDev/Stg_StdDev.mqh"
 #include "Stochastic/Stg_Stochastic.mqh"
 // #include "TMA_Band_SVE_True/Stg_TMA_Band_SVE_True.mqh"
-// #include "TMA_True/Stg_TMA_True.mqh"
+#include "TMA_True/Stg_TMA_True.mqh"
 #include "WPR/Stg_WPR.mqh"
 #include "ZigZag/Stg_ZigZag.mqh"
