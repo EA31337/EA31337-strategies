@@ -33,7 +33,7 @@
 	url = https://github.com/EA31337/Strategy-CCI
 [submodule "DEMA"]
 	path = DEMA
-	url = https://github.com/EA31337/Strategy-DEMA
+	url = https://github.com/EA31337/Strategy-DEMA.git
 [submodule "DeMarker"]
 	path = DeMarker
 	url = https://github.com/EA31337/Strategy-DeMarker
@@ -85,6 +85,9 @@
 [submodule "SAR"]
 	path = SAR
 	url = https://github.com/EA31337/Strategy-SAR
+[submodule "SAWA"]
+	path = SAWA
+	url = https://github.com/EA31337/Strategy-SAWA
 [submodule "SVE_Bollinger_Bands"]
 	path = SVE_Bollinger_Bands
 	url = https://github.com/EA31337/Strategy-SVE_Bollinger_Bands
@@ -97,15 +100,12 @@
 [submodule "TMA_Band_SVE_True"]
 	path = TMA_Band_SVE_True
 	url = https://github.com/EA31337/Strategy-TMA_Band_SVE_True
-[submodule "WPR"]
-	path = WPR
-	url = https://github.com/EA31337/Strategy-WPR
-[submodule "SAWA"]
-	path = SAWA
-	url = https://github.com/EA31337/Strategy-SAWA
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True
+[submodule "WPR"]
+	path = WPR
+	url = https://github.com/EA31337/Strategy-WPR
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag
