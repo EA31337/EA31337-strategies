@@ -26,6 +26,7 @@ This project utilizes the following sub-projects:
 | v1.001   | v2.001    |
 | v1.002   | v2.002    |
 | v1.003   | v2.003    |
+| v1.004   | v2.004    |
 
 ## Status
 
