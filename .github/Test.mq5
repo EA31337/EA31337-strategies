@@ -21,6 +21,7 @@
 
 // Includes EA framework.
 #include <EA31337-classes/EA.mqh>
+#include <EA31337-classes/Pattern.mqh>
 
 // Includes indicator classes.
 #include <EA31337-classes/Indicators/Indi_AC.mqh>
