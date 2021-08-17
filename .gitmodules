@@ -31,6 +31,9 @@
 [submodule "CCI"]
 	path = CCI
 	url = https://github.com/EA31337/Strategy-CCI
+[submodule "Demo"]
+	path = Demo
+	url = https://github.com/EA31337/Strategy-Demo.git
 [submodule "DEMA"]
 	path = DEMA
 	url = https://github.com/EA31337/Strategy-DEMA.git
