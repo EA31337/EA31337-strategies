@@ -21,6 +21,7 @@
 
 // Includes EA framework.
 #include <EA31337-classes/EA.mqh>
+#include <EA31337-classes/Pattern.mqh>
 
 // Includes indicator classes.
 #include <EA31337-classes/Indicators/Indi_AC.mqh>
@@ -34,6 +35,7 @@
 #include <EA31337-classes/Indicators/Indi_BearsPower.mqh>
 #include <EA31337-classes/Indicators/Indi_BullsPower.mqh>
 #include <EA31337-classes/Indicators/Indi_CCI.mqh>
+#include <EA31337-classes/Indicators/Indi_Demo.mqh>
 #include <EA31337-classes/Indicators/Indi_DEMA.mqh>
 #include <EA31337-classes/Indicators/Indi_DeMarker.mqh>
 #include <EA31337-classes/Indicators/Indi_Envelopes.mqh>
@@ -60,5 +62,8 @@
 // Local includes.
 #include "../enum.h"
 #include "../strategies.h"
+
+// Adds Demo strategy.
+#include "../Demo/Stg_Demo.mqh"
 
 int OnInit() { return INIT_SUCCEEDED; }

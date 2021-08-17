@@ -56,7 +56,7 @@ enum ENUM_STRATEGY { // Define list of strategies.
   STRAT_STDDEV,      // StdDev
   STRAT_STOCHASTIC,  // Stochastic
   STRAT_SVE_BB,      // SVE Bollinger Bands
-  // STRAT_TMA_BAND_SVE_TRUE, // TMA Band SVE True
+  STRAT_TMAT_SVEBB, // TMAT SVEBB
   STRAT_TMA_TRUE, // TMA True
   STRAT_WPR,      // WPR
   STRAT_ZIGZAG,   // ZigZag
