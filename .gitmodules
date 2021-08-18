@@ -79,6 +79,9 @@
 [submodule "OsMA"]
 	path = OsMA
 	url = https://github.com/EA31337/Strategy-OsMA
+[submodule "Pattern"]
+	path = Pattern
+	url = https://github.com/EA31337/Strategy-Pattern.git
 [submodule "RSI"]
 	path = RSI
 	url = https://github.com/EA31337/Strategy-RSI

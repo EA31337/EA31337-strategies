@@ -50,6 +50,7 @@
 #include <EA31337-classes/Indicators/Indi_Momentum.mqh>
 #include <EA31337-classes/Indicators/Indi_OBV.mqh>
 #include <EA31337-classes/Indicators/Indi_OsMA.mqh>
+#include <EA31337-classes/Indicators/Indi_Pattern.mqh>
 #include <EA31337-classes/Indicators/Indi_Price.mqh>
 #include <EA31337-classes/Indicators/Indi_RSI.mqh>
 #include <EA31337-classes/Indicators/Indi_RVI.mqh>
