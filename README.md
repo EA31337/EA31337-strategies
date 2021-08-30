@@ -47,6 +47,7 @@ This project utilizes the following sub-projects:
 | BullsPower | [![check][ghim_s_bulls_check]][ghlm_s_bulls_check] | [![check][ghim_s_bulls_compile]][ghlm_s_bulls_compile] | [![check][ghim_s_bulls_bt]][ghlm_s_bulls_bt] |
 | CCI | [![check][ghim_s_cci_check]][ghlm_s_cci_check] | [![check][ghim_s_cci_compile]][ghlm_s_cci_compile] | [![check][ghim_s_cci_bt]][ghlm_s_cci_bt] |
 | DEMA | [![check][ghim_s_dema_check]][ghlm_s_dema_check] | [![check][ghim_s_dema_compile]][ghlm_s_dema_compile] | [![check][ghim_s_dema_bt]][ghlm_s_dema_bt] |
+| Demo | [![check][ghim_s_demo_check]][ghlm_s_demo_check] | [![check][ghim_s_demo_compile]][ghlm_s_demo_compile] | [![check][ghim_s_demo_bt]][ghlm_s_demo_bt] |
 | DeMarker | [![check][ghim_s_dm_check]][ghlm_s_dm_check] | [![check][ghim_s_dm_compile]][ghlm_s_dm_compile] | [![check][ghim_s_dm_bt]][ghlm_s_dm_bt] |
 | ElliottWave | [![check][ghim_s_elliott_check]][ghlm_s_elliott_check] | [![check][ghim_s_elliott_compile]][ghlm_s_elliott_compile] | [![check][ghim_s_elliott_bt]][ghlm_s_elliott_bt] |
 | Envelopes | [![check][ghim_s_env_check]][ghlm_s_env_check] | [![check][ghim_s_env_compile]][ghlm_s_env_compile] | [![check][ghim_s_env_bt]][ghlm_s_env_bt] |
@@ -89,6 +90,7 @@ This project utilizes the following sub-projects:
 | BullsPower | [![check][ghid_s_bulls_check]][ghld_s_bulls_check] | [![check][ghid_s_bulls_compile]][ghld_s_bulls_compile] | [![check][ghid_s_bulls_bt]][ghld_s_bulls_bt] |
 | CCI | [![check][ghid_s_cci_check]][ghld_s_cci_check] | [![check][ghid_s_cci_compile]][ghld_s_cci_compile] | [![check][ghid_s_cci_bt]][ghld_s_cci_bt] |
 | DEMA | [![check][ghid_s_dema_check]][ghld_s_dema_check] | [![check][ghid_s_dema_compile]][ghld_s_dema_compile] | [![check][ghid_s_dema_bt]][ghld_s_dema_bt] |
+| Demo | [![check][ghid_s_demo_check]][ghld_s_demo_check] | [![check][ghid_s_demo_compile]][ghld_s_demo_compile] | [![check][ghid_s_demo_bt]][ghld_s_demo_bt] |
 | DeMarker | [![check][ghid_s_dm_check]][ghld_s_dm_check] | [![check][ghid_s_dm_compile]][ghld_s_dm_compile] | [![check][ghid_s_dm_bt]][ghld_s_dm_bt] |
 | ElliottWave | [![check][ghid_s_elliott_check]][ghld_s_elliott_check] | [![check][ghid_s_elliott_compile]][ghld_s_elliott_compile] | [![check][ghid_s_elliott_bt]][ghld_s_elliott_bt] |
 | Envelopes | [![check][ghid_s_env_check]][ghld_s_env_check] | [![check][ghid_s_env_compile]][ghld_s_env_compile] | [![check][ghid_s_env_bt]][ghld_s_env_bt] |
@@ -496,6 +498,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_dema_sopen]: https://github.com/EA31337/Strategy-DEMA/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
 [ghld_s_dema_sclose]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_dema_sclose]: https://github.com/EA31337/Strategy-DEMA/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
+
+[ghlm_s_demo_check]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Check+branch:master
+[ghim_s_demo_check]: https://github.com/EA31337/Strategy-Demo/workflows/Check/badge.svg?branch=master
+[ghlm_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Compile+branch:master
+[ghim_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/workflows/Compile/badge.svg?branch=master
+[ghlm_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Backtest+branch:master
+[ghim_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_demo_check]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Check+branch:dev
+[ghid_s_demo_check]: https://github.com/EA31337/Strategy-Demo/workflows/Check/badge.svg?branch=dev
+[ghld_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Compile+branch:dev
+[ghid_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/workflows/Compile/badge.svg?branch=dev
+[ghld_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Backtest+branch:dev
+[ghid_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Check+branch:master
 [ghim_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/workflows/Check/badge.svg?branch=master
