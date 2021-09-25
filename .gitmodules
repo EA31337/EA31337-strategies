@@ -106,12 +106,12 @@
 [submodule "Stochastic"]
 	path = Stochastic
 	url = https://github.com/EA31337/Strategy-Stochastic
-[submodule "TMA_Band_SVE_True"]
-	path = TMA_Band_SVE_True
-	url = https://github.com/EA31337/Strategy-TMA_Band_SVE_True
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True
+[submodule "TMAT_SVEBB"]
+	path = TMAT_SVEBB
+	url = https://github.com/EA31337/Strategy-TMAT_SVEBB
 [submodule "WPR"]
 	path = WPR
 	url = https://github.com/EA31337/Strategy-WPR

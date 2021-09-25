@@ -55,7 +55,7 @@
 #include "SVE_Bollinger_Bands/Stg_SVE_Bollinger_Bands.mqh"
 #include "StdDev/Stg_StdDev.mqh"
 #include "Stochastic/Stg_Stochastic.mqh"
-#include "TMA_Band_SVE_True/Stg_TMAT_SVEBB.mqh"
 #include "TMA_True/Stg_TMA_True.mqh"
+#include "TMAT_SVEBB/Stg_TMAT_SVEBB.mqh"
 #include "WPR/Stg_WPR.mqh"
 #include "ZigZag/Stg_ZigZag.mqh"
