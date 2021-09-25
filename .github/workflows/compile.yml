@@ -30,6 +30,7 @@ jobs:
           - AC
           - AD
           - ADX
+          - AMA
           - ATR
           - Alligator
           - Awesome

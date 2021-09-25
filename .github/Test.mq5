@@ -28,6 +28,7 @@
 #include <EA31337-classes/Indicators/Indi_AD.mqh>
 #include <EA31337-classes/Indicators/Indi_ADX.mqh>
 #include <EA31337-classes/Indicators/Indi_ADXW.mqh>
+#include <EA31337-classes/Indicators/Indi_AMA.mqh>
 #include <EA31337-classes/Indicators/Indi_AO.mqh>
 #include <EA31337-classes/Indicators/Indi_ATR.mqh>
 #include <EA31337-classes/Indicators/Indi_Alligator.mqh>

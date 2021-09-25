@@ -7,6 +7,9 @@
 [submodule "ADX"]
 	path = ADX
 	url = https://github.com/EA31337/Strategy-ADX
+[submodule "AMA"]
+	path = AMA
+	url = https://github.com/EA31337/Strategy-AMA.git
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/EA31337/Strategy-ATR
