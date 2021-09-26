@@ -7,6 +7,12 @@
 [submodule "ADX"]
 	path = ADX
 	url = https://github.com/EA31337/Strategy-ADX
+[submodule "AMA"]
+	path = AMA
+	url = https://github.com/EA31337/Strategy-AMA.git
+[submodule "ASI"]
+	path = ASI
+	url = https://github.com/EA31337/Strategy-ASI.git
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/EA31337/Strategy-ATR
@@ -31,6 +37,9 @@
 [submodule "CCI"]
 	path = CCI
 	url = https://github.com/EA31337/Strategy-CCI
+[submodule "Chaikin"]
+	path = Chaikin
+	url = https://github.com/EA31337/Strategy-Chaikin.git
 [submodule "Demo"]
 	path = Demo
 	url = https://github.com/EA31337/Strategy-Demo.git
@@ -82,6 +91,9 @@
 [submodule "Pattern"]
 	path = Pattern
 	url = https://github.com/EA31337/Strategy-Pattern.git
+[submodule "Pivot"]
+	path = Pivot
+	url = https://github.com/EA31337/Strategy-Pivot.git
 [submodule "RSI"]
 	path = RSI
 	url = https://github.com/EA31337/Strategy-RSI
@@ -103,12 +115,12 @@
 [submodule "Stochastic"]
 	path = Stochastic
 	url = https://github.com/EA31337/Strategy-Stochastic
-[submodule "TMA_Band_SVE_True"]
-	path = TMA_Band_SVE_True
-	url = https://github.com/EA31337/Strategy-TMA_Band_SVE_True
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True
+[submodule "TMAT_SVEBB"]
+	path = TMAT_SVEBB
+	url = https://github.com/EA31337/Strategy-TMAT_SVEBB
 [submodule "WPR"]
 	path = WPR
 	url = https://github.com/EA31337/Strategy-WPR

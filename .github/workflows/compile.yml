@@ -30,6 +30,8 @@ jobs:
           - AC
           - AD
           - ADX
+          - AMA
+          - ASI
           - ATR
           - Alligator
           - Awesome
@@ -71,7 +73,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.006
+          ref: v2.007
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
@@ -102,7 +104,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.006
+          ref: v2.007
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master

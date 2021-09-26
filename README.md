@@ -29,6 +29,7 @@ This project utilizes the following sub-projects:
 | v1.004   | v2.004    |
 | v1.005   | v2.005    |
 | v1.006   | v2.006    |
+| v1.007   | v2.007    |
 
 ## Status
 
@@ -39,6 +40,8 @@ This project utilizes the following sub-projects:
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
 | AD | [![check][ghim_s_ad_check]][ghlm_s_ad_check] | [![check][ghim_s_ad_compile]][ghlm_s_ad_compile] | [![check][ghim_s_ad_bt]][ghlm_s_ad_bt] |
 | ADX | [![check][ghim_s_adx_check]][ghlm_s_adx_check] | [![check][ghim_s_adx_compile]][ghlm_s_adx_compile] | [![check][ghim_s_adx_bt]][ghlm_s_adx_bt] |
+| AMA | [![check][ghim_s_ama_check]][ghlm_s_ama_check] | [![check][ghim_s_ama_compile]][ghlm_s_ama_compile] | [![check][ghim_s_ama_bt]][ghlm_s_ama_bt] |
+| ASI | [![check][ghim_s_asi_check]][ghlm_s_asi_check] | [![check][ghim_s_asi_compile]][ghlm_s_asi_compile] | [![check][ghim_s_asi_bt]][ghlm_s_asi_bt] |
 | ATR | [![check][ghim_s_atr_check]][ghlm_s_atr_check] | [![check][ghim_s_atr_compile]][ghlm_s_atr_compile] | [![check][ghim_s_atr_bt]][ghlm_s_atr_bt] |
 | Alligator | [![check][ghim_s_alli_check]][ghlm_s_alli_check] | [![check][ghim_s_alli_compile]][ghlm_s_alli_compile] | [![check][ghim_s_alli_bt]][ghlm_s_alli_bt] |
 | Awesome | [![check][ghim_s_ao_check]][ghlm_s_ao_check] | [![check][ghim_s_ao_compile]][ghlm_s_ao_compile] | [![check][ghim_s_ao_bt]][ghlm_s_ao_bt] |
@@ -63,6 +66,7 @@ This project utilizes the following sub-projects:
 | Momentum | [![check][ghim_s_mom_check]][ghlm_s_mom_check] | [![check][ghim_s_mom_compile]][ghlm_s_mom_compile] | [![check][ghim_s_mom_bt]][ghlm_s_mom_bt] |
 | OBV | [![check][ghim_s_obv_check]][ghlm_s_obv_check] | [![check][ghim_s_obv_compile]][ghlm_s_obv_compile] | [![check][ghim_s_obv_bt]][ghlm_s_obv_bt] |
 | OsMA | [![check][ghim_s_osma_check]][ghlm_s_osma_check] | [![check][ghim_s_osma_compile]][ghlm_s_osma_compile] | [![check][ghim_s_osma_bt]][ghlm_s_osma_bt] |
+| Pivot | [![check][ghim_s_pivot_check]][ghlm_s_pivot_check] | [![check][ghim_s_pivot_compile]][ghlm_s_pivot_compile] | [![check][ghim_s_pivot_bt]][ghlm_s_pivot_bt] |
 | RSI | [![check][ghim_s_rsi_check]][ghlm_s_rsi_check] | [![check][ghim_s_rsi_compile]][ghlm_s_rsi_compile] | [![check][ghim_s_rsi_bt]][ghlm_s_rsi_bt] |
 | RVI | [![check][ghim_s_rvi_check]][ghlm_s_rvi_check] | [![check][ghim_s_rvi_compile]][ghlm_s_rvi_compile] | [![check][ghim_s_rvi_bt]][ghlm_s_rvi_bt] |
 | SAR | [![check][ghim_s_sar_check]][ghlm_s_sar_check] | [![check][ghim_s_sar_compile]][ghlm_s_sar_compile] | [![check][ghim_s_sar_bt]][ghlm_s_sar_bt] |
@@ -70,8 +74,8 @@ This project utilizes the following sub-projects:
 | SVE BB | [![check][ghim_s_svebb_check]][ghlm_s_svebb_check] | [![check][ghim_s_svebb_compile]][ghlm_s_svebb_compile] | [![check][ghim_s_svebb_bt]][ghlm_s_svebb_bt] |
 | StdDev | [![check][ghim_s_stddev_check]][ghlm_s_stddev_check] | [![check][ghim_s_stddev_compile]][ghlm_s_stddev_compile] | [![check][ghim_s_stddev_bt]][ghlm_s_stddev_bt] |
 | Stochastic | [![check][ghim_s_stoch_check]][ghlm_s_stoch_check] | [![check][ghim_s_stoch_compile]][ghlm_s_stoch_compile] | [![check][ghim_s_stoch_bt]][ghlm_s_stoch_bt] |
-| TMA Band SVE True | [![check][ghim_s_tmabsvet_check]][ghlm_s_tmabsvet_check] | [![check][ghim_s_tmabsvet_compile]][ghlm_s_tmabsvet_compile] | [![check][ghim_s_tmabsvet_bt]][ghlm_s_tmabsvet_bt] |
 | TMA True | [![check][ghim_s_tmatrue_check]][ghlm_s_tmatrue_check] | [![check][ghim_s_tmatrue_compile]][ghlm_s_tmatrue_compile] | [![check][ghim_s_tmatrue_bt]][ghlm_s_tmatrue_bt] |
+| TMAT SVEBB | [![check][ghim_s_tmatsvebb_check]][ghlm_s_tmatsvebb_check] | [![check][ghim_s_tmatsvebb_compile]][ghlm_s_tmatsvebb_compile] | [![check][ghim_s_tmatsvebb_bt]][ghlm_s_tmatsvebb_bt] |
 | WPR | [![check][ghim_s_wpr_check]][ghlm_s_wpr_check] | [![check][ghim_s_wpr_compile]][ghlm_s_wpr_compile] | [![check][ghim_s_wpr_bt]][ghlm_s_wpr_bt] |
 | ZigZag | [![check][ghim_s_zigzag_check]][ghlm_s_zigzag_check] | [![check][ghim_s_zigzag_compile]][ghlm_s_zigzag_compile] | [![check][ghim_s_zigzag_bt]][ghlm_s_zigzag_bt] |
 
@@ -82,6 +86,8 @@ This project utilizes the following sub-projects:
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
 | AD | [![check][ghid_s_ad_check]][ghld_s_ad_check] | [![check][ghid_s_ad_compile]][ghld_s_ad_compile] | [![check][ghid_s_ad_bt]][ghld_s_ad_bt] |
 | ADX | [![check][ghid_s_adx_check]][ghld_s_adx_check] | [![check][ghid_s_adx_compile]][ghld_s_adx_compile] | [![check][ghid_s_adx_bt]][ghld_s_adx_bt] |
+| AMA | [![check][ghid_s_ama_check]][ghld_s_ama_check] | [![check][ghid_s_ama_compile]][ghld_s_ama_compile] | [![check][ghid_s_ama_bt]][ghld_s_ama_bt] |
+| ASI | [![check][ghid_s_asi_check]][ghld_s_asi_check] | [![check][ghid_s_asi_compile]][ghld_s_asi_compile] | [![check][ghid_s_asi_bt]][ghld_s_asi_bt] |
 | ATR | [![check][ghid_s_atr_check]][ghld_s_atr_check] | [![check][ghid_s_atr_compile]][ghld_s_atr_compile] | [![check][ghid_s_atr_bt]][ghld_s_atr_bt] |
 | Alligator | [![check][ghid_s_alli_check]][ghld_s_alli_check] | [![check][ghid_s_alli_compile]][ghld_s_alli_compile] | [![check][ghid_s_alli_bt]][ghld_s_alli_bt] |
 | Awesome | [![check][ghid_s_ao_check]][ghld_s_ao_check] | [![check][ghid_s_ao_compile]][ghld_s_ao_compile] | [![check][ghid_s_ao_bt]][ghld_s_ao_bt] |
@@ -106,6 +112,7 @@ This project utilizes the following sub-projects:
 | Momentum | [![check][ghid_s_mom_check]][ghld_s_mom_check] | [![check][ghid_s_mom_compile]][ghld_s_mom_compile] | [![check][ghid_s_mom_bt]][ghld_s_mom_bt] |
 | OBV | [![check][ghid_s_obv_check]][ghld_s_obv_check] | [![check][ghid_s_obv_compile]][ghld_s_obv_compile] | [![check][ghid_s_obv_bt]][ghld_s_obv_bt] |
 | OsMA | [![check][ghid_s_osma_check]][ghld_s_osma_check] | [![check][ghid_s_osma_compile]][ghld_s_osma_compile] | [![check][ghid_s_osma_bt]][ghld_s_osma_bt] |
+| Pivot | [![check][ghid_s_pivot_check]][ghld_s_pivot_check] | [![check][ghid_s_pivot_compile]][ghld_s_pivot_compile] | [![check][ghid_s_pivot_bt]][ghld_s_pivot_bt] |
 | RSI | [![check][ghid_s_rsi_check]][ghld_s_rsi_check] | [![check][ghid_s_rsi_compile]][ghld_s_rsi_compile] | [![check][ghid_s_rsi_bt]][ghld_s_rsi_bt] |
 | RVI | [![check][ghid_s_rvi_check]][ghld_s_rvi_check] | [![check][ghid_s_rvi_compile]][ghld_s_rvi_compile] | [![check][ghid_s_rvi_bt]][ghld_s_rvi_bt] |
 | SAR | [![check][ghid_s_sar_check]][ghld_s_sar_check] | [![check][ghid_s_sar_compile]][ghld_s_sar_compile] | [![check][ghid_s_sar_bt]][ghld_s_sar_bt] |
@@ -113,8 +120,8 @@ This project utilizes the following sub-projects:
 | SVE BB | [![check][ghid_s_svebb_check]][ghld_s_svebb_check] | [![check][ghid_s_svebb_compile]][ghld_s_svebb_compile] | [![check][ghid_s_svebb_bt]][ghld_s_svebb_bt] |
 | StdDev | [![check][ghid_s_stddev_check]][ghld_s_stddev_check] | [![check][ghid_s_stddev_compile]][ghld_s_stddev_compile] | [![check][ghid_s_stddev_bt]][ghld_s_stddev_bt] |
 | Stochastic | [![check][ghid_s_stoch_check]][ghld_s_stoch_check] | [![check][ghid_s_stoch_compile]][ghld_s_stoch_compile] | [![check][ghid_s_stoch_bt]][ghld_s_stoch_bt] |
-| TMA Band SVE True | [![check][ghid_s_tmabsvet_check]][ghld_s_tmabsvet_check] | [![check][ghid_s_tmabsvet_compile]][ghld_s_tmabsvet_compile] | [![check][ghid_s_tmabsvet_bt]][ghld_s_tmabsvet_bt] |
 | TMA True | [![check][ghid_s_tmatrue_check]][ghld_s_tmatrue_check] | [![check][ghid_s_tmatrue_compile]][ghld_s_tmatrue_compile] | [![check][ghid_s_tmatrue_bt]][ghld_s_tmatrue_bt] |
+| TMAT SVEBB | [![check][ghid_s_tmatsvebb_check]][ghld_s_tmatsvebb_check] | [![check][ghid_s_tmatsvebb_compile]][ghld_s_tmatsvebb_compile] | [![check][ghid_s_tmatsvebb_bt]][ghld_s_tmatsvebb_bt] |
 | WPR | [![check][ghid_s_wpr_check]][ghld_s_wpr_check] | [![check][ghid_s_wpr_compile]][ghld_s_wpr_compile] | [![check][ghid_s_wpr_bt]][ghld_s_wpr_bt] |
 | ZigZag | [![check][ghid_s_zigzag_check]][ghld_s_zigzag_check] | [![check][ghid_s_zigzag_compile]][ghld_s_zigzag_compile] | [![check][ghid_s_zigzag_bt]][ghld_s_zigzag_bt] |
 
@@ -155,8 +162,8 @@ This project utilizes the following sub-projects:
 | SVE BB | [![indi][ghid_s_svebb_indi]][ghld_s_svebb_indi] | [![indi][ghid_s_svebb_sopen]][ghld_s_svebb_sopen] | [![indi][ghid_s_svebb_sclose]][ghld_s_svebb_sclose] |
 | StdDev | [![indi][ghid_s_stddev_indi]][ghld_s_stddev_indi] | [![indi][ghid_s_stddev_sopen]][ghld_s_stddev_sopen] | [![indi][ghid_s_stddev_sclose]][ghld_s_stddev_sclose] |
 | Stochastic | [![indi][ghid_s_stoch_indi]][ghld_s_stoch_indi] | [![indi][ghid_s_stoch_sopen]][ghld_s_stoch_sopen] | [![indi][ghid_s_stoch_sclose]][ghld_s_stoch_sclose] |
-| TMA Band SVE True | [![indi][ghid_s_tmabsvet_indi]][ghld_s_tmabsvet_indi] | [![indi][ghid_s_tmabsvet_sopen]][ghld_s_tmabsvet_sopen] | [![indi][ghid_s_tmabsvet_sclose]][ghld_s_tmabsvet_sclose] |
 | TMA True | [![indi][ghid_s_tmatrue_indi]][ghld_s_tmatrue_indi] | [![indi][ghid_s_tmatrue_sopen]][ghld_s_tmatrue_sopen] | [![indi][ghid_s_tmatrue_sclose]][ghld_s_tmatrue_sclose] |
+| TMAT SVEBB | [![indi][ghid_s_tmatsvebb_indi]][ghld_s_tmatsvebb_indi] | [![indi][ghid_s_tmatsvebb_sopen]][ghld_s_tmatsvebb_sopen] | [![indi][ghid_s_tmatsvebb_sclose]][ghld_s_tmatsvebb_sclose] |
 | WPR | [![indi][ghid_s_wpr_indi]][ghld_s_wpr_indi] | [![indi][ghid_s_wpr_sopen]][ghld_s_wpr_sopen] | [![indi][ghid_s_wpr_sclose]][ghld_s_wpr_sclose] |
 | ZigZag | [![indi][ghid_s_zigzag_indi]][ghld_s_zigzag_indi] | [![indi][ghid_s_zigzag_sopen]][ghld_s_zigzag_sopen] | [![indi][ghid_s_zigzag_sclose]][ghld_s_zigzag_sclose] |
 
@@ -303,6 +310,34 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_adx_compile]: https://github.com/EA31337/Strategy-ADX/workflows/Compile/badge.svg?branch=dev
 [ghld_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Backtest+branch:dev
 [ghid_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_ama_check]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Check+branch:master
+[ghim_s_ama_check]: https://github.com/EA31337/Strategy-AMA/workflows/Check/badge.svg?branch=master
+[ghlm_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Compile+branch:master
+[ghim_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/workflows/Compile/badge.svg?branch=master
+[ghlm_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Backtest+branch:master
+[ghim_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_ama_check]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Check+branch:dev
+[ghid_s_ama_check]: https://github.com/EA31337/Strategy-AMA/workflows/Check/badge.svg?branch=dev
+[ghld_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Compile+branch:dev
+[ghid_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/workflows/Compile/badge.svg?branch=dev
+[ghld_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Backtest+branch:dev
+[ghid_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_asi_check]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Check+branch:master
+[ghim_s_asi_check]: https://github.com/EA31337/Strategy-ASI/workflows/Check/badge.svg?branch=master
+[ghlm_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Compile+branch:master
+[ghim_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/workflows/Compile/badge.svg?branch=master
+[ghlm_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Backtest+branch:master
+[ghim_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_asi_check]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Check+branch:dev
+[ghid_s_asi_check]: https://github.com/EA31337/Strategy-ASI/workflows/Check/badge.svg?branch=dev
+[ghld_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Compile+branch:dev
+[ghid_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/workflows/Compile/badge.svg?branch=dev
+[ghld_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Backtest+branch:dev
+[ghid_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/workflows/Backtest/badge.svg?branch=dev
 
 [ghld_s_adx_indi]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:"Optimize+Indicator+params"+branch:optimize-indi
 [ghid_s_adx_indi]: https://github.com/EA31337/Strategy-ADX/workflows/Optimize%20Indicator%20params/badge.svg?branch=optimize-indi
@@ -808,6 +843,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghld_s_osma_sclose]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_osma_sclose]: https://github.com/EA31337/Strategy-OsMA/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
 
+[ghlm_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Check+branch:master
+[ghim_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/workflows/Check/badge.svg?branch=master
+[ghlm_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Compile+branch:master
+[ghim_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/workflows/Compile/badge.svg?branch=master
+[ghlm_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Backtest+branch:master
+[ghim_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Check+branch:dev
+[ghid_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/workflows/Check/badge.svg?branch=dev
+[ghld_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Compile+branch:dev
+[ghid_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/workflows/Compile/badge.svg?branch=dev
+[ghld_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Backtest+branch:dev
+[ghid_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/workflows/Backtest/badge.svg?branch=dev
+
 [ghlm_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Check+branch:master
 [ghim_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/workflows/Check/badge.svg?branch=master
 [ghlm_s_rsi_compile]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Compile+branch:master
@@ -934,27 +983,6 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghld_s_stoch_sclose]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_stoch_sclose]: https://github.com/EA31337/Strategy-Stochastic/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
 
-[ghlm_s_tmabsvet_check]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:Check+branch:master
-[ghim_s_tmabsvet_check]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Check/badge.svg?branch=master
-[ghlm_s_tmabsvet_compile]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:Compile+branch:master
-[ghim_s_tmabsvet_compile]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Compile/badge.svg?branch=master
-[ghlm_s_tmabsvet_bt]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:Backtest+branch:master
-[ghim_s_tmabsvet_bt]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Backtest/badge.svg?branch=master
-
-[ghld_s_tmabsvet_check]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:Check+branch:dev
-[ghid_s_tmabsvet_check]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Check/badge.svg?branch=dev
-[ghld_s_tmabsvet_compile]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:Compile+branch:dev
-[ghid_s_tmabsvet_compile]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Compile/badge.svg?branch=dev
-[ghld_s_tmabsvet_bt]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:Backtest+branch:dev
-[ghid_s_tmabsvet_bt]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Backtest/badge.svg?branch=dev
-
-[ghld_s_tmabsvet_indi]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:"Optimize+Indicator+params"+branch:optimize-indi
-[ghid_s_tmabsvet_indi]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Optimize%20Indicator%20params/badge.svg?branch=optimize-indi
-[ghld_s_tmabsvet_sopen]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:"Optimize+SignalOpen+params"+branch:optimize-signalopen
-[ghid_s_tmabsvet_sopen]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
-[ghld_s_tmabsvet_sclose]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
-[ghid_s_tmabsvet_sclose]: https://github.com/EA31337/Strategy-TMA_Band_SVE_True/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
-
 [ghlm_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Check+branch:master
 [ghim_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/workflows/Check/badge.svg?branch=master
 [ghlm_s_tmatrue_compile]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Compile+branch:master
@@ -975,6 +1003,27 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_tmatrue_sopen]: https://github.com/EA31337/Strategy-TMA_True/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
 [ghld_s_tmatrue_sclose]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_tmatrue_sclose]: https://github.com/EA31337/Strategy-TMA_True/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
+
+[ghlm_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Check+branch:master
+[ghim_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Check/badge.svg?branch=master
+[ghlm_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Compile+branch:master
+[ghim_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Compile/badge.svg?branch=master
+[ghlm_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Backtest+branch:master
+[ghim_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Check+branch:dev
+[ghid_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Check/badge.svg?branch=dev
+[ghld_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Compile+branch:dev
+[ghid_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Compile/badge.svg?branch=dev
+[ghld_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Backtest+branch:dev
+[ghid_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Backtest/badge.svg?branch=dev
+
+[ghld_s_tmatsvebb_indi]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:"Optimize+Indicator+params"+branch:optimize-indi
+[ghid_s_tmatsvebb_indi]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Optimize%20Indicator%20params/badge.svg?branch=optimize-indi
+[ghld_s_tmatsvebb_sopen]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:"Optimize+SignalOpen+params"+branch:optimize-signalopen
+[ghid_s_tmatsvebb_sopen]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
+[ghld_s_tmatsvebb_sclose]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
+[ghid_s_tmatsvebb_sclose]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
 
 [ghlm_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Check+branch:master
 [ghim_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/workflows/Check/badge.svg?branch=master
