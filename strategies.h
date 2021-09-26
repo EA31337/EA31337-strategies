@@ -33,6 +33,7 @@
 #include "BearsPower/Stg_BearsPower.mqh"
 #include "BullsPower/Stg_BullsPower.mqh"
 #include "CCI/Stg_CCI.mqh"
+#include "Chaikin/Stg_Chaikin.mqh"
 #include "DEMA/Stg_DEMA.mqh"
 #include "DeMarker/Stg_DeMarker.mqh"
 #include "ElliottWave/Stg_ElliottWave.mqh"

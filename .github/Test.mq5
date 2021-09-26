@@ -38,6 +38,7 @@
 #include <EA31337-classes/Indicators/Indi_BearsPower.mqh>
 #include <EA31337-classes/Indicators/Indi_BullsPower.mqh>
 #include <EA31337-classes/Indicators/Indi_CCI.mqh>
+#include <EA31337-classes/Indicators/Indi_CHO.mqh>
 #include <EA31337-classes/Indicators/Indi_Demo.mqh>
 #include <EA31337-classes/Indicators/Indi_DEMA.mqh>
 #include <EA31337-classes/Indicators/Indi_DeMarker.mqh>
