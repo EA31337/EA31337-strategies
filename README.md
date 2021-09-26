@@ -40,6 +40,8 @@ This project utilizes the following sub-projects:
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
 | AD | [![check][ghim_s_ad_check]][ghlm_s_ad_check] | [![check][ghim_s_ad_compile]][ghlm_s_ad_compile] | [![check][ghim_s_ad_bt]][ghlm_s_ad_bt] |
 | ADX | [![check][ghim_s_adx_check]][ghlm_s_adx_check] | [![check][ghim_s_adx_compile]][ghlm_s_adx_compile] | [![check][ghim_s_adx_bt]][ghlm_s_adx_bt] |
+| AMA | [![check][ghim_s_ama_check]][ghlm_s_ama_check] | [![check][ghim_s_ama_compile]][ghlm_s_ama_compile] | [![check][ghim_s_ama_bt]][ghlm_s_ama_bt] |
+| ASI | [![check][ghim_s_asi_check]][ghlm_s_asi_check] | [![check][ghim_s_asi_compile]][ghlm_s_asi_compile] | [![check][ghim_s_asi_bt]][ghlm_s_asi_bt] |
 | ATR | [![check][ghim_s_atr_check]][ghlm_s_atr_check] | [![check][ghim_s_atr_compile]][ghlm_s_atr_compile] | [![check][ghim_s_atr_bt]][ghlm_s_atr_bt] |
 | Alligator | [![check][ghim_s_alli_check]][ghlm_s_alli_check] | [![check][ghim_s_alli_compile]][ghlm_s_alli_compile] | [![check][ghim_s_alli_bt]][ghlm_s_alli_bt] |
 | Awesome | [![check][ghim_s_ao_check]][ghlm_s_ao_check] | [![check][ghim_s_ao_compile]][ghlm_s_ao_compile] | [![check][ghim_s_ao_bt]][ghlm_s_ao_bt] |
@@ -83,6 +85,8 @@ This project utilizes the following sub-projects:
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
 | AD | [![check][ghid_s_ad_check]][ghld_s_ad_check] | [![check][ghid_s_ad_compile]][ghld_s_ad_compile] | [![check][ghid_s_ad_bt]][ghld_s_ad_bt] |
 | ADX | [![check][ghid_s_adx_check]][ghld_s_adx_check] | [![check][ghid_s_adx_compile]][ghld_s_adx_compile] | [![check][ghid_s_adx_bt]][ghld_s_adx_bt] |
+| AMA | [![check][ghid_s_ama_check]][ghld_s_ama_check] | [![check][ghid_s_ama_compile]][ghld_s_ama_compile] | [![check][ghid_s_ama_bt]][ghld_s_ama_bt] |
+| ASI | [![check][ghid_s_asi_check]][ghld_s_asi_check] | [![check][ghid_s_asi_compile]][ghld_s_asi_compile] | [![check][ghid_s_asi_bt]][ghld_s_asi_bt] |
 | ATR | [![check][ghid_s_atr_check]][ghld_s_atr_check] | [![check][ghid_s_atr_compile]][ghld_s_atr_compile] | [![check][ghid_s_atr_bt]][ghld_s_atr_bt] |
 | Alligator | [![check][ghid_s_alli_check]][ghld_s_alli_check] | [![check][ghid_s_alli_compile]][ghld_s_alli_compile] | [![check][ghid_s_alli_bt]][ghld_s_alli_bt] |
 | Awesome | [![check][ghid_s_ao_check]][ghld_s_ao_check] | [![check][ghid_s_ao_compile]][ghld_s_ao_compile] | [![check][ghid_s_ao_bt]][ghld_s_ao_bt] |
@@ -304,6 +308,34 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_adx_compile]: https://github.com/EA31337/Strategy-ADX/workflows/Compile/badge.svg?branch=dev
 [ghld_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Backtest+branch:dev
 [ghid_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_ama_check]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Check+branch:master
+[ghim_s_ama_check]: https://github.com/EA31337/Strategy-AMA/workflows/Check/badge.svg?branch=master
+[ghlm_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Compile+branch:master
+[ghim_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/workflows/Compile/badge.svg?branch=master
+[ghlm_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Backtest+branch:master
+[ghim_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_ama_check]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Check+branch:dev
+[ghid_s_ama_check]: https://github.com/EA31337/Strategy-AMA/workflows/Check/badge.svg?branch=dev
+[ghld_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Compile+branch:dev
+[ghid_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/workflows/Compile/badge.svg?branch=dev
+[ghld_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Backtest+branch:dev
+[ghid_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_asi_check]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Check+branch:master
+[ghim_s_asi_check]: https://github.com/EA31337/Strategy-ASI/workflows/Check/badge.svg?branch=master
+[ghlm_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Compile+branch:master
+[ghim_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/workflows/Compile/badge.svg?branch=master
+[ghlm_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Backtest+branch:master
+[ghim_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_asi_check]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Check+branch:dev
+[ghid_s_asi_check]: https://github.com/EA31337/Strategy-ASI/workflows/Check/badge.svg?branch=dev
+[ghld_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Compile+branch:dev
+[ghid_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/workflows/Compile/badge.svg?branch=dev
+[ghld_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Backtest+branch:dev
+[ghid_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/workflows/Backtest/badge.svg?branch=dev
 
 [ghld_s_adx_indi]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:"Optimize+Indicator+params"+branch:optimize-indi
 [ghid_s_adx_indi]: https://github.com/EA31337/Strategy-ADX/workflows/Optimize%20Indicator%20params/badge.svg?branch=optimize-indi

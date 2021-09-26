@@ -10,6 +10,9 @@
 [submodule "AMA"]
 	path = AMA
 	url = https://github.com/EA31337/Strategy-AMA.git
+[submodule "ASI"]
+	path = ASI
+	url = https://github.com/EA31337/Strategy-ASI.git
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/EA31337/Strategy-ATR

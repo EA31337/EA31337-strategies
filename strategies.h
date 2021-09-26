@@ -24,6 +24,7 @@
 #include "AD/Stg_AD.mqh"
 #include "ADX/Stg_ADX.mqh"
 #include "AMA/Stg_AMA.mqh"
+#include "ASI/Stg_ASI.mqh"
 #include "ATR/Stg_ATR.mqh"
 #include "Alligator/Stg_Alligator.mqh"
 #include "Awesome/Stg_Awesome.mqh"

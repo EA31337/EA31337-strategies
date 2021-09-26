@@ -28,6 +28,7 @@ enum ENUM_STRATEGY { // Define list of strategies.
   STRAT_ADX,         // ADX
   STRAT_ALLIGATOR,   // Alligator
   STRAT_AMA,         // AMA
+  STRAT_ASI,         // ASI
   STRAT_ATR,         // ATR
   STRAT_AWESOME,     // Awesome
   STRAT_BANDS,       // Bands
