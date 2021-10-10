@@ -73,7 +73,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.007
+          ref: b6f803a022fac2ae68e2685285bc75a668a0300f
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
@@ -104,7 +104,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.007
+          ref: b6f803a022fac2ae68e2685285bc75a668a0300f
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
