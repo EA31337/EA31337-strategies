@@ -21,49 +21,49 @@
 
 // Defines enum with supported strategy list.
 #ifndef ENUM_STRATEGY_DEFINED
-enum ENUM_STRATEGY { // Define list of strategies.
-  STRAT_NONE = 0,    // (None)
-  STRAT_AC,          // AC
-  STRAT_AD,          // AD
-  STRAT_ADX,         // ADX
-  STRAT_ALLIGATOR,   // Alligator
-  STRAT_AMA,         // AMA
-  STRAT_ASI,         // ASI
-  STRAT_ATR,         // ATR
-  STRAT_AWESOME,     // Awesome
-  STRAT_BANDS,       // Bands
-  STRAT_BEARS_POWER, // Bear Power
-  STRAT_BULLS_POWER, // Bulls Power
-  STRAT_BWMFI,       // BWMFI
-  STRAT_CCI,         // CCI
-  STRAT_DEMA,        // DEMA
-  STRAT_DEMARKER,    // DeMarker
-  STRAT_ENVELOPES,   // Envelopes
-  STRAT_EWO,         // ElliottWave
-  STRAT_FORCE,       // Force
-  STRAT_FRACTALS,    // Fractals
-  STRAT_GATOR,       // Gator
-  STRAT_HEIKEN_ASHI, // Heiken Ashi
-  STRAT_ICHIMOKU,    // Ichimoku
-  STRAT_MA,          // MA
-  STRAT_MACD,        // MACD
-  STRAT_MFI,         // MFI
-  STRAT_MOMENTUM,    // Momentum
-  STRAT_OBV,         // OBV
-  STRAT_OSMA,        // OSMA
-  STRAT_PATTERN,     // Pattern
-  STRAT_PIVOT,       // Pivot
-  STRAT_RSI,         // RSI
-  STRAT_RVI,         // RVI
-  STRAT_SAR,         // SAR
-  STRAT_SAWA,        // SAWA
-  STRAT_STDDEV,      // StdDev
-  STRAT_STOCHASTIC,  // Stochastic
-  STRAT_SVE_BB,      // SVE Bollinger Bands
-  STRAT_TMAT_SVEBB, // TMAT SVEBB
-  STRAT_TMA_TRUE, // TMA True
-  STRAT_WPR,      // WPR
-  STRAT_ZIGZAG,   // ZigZag
+enum ENUM_STRATEGY {  // Define list of strategies.
+  STRAT_NONE = 0,     // (None)
+  STRAT_AC,           // AC
+  STRAT_AD,           // AD
+  STRAT_ADX,          // ADX
+  STRAT_ALLIGATOR,    // Alligator
+  STRAT_AMA,          // AMA
+  STRAT_ASI,          // ASI
+  STRAT_ATR,          // ATR
+  STRAT_AWESOME,      // Awesome
+  STRAT_BANDS,        // Bands
+  STRAT_BEARS_POWER,  // Bear Power
+  STRAT_BULLS_POWER,  // Bulls Power
+  STRAT_BWMFI,        // BWMFI
+  STRAT_CCI,          // CCI
+  STRAT_DEMA,         // DEMA
+  STRAT_DEMARKER,     // DeMarker
+  STRAT_ENVELOPES,    // Envelopes
+  STRAT_EWO,          // ElliottWave
+  STRAT_FORCE,        // Force
+  STRAT_FRACTALS,     // Fractals
+  STRAT_GATOR,        // Gator
+  STRAT_HEIKEN_ASHI,  // Heiken Ashi
+  STRAT_ICHIMOKU,     // Ichimoku
+  STRAT_MA,           // MA
+  STRAT_MACD,         // MACD
+  STRAT_MFI,          // MFI
+  STRAT_MOMENTUM,     // Momentum
+  STRAT_OBV,          // OBV
+  STRAT_OSMA,         // OSMA
+  STRAT_PATTERN,      // Pattern
+  STRAT_PIVOT,        // Pivot
+  STRAT_RSI,          // RSI
+  STRAT_RVI,          // RVI
+  STRAT_SAR,          // SAR
+  STRAT_SAWA,         // SAWA
+  STRAT_STDDEV,       // StdDev
+  STRAT_STOCHASTIC,   // Stochastic
+  STRAT_SVE_BB,       // SVE Bollinger Bands
+  STRAT_TMAT_SVEBB,   // TMAT SVEBB
+  STRAT_TMA_TRUE,     // TMA True
+  STRAT_WPR,          // WPR
+  STRAT_ZIGZAG,       // ZigZag
 };
 #define ENUM_STRATEGY_DEFINED
 #endif

@@ -39,9 +39,9 @@
 #include <EA31337-classes/Indicators/Indi_BullsPower.mqh>
 #include <EA31337-classes/Indicators/Indi_CCI.mqh>
 #include <EA31337-classes/Indicators/Indi_CHO.mqh>
-#include <EA31337-classes/Indicators/Indi_Demo.mqh>
 #include <EA31337-classes/Indicators/Indi_DEMA.mqh>
 #include <EA31337-classes/Indicators/Indi_DeMarker.mqh>
+#include <EA31337-classes/Indicators/Indi_Demo.mqh>
 #include <EA31337-classes/Indicators/Indi_Envelopes.mqh>
 #include <EA31337-classes/Indicators/Indi_Force.mqh>
 #include <EA31337-classes/Indicators/Indi_Fractals.mqh>
