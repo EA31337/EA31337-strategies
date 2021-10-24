@@ -75,6 +75,11 @@ jobs:
           path: Include/EA31337-classes
           ref: v2.008
           repository: EA31337/EA31337-classes
+      - uses: actions/checkout@v2
+        with:
+          path: ./${{ matrix.name }}/Indicators/Include/EA31337-classes
+          ref: v2.008
+          repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
         with:
