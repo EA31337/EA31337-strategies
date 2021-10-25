@@ -16,6 +16,9 @@
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/EA31337/Strategy-ATR
+[submodule "ATR_MA_Trend"]
+	path = ATR_MA_Trend
+	url = https://github.com/EA31337/Strategy-ATR_MA_Trend.git
 [submodule "Alligator"]
 	path = Alligator
 	url = https://github.com/EA31337/Strategy-Alligator
