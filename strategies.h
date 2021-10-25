@@ -26,6 +26,7 @@
 #include "AMA/Stg_AMA.mqh"
 #include "ASI/Stg_ASI.mqh"
 #include "ATR/Stg_ATR.mqh"
+#include "ATR_MA_Trend/Stg_ATR_MA_Trend.mqh"
 #include "Alligator/Stg_Alligator.mqh"
 #include "Awesome/Stg_Awesome.mqh"
 #include "BWMFI/Stg_BWMFI.mqh"
