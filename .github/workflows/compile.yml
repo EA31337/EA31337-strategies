@@ -33,6 +33,7 @@ jobs:
           - AMA
           - ASI
           - ATR
+          - ATR_MA_Trend
           - Alligator
           - Awesome
           - BWMFI
@@ -73,12 +74,12 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.008
+          ref: 39517ac1f9860777a1320b9a7a7dcc9ed3f49186
           repository: EA31337/EA31337-classes
       - uses: actions/checkout@v2
         with:
           path: ./${{ matrix.name }}/Indicators/Include/EA31337-classes
-          ref: v2.008
+          ref: 39517ac1f9860777a1320b9a7a7dcc9ed3f49186
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
@@ -109,7 +110,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.008
+          ref: 39517ac1f9860777a1320b9a7a7dcc9ed3f49186
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master

@@ -24,46 +24,11 @@
 #include <EA31337-classes/Pattern.mqh>
 
 // Includes indicator classes.
-#include <EA31337-classes/Indicators/Indi_AC.mqh>
-#include <EA31337-classes/Indicators/Indi_AD.mqh>
-#include <EA31337-classes/Indicators/Indi_ADX.mqh>
-#include <EA31337-classes/Indicators/Indi_ADXW.mqh>
-#include <EA31337-classes/Indicators/Indi_AMA.mqh>
-#include <EA31337-classes/Indicators/Indi_AO.mqh>
-#include <EA31337-classes/Indicators/Indi_ASI.mqh>
-#include <EA31337-classes/Indicators/Indi_ATR.mqh>
-#include <EA31337-classes/Indicators/Indi_Alligator.mqh>
-#include <EA31337-classes/Indicators/Indi_BWMFI.mqh>
-#include <EA31337-classes/Indicators/Indi_Bands.mqh>
-#include <EA31337-classes/Indicators/Indi_BearsPower.mqh>
-#include <EA31337-classes/Indicators/Indi_BullsPower.mqh>
-#include <EA31337-classes/Indicators/Indi_CCI.mqh>
-#include <EA31337-classes/Indicators/Indi_CHO.mqh>
-#include <EA31337-classes/Indicators/Indi_DEMA.mqh>
-#include <EA31337-classes/Indicators/Indi_DeMarker.mqh>
-#include <EA31337-classes/Indicators/Indi_Demo.mqh>
-#include <EA31337-classes/Indicators/Indi_Envelopes.mqh>
-#include <EA31337-classes/Indicators/Indi_Force.mqh>
-#include <EA31337-classes/Indicators/Indi_Fractals.mqh>
-#include <EA31337-classes/Indicators/Indi_Gator.mqh>
-#include <EA31337-classes/Indicators/Indi_HeikenAshi.mqh>
-#include <EA31337-classes/Indicators/Indi_Ichimoku.mqh>
-#include <EA31337-classes/Indicators/Indi_MA.mqh>
-#include <EA31337-classes/Indicators/Indi_MACD.mqh>
-#include <EA31337-classes/Indicators/Indi_MFI.mqh>
-#include <EA31337-classes/Indicators/Indi_Momentum.mqh>
-#include <EA31337-classes/Indicators/Indi_OBV.mqh>
-#include <EA31337-classes/Indicators/Indi_OsMA.mqh>
-#include <EA31337-classes/Indicators/Indi_Pattern.mqh>
-#include <EA31337-classes/Indicators/Indi_Pivot.mqh>
-#include <EA31337-classes/Indicators/Indi_Price.mqh>
-#include <EA31337-classes/Indicators/Indi_RSI.mqh>
-#include <EA31337-classes/Indicators/Indi_RVI.mqh>
-#include <EA31337-classes/Indicators/Indi_SAR.mqh>
-#include <EA31337-classes/Indicators/Indi_StdDev.mqh>
-#include <EA31337-classes/Indicators/Indi_Stochastic.mqh>
-#include <EA31337-classes/Indicators/Indi_WPR.mqh>
-#include <EA31337-classes/Indicators/Indi_ZigZag.mqh>
+#include <EA31337-classes/Indicators/indicators.h>
+#include <EA31337-classes/Indicators/Bitwise/indicators.h>
+#include <EA31337-classes/Indicators/OHLC/indicators.h>
+#include <EA31337-classes/Indicators/Price/indicators.h>
+#include <EA31337-classes/Indicators/Special/indicators.h>
 
 // Local includes.
 #include "../enum.h"
