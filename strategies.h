@@ -58,6 +58,7 @@
 #include "SAWA/Stg_SAWA.mqh"
 #include "SVE_Bollinger_Bands/Stg_SVE_Bollinger_Bands.mqh"
 #include "StdDev/Stg_StdDev.mqh"
+#include "SuperTrend/Stg_SuperTrend.mqh"
 #include "Stochastic/Stg_Stochastic.mqh"
 #include "TMAT_SVEBB/Stg_TMAT_SVEBB.mqh"
 #include "TMA_True/Stg_TMA_True.mqh"
