@@ -51,6 +51,7 @@
 #include "OBV/Stg_OBV.mqh"
 #include "OSMA/Stg_OSMA.mqh"
 #include "Pattern/Stg_Pattern.mqh"
+#include "Pinbar/Stg_Pinbar.mqh"
 #include "Pivot/Stg_Pivot.mqh"
 #include "RSI/Stg_RSI.mqh"
 #include "RVI/Stg_RVI.mqh"

@@ -94,6 +94,9 @@
 [submodule "Pattern"]
 	path = Pattern
 	url = https://github.com/EA31337/Strategy-Pattern.git
+[submodule "Pinbar"]
+	path = Pinbar
+	url = https://github.com/EA31337/Strategy-Pinbar.git
 [submodule "Pivot"]
 	path = Pivot
 	url = https://github.com/EA31337/Strategy-Pivot.git
