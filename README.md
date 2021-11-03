@@ -45,6 +45,7 @@ This project utilizes the following sub-projects:
 | AMA | [![check][ghim_s_ama_check]][ghlm_s_ama_check] | [![check][ghim_s_ama_compile]][ghlm_s_ama_compile] | [![check][ghim_s_ama_bt]][ghlm_s_ama_bt] |
 | ASI | [![check][ghim_s_asi_check]][ghlm_s_asi_check] | [![check][ghim_s_asi_compile]][ghlm_s_asi_compile] | [![check][ghim_s_asi_bt]][ghlm_s_asi_bt] |
 | ATR | [![check][ghim_s_atr_check]][ghlm_s_atr_check] | [![check][ghim_s_atr_compile]][ghlm_s_atr_compile] | [![check][ghim_s_atr_bt]][ghlm_s_atr_bt] |
+| ATR MA Trend | [![check][ghim_s_atr_ma_trend_check]][ghlm_s_atr_ma_trend_check] | [![check][ghim_s_atr_ma_trend_compile]][ghlm_s_atr_ma_trend_compile] | [![check][ghim_s_atr_ma_trend_bt]][ghlm_s_atr_ma_trend_bt] |
 | Alligator | [![check][ghim_s_alli_check]][ghlm_s_alli_check] | [![check][ghim_s_alli_compile]][ghlm_s_alli_compile] | [![check][ghim_s_alli_bt]][ghlm_s_alli_bt] |
 | Awesome | [![check][ghim_s_ao_check]][ghlm_s_ao_check] | [![check][ghim_s_ao_compile]][ghlm_s_ao_compile] | [![check][ghim_s_ao_bt]][ghlm_s_ao_bt] |
 | BWMFI | [![check][ghim_s_bwmfi_check]][ghlm_s_bwmfi_check] | [![check][ghim_s_bwmfi_compile]][ghlm_s_bwmfi_compile] | [![check][ghim_s_bwmfi_bt]][ghlm_s_bwmfi_bt] |
@@ -92,6 +93,7 @@ This project utilizes the following sub-projects:
 | AMA | [![check][ghid_s_ama_check]][ghld_s_ama_check] | [![check][ghid_s_ama_compile]][ghld_s_ama_compile] | [![check][ghid_s_ama_bt]][ghld_s_ama_bt] |
 | ASI | [![check][ghid_s_asi_check]][ghld_s_asi_check] | [![check][ghid_s_asi_compile]][ghld_s_asi_compile] | [![check][ghid_s_asi_bt]][ghld_s_asi_bt] |
 | ATR | [![check][ghid_s_atr_check]][ghld_s_atr_check] | [![check][ghid_s_atr_compile]][ghld_s_atr_compile] | [![check][ghid_s_atr_bt]][ghld_s_atr_bt] |
+| ATR MA Trend | [![check][ghid_s_atr_ma_trend_check]][ghlm_s_atr_ma_trend_check] | [![check][ghid_s_atr_ma_trend_compile]][ghlm_s_atr_ma_trend_compile] | [![check][ghid_s_atr_ma_trend_bt]][ghlm_s_atr_ma_trend_bt] |
 | Alligator | [![check][ghid_s_alli_check]][ghld_s_alli_check] | [![check][ghid_s_alli_compile]][ghld_s_alli_compile] | [![check][ghid_s_alli_bt]][ghld_s_alli_bt] |
 | Awesome | [![check][ghid_s_ao_check]][ghld_s_ao_check] | [![check][ghid_s_ao_compile]][ghld_s_ao_compile] | [![check][ghid_s_ao_bt]][ghld_s_ao_bt] |
 | BWMFI | [![check][ghid_s_bwmfi_check]][ghld_s_bwmfi_check] | [![check][ghid_s_bwmfi_compile]][ghld_s_bwmfi_compile] | [![check][ghid_s_bwmfi_bt]][ghld_s_bwmfi_bt] |
@@ -370,6 +372,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_atr_sopen]: https://github.com/EA31337/Strategy-ATR/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
 [ghld_s_atr_sclose]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_atr_sclose]: https://github.com/EA31337/Strategy-ATR/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
+
+[ghlm_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Check+branch:master
+[ghim_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Check/badge.svg?branch=master
+[ghlm_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Compile+branch:master
+[ghim_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Compile/badge.svg?branch=master
+[ghlm_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Backtest+branch:master
+[ghim_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Check+branch:dev
+[ghid_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Check/badge.svg?branch=dev
+[ghld_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Compile+branch:dev
+[ghid_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Compile/badge.svg?branch=dev
+[ghld_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Backtest+branch:dev
+[ghid_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Check+branch:master
 [ghim_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/workflows/Check/badge.svg?branch=master
