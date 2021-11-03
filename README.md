@@ -78,6 +78,7 @@ This project utilizes the following sub-projects:
 | SVE BB | [![check][ghim_s_svebb_check]][ghlm_s_svebb_check] | [![check][ghim_s_svebb_compile]][ghlm_s_svebb_compile] | [![check][ghim_s_svebb_bt]][ghlm_s_svebb_bt] |
 | StdDev | [![check][ghim_s_stddev_check]][ghlm_s_stddev_check] | [![check][ghim_s_stddev_compile]][ghlm_s_stddev_compile] | [![check][ghim_s_stddev_bt]][ghlm_s_stddev_bt] |
 | Stochastic | [![check][ghim_s_stoch_check]][ghlm_s_stoch_check] | [![check][ghim_s_stoch_compile]][ghlm_s_stoch_compile] | [![check][ghim_s_stoch_bt]][ghlm_s_stoch_bt] |
+| Super Trend | [![check][ghim_s_supertrend_check]][ghlm_s_supertrend_check] | [![check][ghim_s_supertrend_compile]][ghlm_s_supertrend_compile] | [![check][ghim_s_supertrend_bt]][ghlm_s_supertrend_bt] |
 | TMA True | [![check][ghim_s_tmatrue_check]][ghlm_s_tmatrue_check] | [![check][ghim_s_tmatrue_compile]][ghlm_s_tmatrue_compile] | [![check][ghim_s_tmatrue_bt]][ghlm_s_tmatrue_bt] |
 | TMAT SVEBB | [![check][ghim_s_tmatsvebb_check]][ghlm_s_tmatsvebb_check] | [![check][ghim_s_tmatsvebb_compile]][ghlm_s_tmatsvebb_compile] | [![check][ghim_s_tmatsvebb_bt]][ghlm_s_tmatsvebb_bt] |
 | WPR | [![check][ghim_s_wpr_check]][ghlm_s_wpr_check] | [![check][ghim_s_wpr_compile]][ghlm_s_wpr_compile] | [![check][ghim_s_wpr_bt]][ghlm_s_wpr_bt] |
@@ -126,6 +127,7 @@ This project utilizes the following sub-projects:
 | SVE BB | [![check][ghid_s_svebb_check]][ghld_s_svebb_check] | [![check][ghid_s_svebb_compile]][ghld_s_svebb_compile] | [![check][ghid_s_svebb_bt]][ghld_s_svebb_bt] |
 | StdDev | [![check][ghid_s_stddev_check]][ghld_s_stddev_check] | [![check][ghid_s_stddev_compile]][ghld_s_stddev_compile] | [![check][ghid_s_stddev_bt]][ghld_s_stddev_bt] |
 | Stochastic | [![check][ghid_s_stoch_check]][ghld_s_stoch_check] | [![check][ghid_s_stoch_compile]][ghld_s_stoch_compile] | [![check][ghid_s_stoch_bt]][ghld_s_stoch_bt] |
+| Super Trend | [![check][ghid_s_supertrend_check]][ghlm_s_supertrend_check] | [![check][ghid_s_supertrend_compile]][ghlm_s_supertrend_compile] | [![check][ghid_s_supertrend_bt]][ghlm_s_supertrend_bt] |
 | TMA True | [![check][ghid_s_tmatrue_check]][ghld_s_tmatrue_check] | [![check][ghid_s_tmatrue_compile]][ghld_s_tmatrue_compile] | [![check][ghid_s_tmatrue_bt]][ghld_s_tmatrue_bt] |
 | TMAT SVEBB | [![check][ghid_s_tmatsvebb_check]][ghld_s_tmatsvebb_check] | [![check][ghid_s_tmatsvebb_compile]][ghld_s_tmatsvebb_compile] | [![check][ghid_s_tmatsvebb_bt]][ghld_s_tmatsvebb_bt] |
 | WPR | [![check][ghid_s_wpr_check]][ghld_s_wpr_check] | [![check][ghid_s_wpr_compile]][ghld_s_wpr_compile] | [![check][ghid_s_wpr_bt]][ghld_s_wpr_bt] |
@@ -1016,6 +1018,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_stoch_sopen]: https://github.com/EA31337/Strategy-Stochastic/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
 [ghld_s_stoch_sclose]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_stoch_sclose]: https://github.com/EA31337/Strategy-Stochastic/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
+
+[ghlm_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Check+branch:master
+[ghim_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Check/badge.svg?branch=master
+[ghlm_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Compile+branch:master
+[ghim_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Compile/badge.svg?branch=master
+[ghlm_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Backtest+branch:master
+[ghim_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Check+branch:dev
+[ghid_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Check/badge.svg?branch=dev
+[ghld_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Compile+branch:dev
+[ghid_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Compile/badge.svg?branch=dev
+[ghld_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Backtest+branch:dev
+[ghid_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Check+branch:master
 [ghim_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/workflows/Check/badge.svg?branch=master
