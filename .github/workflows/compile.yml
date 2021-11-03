@@ -66,25 +66,23 @@ jobs:
           - SVE_Bollinger_Bands
           - StdDev
           - Stochastic
+          - SuperTrend
           - TMAT_SVEBB
-          - TMA_Band_SVE_True
+          - TMA_CG
           - TMA_True
           - WPR
           - ZigZag
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: recursive
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: 0cb3dfc92967143f8526e0d568c4f7f5617940ee
+          ref: 00214073c07c3745c33378be39a10298c86f6d3b
           repository: EA31337/EA31337-classes
-      - uses: actions/checkout@v2
-        with:
-          path: ./${{ matrix.name }}/Indicators/Include/EA31337-classes
-          ref: 39517ac1f9860777a1320b9a7a7dcc9ed3f49186
-          repository: EA31337/EA31337-classes
+      - name: Enables input mode
+        run: echo '#define __input__' > ./${{ matrix.name }}/config/define.h
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
         with:
@@ -110,11 +108,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: recursive
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: 0cb3dfc92967143f8526e0d568c4f7f5617940ee
+          ref: 00214073c07c3745c33378be39a10298c86f6d3b
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
