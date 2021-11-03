@@ -124,6 +124,9 @@
 [submodule "SuperTrend"]
 	path = SuperTrend
 	url = https://github.com/EA31337/Strategy-SuperTrend.git
+[submodule "TMA_CG"]
+	path = TMA_CG
+	url = https://github.com/EA31337/Strategy-TMA_CG.git
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True

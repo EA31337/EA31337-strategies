@@ -62,6 +62,7 @@
 #include "SuperTrend/Stg_SuperTrend.mqh"
 #include "Stochastic/Stg_Stochastic.mqh"
 #include "TMAT_SVEBB/Stg_TMAT_SVEBB.mqh"
+#include "TMA_CG/Stg_TMA_CG.mqh"
 #include "TMA_True/Stg_TMA_True.mqh"
 #include "WPR/Stg_WPR.mqh"
 #include "ZigZag/Stg_ZigZag.mqh"

@@ -64,6 +64,7 @@ enum ENUM_STRATEGY {
   STRAT_SUPERTREND,    // Super Trend
   STRAT_SVE_BB,        // SVE Bollinger Bands
   STRAT_TMAT_SVEBB,    // TMAT SVEBB
+  STRAT_TMA_CG,        // TMA CG
   STRAT_TMA_TRUE,      // TMA True
   STRAT_WPR,           // WPR
   STRAT_ZIGZAG,        // ZigZag
