@@ -30,7 +30,9 @@ enum ENUM_STRATEGY {
   STRAT_AMA,           // AMA
   STRAT_ASI,           // ASI
   STRAT_ATR,           // ATR
+#ifdef __MQL5__
   STRAT_ATR_MA_TREND,  // ATR MA Trend
+#endif
   STRAT_AWESOME,       // Awesome
   STRAT_BANDS,         // Bands
   STRAT_BEARS_POWER,   // Bear Power
@@ -62,7 +64,9 @@ enum ENUM_STRATEGY {
   STRAT_SAWA,          // SAWA
   STRAT_STDDEV,        // StdDev
   STRAT_STOCHASTIC,    // Stochastic
+#ifdef __MQL5__
   STRAT_SUPERTREND,    // Super Trend
+#endif
   STRAT_SVE_BB,        // SVE Bollinger Bands
   STRAT_TMAT_SVEBB,    // TMAT SVEBB
   STRAT_TMA_CG,        // TMA CG
