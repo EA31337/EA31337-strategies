@@ -33,6 +33,7 @@ jobs:
           - AMA
           - ASI
           - ATR
+          - ATR_MA_Trend
           - Alligator
           - Awesome
           - BWMFI
@@ -55,6 +56,9 @@ jobs:
           - Momentum
           - OBV
           - OsMA
+          - Pattern
+          - Pinbar
+          - Pivot
           - RSI
           - RVI
           - SAR
@@ -62,24 +66,23 @@ jobs:
           - SVE_Bollinger_Bands
           - StdDev
           - Stochastic
-          - TMA_Band_SVE_True
+          - SuperTrend
+          - TMAT_SVEBB
+          - TMA_CG
           - TMA_True
           - WPR
           - ZigZag
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: recursive
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.008
+          ref: 00214073c07c3745c33378be39a10298c86f6d3b
           repository: EA31337/EA31337-classes
-      - uses: actions/checkout@v2
-        with:
-          path: ./${{ matrix.name }}/Indicators/Include/EA31337-classes
-          ref: v2.008
-          repository: EA31337/EA31337-classes
+      - name: Enables input mode
+        run: echo '#define __input__' > ./${{ matrix.name }}/config/define.h
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
         with:
@@ -105,11 +108,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: recursive
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: v2.008
+          ref: 00214073c07c3745c33378be39a10298c86f6d3b
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master

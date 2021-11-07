@@ -16,6 +16,9 @@
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/EA31337/Strategy-ATR
+[submodule "ATR_MA_Trend"]
+	path = ATR_MA_Trend
+	url = https://github.com/EA31337/Strategy-ATR_MA_Trend.git
 [submodule "Alligator"]
 	path = Alligator
 	url = https://github.com/EA31337/Strategy-Alligator
@@ -91,6 +94,9 @@
 [submodule "Pattern"]
 	path = Pattern
 	url = https://github.com/EA31337/Strategy-Pattern.git
+[submodule "Pinbar"]
+	path = Pinbar
+	url = https://github.com/EA31337/Strategy-Pinbar.git
 [submodule "Pivot"]
 	path = Pivot
 	url = https://github.com/EA31337/Strategy-Pivot.git
@@ -115,6 +121,12 @@
 [submodule "Stochastic"]
 	path = Stochastic
 	url = https://github.com/EA31337/Strategy-Stochastic
+[submodule "SuperTrend"]
+	path = SuperTrend
+	url = https://github.com/EA31337/Strategy-SuperTrend.git
+[submodule "TMA_CG"]
+	path = TMA_CG
+	url = https://github.com/EA31337/Strategy-TMA_CG.git
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True
