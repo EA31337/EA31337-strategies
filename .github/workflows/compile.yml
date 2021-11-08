@@ -79,7 +79,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: 00214073c07c3745c33378be39a10298c86f6d3b
+          ref: 38586ef9b1f46b580c52008fec1f21153eb34736
           repository: EA31337/EA31337-classes
       - name: Enables input mode
         run: echo '#define __input__' > ./${{ matrix.name }}/config/define.h
@@ -112,7 +112,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: Include/EA31337-classes
-          ref: 00214073c07c3745c33378be39a10298c86f6d3b
+          ref: 38586ef9b1f46b580c52008fec1f21153eb34736
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
