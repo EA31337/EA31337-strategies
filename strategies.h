@@ -44,6 +44,7 @@
 #include "Gator/Stg_Gator.mqh"
 #include "HeikenAshi/Stg_HeikenAshi.mqh"
 #include "Ichimoku/Stg_Ichimoku.mqh"
+#include "Indicator/Stg_Indicator.mqh"
 #include "MA/Stg_MA.mqh"
 #include "MACD/Stg_MACD.mqh"
 #include "MFI/Stg_MFI.mqh"

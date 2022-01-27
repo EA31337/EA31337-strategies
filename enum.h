@@ -49,6 +49,7 @@ enum ENUM_STRATEGY {
   STRAT_GATOR,        // Gator
   STRAT_HEIKEN_ASHI,  // Heiken Ashi
   STRAT_ICHIMOKU,     // Ichimoku
+  STRAT_INDICATOR,    // Indicator
   STRAT_MA,           // MA
   STRAT_MACD,         // MACD
   STRAT_MFI,          // MFI
