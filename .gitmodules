@@ -73,6 +73,9 @@
 [submodule "Ichimoku"]
 	path = Ichimoku
 	url = https://github.com/EA31337/Strategy-Ichimoku
+[submodule "Indicator"]
+	path = Indicator
+	url = https://github.com/EA31337/Strategy-Indicator
 [submodule "MA"]
 	path = MA
 	url = https://github.com/EA31337/Strategy-MA
