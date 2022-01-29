@@ -2,6 +2,7 @@
 
 [![Tag][gh-tag-image]][gh-tag-link]
 [![Channel][tg-channel-image]][tg-channel-link]
+[![Twitter][twitter-image]][twitter-link]
 [![Discuss][gh-discuss-badge]][gh-discuss-link]
 [![Status][gha-image-check-master]][gha-link-check-master]
 [![Status][gha-image-compile-master]][gha-link-compile-master]
@@ -24,14 +25,9 @@ This project utilizes the following sub-projects:
 |:--------:|:---------:|
 | v1.000   | v2.000    |
 | v1.001   | v2.001    |
-| v1.002   | v2.002    |
-| v1.003   | v2.003    |
-| v1.004   | v2.004    |
-| v1.005   | v2.005    |
-| v1.006   | v2.006    |
-| v1.007   | v2.007    |
-| v1.008   | v2.008    |
+| ...      | ...       |
 | v1.009   | v2.009    |
+| v1.010   | v2.010    |
 
 ## Status
 
@@ -259,6 +255,9 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 
 [tg-channel-image]: https://img.shields.io/badge/Telegram-join-0088CC.svg?logo=telegram
 [tg-channel-link]: https://t.me/EA31337
+
+[twitter-image]: https://img.shields.io/badge/EA31337-Follow-1DA1F2.svg?logo=Twitter
+[twitter-link]: https://twitter.com/EA31337
 
 [license-image]: https://img.shields.io/github/license/EA31337/EA31337-Strategies.svg
 [license-link]: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
