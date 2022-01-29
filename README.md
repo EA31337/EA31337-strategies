@@ -59,6 +59,7 @@ This project utilizes the following sub-projects:
 | Gator | [![check][ghim_s_gator_check]][ghlm_s_gator_check] | [![check][ghim_s_gator_compile]][ghlm_s_gator_compile] | [![check][ghim_s_gator_bt]][ghlm_s_gator_bt] |
 | HeikenAshi | [![check][ghim_s_ha_check]][ghlm_s_ha_check] | [![check][ghim_s_ha_compile]][ghlm_s_ha_compile] | [![check][ghim_s_ha_bt]][ghlm_s_ha_bt] |
 | Ichimoku | [![check][ghim_s_ichi_check]][ghlm_s_ichi_check] | [![check][ghim_s_ichi_compile]][ghlm_s_ichi_compile] | [![check][ghim_s_ichi_bt]][ghlm_s_ichi_bt] |
+| Indicator | [![check][ghim_s_indi_check]][ghlm_s_indi_check] | [![check][ghim_s_indi_compile]][ghlm_s_indi_compile] | [![check][ghim_s_indi_bt]][ghlm_s_indi_bt] |
 | MA | [![check][ghim_s_ma_check]][ghlm_s_ma_check] | [![check][ghim_s_ma_compile]][ghlm_s_ma_compile] | [![check][ghim_s_ma_bt]][ghlm_s_ma_bt] |
 | MACD | [![check][ghim_s_macd_check]][ghlm_s_macd_check] | [![check][ghim_s_macd_compile]][ghlm_s_macd_compile] | [![check][ghim_s_macd_bt]][ghlm_s_macd_bt] |
 | MFI | [![check][ghim_s_mfi_check]][ghlm_s_mfi_check] | [![check][ghim_s_mfi_compile]][ghlm_s_mfi_compile] | [![check][ghim_s_mfi_bt]][ghlm_s_mfi_bt] |
@@ -108,6 +109,7 @@ This project utilizes the following sub-projects:
 | Gator | [![check][ghid_s_gator_check]][ghld_s_gator_check] | [![check][ghid_s_gator_compile]][ghld_s_gator_compile] | [![check][ghid_s_gator_bt]][ghld_s_gator_bt] |
 | HeikenAshi | [![check][ghid_s_ha_check]][ghld_s_ha_check] | [![check][ghid_s_ha_compile]][ghld_s_ha_compile] | [![check][ghid_s_ha_bt]][ghld_s_ha_bt] |
 | Ichimoku | [![check][ghid_s_ichi_check]][ghld_s_ichi_check] | [![check][ghid_s_ichi_compile]][ghld_s_ichi_compile] | [![check][ghid_s_ichi_bt]][ghld_s_ichi_bt] |
+| Indicator | [![check][ghid_s_indi_check]][ghld_s_indi_check] | [![check][ghid_s_indi_compile]][ghld_s_indi_compile] | [![check][ghid_s_indi_bt]][ghld_s_indi_bt] |
 | MA | [![check][ghid_s_ma_check]][ghld_s_ma_check] | [![check][ghid_s_ma_compile]][ghld_s_ma_compile] | [![check][ghid_s_ma_bt]][ghld_s_ma_bt] |
 | MACD | [![check][ghid_s_macd_check]][ghld_s_macd_check] | [![check][ghid_s_macd_compile]][ghld_s_macd_compile] | [![check][ghid_s_macd_bt]][ghld_s_macd_bt] |
 | MFI | [![check][ghid_s_mfi_check]][ghld_s_mfi_check] | [![check][ghid_s_mfi_compile]][ghld_s_mfi_compile] | [![check][ghid_s_mfi_bt]][ghld_s_mfi_bt] |
@@ -737,6 +739,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_ichi_sopen]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
 [ghld_s_ichi_sclose]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_ichi_sclose]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
+
+[ghlm_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Check+branch:master
+[ghim_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/workflows/Check/badge.svg?branch=master
+[ghlm_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Compile+branch:master
+[ghim_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/workflows/Compile/badge.svg?branch=master
+[ghlm_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Backtest+branch:master
+[ghim_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Check+branch:dev
+[ghid_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/workflows/Check/badge.svg?branch=dev
+[ghld_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Compile+branch:dev
+[ghid_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/workflows/Compile/badge.svg?branch=dev
+[ghld_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Backtest+branch:dev
+[ghid_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_ma_check]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Check+branch:master
 [ghim_s_ma_check]: https://github.com/EA31337/Strategy-MA/workflows/Check/badge.svg?branch=master
