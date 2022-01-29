@@ -210,7 +210,7 @@ these TERMS OF USE and that you agree to be bound by such Terms of Use ("License
 
 ### Copyright information
 
-Copyright © 2016-2021 - EA31337 Ltd - All Rights Reserved
+Copyright © 2016-2022 - EA31337 Ltd - All Rights Reserved
 
 Author & Publisher: kenorb at EA31337 Ltd.
 
