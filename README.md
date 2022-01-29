@@ -91,7 +91,7 @@ This project utilizes the following sub-projects:
 | AMA | [![check][ghid_s_ama_check]][ghld_s_ama_check] | [![check][ghid_s_ama_compile]][ghld_s_ama_compile] | [![check][ghid_s_ama_bt]][ghld_s_ama_bt] |
 | ASI | [![check][ghid_s_asi_check]][ghld_s_asi_check] | [![check][ghid_s_asi_compile]][ghld_s_asi_compile] | [![check][ghid_s_asi_bt]][ghld_s_asi_bt] |
 | ATR | [![check][ghid_s_atr_check]][ghld_s_atr_check] | [![check][ghid_s_atr_compile]][ghld_s_atr_compile] | [![check][ghid_s_atr_bt]][ghld_s_atr_bt] |
-| ATR MA Trend | [![check][ghid_s_atr_ma_trend_check]][ghlm_s_atr_ma_trend_check] | [![check][ghid_s_atr_ma_trend_compile]][ghlm_s_atr_ma_trend_compile] | [![check][ghid_s_atr_ma_trend_bt]][ghlm_s_atr_ma_trend_bt] |
+| ATR MA Trend | [![check][ghid_s_atr_ma_trend_check]][ghld_s_atr_ma_trend_check] | [![check][ghid_s_atr_ma_trend_compile]][ghld_s_atr_ma_trend_compile] | [![check][ghid_s_atr_ma_trend_bt]][ghld_s_atr_ma_trend_bt] |
 | Alligator | [![check][ghid_s_alli_check]][ghld_s_alli_check] | [![check][ghid_s_alli_compile]][ghld_s_alli_compile] | [![check][ghid_s_alli_bt]][ghld_s_alli_bt] |
 | Awesome | [![check][ghid_s_ao_check]][ghld_s_ao_check] | [![check][ghid_s_ao_compile]][ghld_s_ao_compile] | [![check][ghid_s_ao_bt]][ghld_s_ao_bt] |
 | BWMFI | [![check][ghid_s_bwmfi_check]][ghld_s_bwmfi_check] | [![check][ghid_s_bwmfi_compile]][ghld_s_bwmfi_compile] | [![check][ghid_s_bwmfi_bt]][ghld_s_bwmfi_bt] |
@@ -116,7 +116,7 @@ This project utilizes the following sub-projects:
 | Momentum | [![check][ghid_s_mom_check]][ghld_s_mom_check] | [![check][ghid_s_mom_compile]][ghld_s_mom_compile] | [![check][ghid_s_mom_bt]][ghld_s_mom_bt] |
 | OBV | [![check][ghid_s_obv_check]][ghld_s_obv_check] | [![check][ghid_s_obv_compile]][ghld_s_obv_compile] | [![check][ghid_s_obv_bt]][ghld_s_obv_bt] |
 | OsMA | [![check][ghid_s_osma_check]][ghld_s_osma_check] | [![check][ghid_s_osma_compile]][ghld_s_osma_compile] | [![check][ghid_s_osma_bt]][ghld_s_osma_bt] |
-| Pinbar | [![check][ghid_s_pinbar_check]][ghlm_s_pinbar_check] | [![check][ghid_s_pinbar_compile]][ghlm_s_pinbar_compile] | [![check][ghid_s_pinbar_bt]][ghlm_s_pinbar_bt] |
+| Pinbar | [![check][ghid_s_pinbar_check]][ghld_s_pinbar_check] | [![check][ghid_s_pinbar_compile]][ghld_s_pinbar_compile] | [![check][ghid_s_pinbar_bt]][ghld_s_pinbar_bt] |
 | Pivot | [![check][ghid_s_pivot_check]][ghld_s_pivot_check] | [![check][ghid_s_pivot_compile]][ghld_s_pivot_compile] | [![check][ghid_s_pivot_bt]][ghld_s_pivot_bt] |
 | RSI | [![check][ghid_s_rsi_check]][ghld_s_rsi_check] | [![check][ghid_s_rsi_compile]][ghld_s_rsi_compile] | [![check][ghid_s_rsi_bt]][ghld_s_rsi_bt] |
 | RVI | [![check][ghid_s_rvi_check]][ghld_s_rvi_check] | [![check][ghid_s_rvi_compile]][ghld_s_rvi_compile] | [![check][ghid_s_rvi_bt]][ghld_s_rvi_bt] |
@@ -125,7 +125,7 @@ This project utilizes the following sub-projects:
 | SVE BB | [![check][ghid_s_svebb_check]][ghld_s_svebb_check] | [![check][ghid_s_svebb_compile]][ghld_s_svebb_compile] | [![check][ghid_s_svebb_bt]][ghld_s_svebb_bt] |
 | StdDev | [![check][ghid_s_stddev_check]][ghld_s_stddev_check] | [![check][ghid_s_stddev_compile]][ghld_s_stddev_compile] | [![check][ghid_s_stddev_bt]][ghld_s_stddev_bt] |
 | Stochastic | [![check][ghid_s_stoch_check]][ghld_s_stoch_check] | [![check][ghid_s_stoch_compile]][ghld_s_stoch_compile] | [![check][ghid_s_stoch_bt]][ghld_s_stoch_bt] |
-| Super Trend | [![check][ghid_s_supertrend_check]][ghlm_s_supertrend_check] | [![check][ghid_s_supertrend_compile]][ghlm_s_supertrend_compile] | [![check][ghid_s_supertrend_bt]][ghlm_s_supertrend_bt] |
+| Super Trend | [![check][ghid_s_supertrend_check]][ghld_s_supertrend_check] | [![check][ghid_s_supertrend_compile]][ghld_s_supertrend_compile] | [![check][ghid_s_supertrend_bt]][ghld_s_supertrend_bt] |
 | TMA True | [![check][ghid_s_tmatrue_check]][ghld_s_tmatrue_check] | [![check][ghid_s_tmatrue_compile]][ghld_s_tmatrue_compile] | [![check][ghid_s_tmatrue_bt]][ghld_s_tmatrue_bt] |
 | TMAT SVEBB | [![check][ghid_s_tmatsvebb_check]][ghld_s_tmatsvebb_check] | [![check][ghid_s_tmatsvebb_compile]][ghld_s_tmatsvebb_compile] | [![check][ghid_s_tmatsvebb_bt]][ghld_s_tmatsvebb_bt] |
 | WPR | [![check][ghid_s_wpr_check]][ghld_s_wpr_check] | [![check][ghid_s_wpr_compile]][ghld_s_wpr_compile] | [![check][ghid_s_wpr_bt]][ghld_s_wpr_bt] |
