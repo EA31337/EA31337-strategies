@@ -8,16 +8,30 @@
 [![Status][gha-image-compile-master]][gha-link-compile-master]
 [![License][license-image]][license-link]
 
-EA31337 strategies implementing [EA31337 framework][gh-repo-classes].
-
 ## About the project
+
+A collection of trading strategies used in the following trading robot projects:
+
+- [EA31337](https://github.com/EA31337/EA31337):
+  Multi-strategy advanced trading robot.
+- [EA31337-Libre](https://github.com/EA31337/EA31337-Libre):
+  Multi-strategy trading robot.
+
+and depending on the following projects:
+
+- [EA31337 Framework][gh-repo-classes]:
+  MQL library for writing trading robots, indicators and scripts.
+- [EA31337 Indicators Common][gh-repo-indi-common]:
+  Collection of common indicators used by strategies.
+- [EA31337 Indicators Other][gh-repo-indi-other]:
+  Collection of 3rd party indicators used by strategies.
 
 The project aims to deliver fully working EA strategies at the professional level
 with code compability for MQL4 and MQL5 at the same time.
 
-This project utilizes the following sub-projects:
+## Strategies
 
-- [EA31337 framework][gh-repo-classes]
+See: <https://ea31337.github.io/EA31337-strategies>
 
 ## Dependencies
 
@@ -253,6 +267,8 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [gha-image-compile-master]: https://github.com/EA31337/EA31337-Strategies/workflows/Compile/badge.svg?branch=master
 
 [gh-repo-classes]: https://github.com/EA31337/EA31337-classes
+[gh-repo-indi-common]: https://github.com/EA31337/EA31337-indicators-common
+[gh-repo-indi-other]: https://github.com/EA31337/EA31337-indicators-other
 [gh-repo-strats]: https://github.com/EA31337/EA31337-Strategies
 
 [tg-channel-image]: https://img.shields.io/badge/Telegram-join-0088CC.svg?logo=telegram
