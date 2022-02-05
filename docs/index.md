@@ -4,14 +4,14 @@
 
 A collection of trading strategies used in the following trading robot projects:
 
-- [EA31337](https://github.com/EA31337/EA31337):
+- [EA31337][ghp-ea31337]:
   Multi-strategy advanced trading robot.
-- [EA31337-Libre](https://github.com/EA31337/EA31337-Libre):
+- [EA31337-Libre][ghp-ea-libre]:
   Multi-strategy trading robot.
 
 and depending on the following projects:
 
-- [EA31337 Framework][gh-repo-classes]:
+- [EA31337 Framework][ghp-ea-classes]:
   MQL library for writing trading robots, indicators and scripts.
 - [EA31337 Indicators Common][gh-repo-indi-common]:
   Collection of common indicators used by strategies.
@@ -224,3 +224,11 @@ Strategy based on the ZigZag indicator.
 [gh-repo-classes]: https://github.com/EA31337/EA31337-classes
 [gh-repo-indi-common]: https://github.com/EA31337/EA31337-indicators-common
 [gh-repo-indi-other]: https://github.com/EA31337/EA31337-indicators-other
+
+[ghp-ea-classes]: https://ea31337.github.io/EA31337-classes
+[ghp-ea-indi-common]: https://github.com/EA31337/EA31337-indicators-common
+[ghp-ea-indi-other]: https://github.com/EA31337/EA31337-indicators-other
+[ghp-ea-libre]: https://ea31337.github.io/EA31337-Libre
+[ghp-ea-strats]: https://ea31337.github.io/EA31337-strategies
+[ghp-ea-tester]: https://ea31337.github.io/EA-Tester
+[ghp-ea31337]: https://ea31337.github.io/EA31337
