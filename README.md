@@ -63,6 +63,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | BearsPower | [![check][ghim_s_bears_check]][ghlm_s_bears_check] | [![check][ghim_s_bears_compile]][ghlm_s_bears_compile] | [![check][ghim_s_bears_bt]][ghlm_s_bears_bt] |
 | BullsPower | [![check][ghim_s_bulls_check]][ghlm_s_bulls_check] | [![check][ghim_s_bulls_compile]][ghlm_s_bulls_compile] | [![check][ghim_s_bulls_bt]][ghlm_s_bulls_bt] |
 | CCI | [![check][ghim_s_cci_check]][ghlm_s_cci_check] | [![check][ghim_s_cci_compile]][ghlm_s_cci_compile] | [![check][ghim_s_cci_bt]][ghlm_s_cci_bt] |
+| Chaikin | [![check][ghim_s_cho_check]][ghlm_s_cho_check] | [![check][ghim_s_cho_compile]][ghlm_s_cho_compile] | [![check][ghim_s_cho_bt]][ghlm_s_cho_bt] |
 | DEMA | [![check][ghim_s_dema_check]][ghlm_s_dema_check] | [![check][ghim_s_dema_compile]][ghlm_s_dema_compile] | [![check][ghim_s_dema_bt]][ghlm_s_dema_bt] |
 | Demo | [![check][ghim_s_demo_check]][ghlm_s_demo_check] | [![check][ghim_s_demo_compile]][ghlm_s_demo_compile] | [![check][ghim_s_demo_bt]][ghlm_s_demo_bt] |
 | DeMarker | [![check][ghim_s_dm_check]][ghlm_s_dm_check] | [![check][ghim_s_dm_compile]][ghlm_s_dm_compile] | [![check][ghim_s_dm_bt]][ghlm_s_dm_bt] |
@@ -113,6 +114,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | BearsPower | [![check][ghid_s_bears_check]][ghld_s_bears_check] | [![check][ghid_s_bears_compile]][ghld_s_bears_compile] | [![check][ghid_s_bears_bt]][ghld_s_bears_bt] |
 | BullsPower | [![check][ghid_s_bulls_check]][ghld_s_bulls_check] | [![check][ghid_s_bulls_compile]][ghld_s_bulls_compile] | [![check][ghid_s_bulls_bt]][ghld_s_bulls_bt] |
 | CCI | [![check][ghid_s_cci_check]][ghld_s_cci_check] | [![check][ghid_s_cci_compile]][ghld_s_cci_compile] | [![check][ghid_s_cci_bt]][ghld_s_cci_bt] |
+| Chaikin | [![check][ghid_s_cho_check]][ghld_s_cho_check] | [![check][ghid_s_cho_compile]][ghld_s_cho_compile] | [![check][ghid_s_cho_bt]][ghld_s_cho_bt] |
 | DEMA | [![check][ghid_s_dema_check]][ghld_s_dema_check] | [![check][ghid_s_dema_compile]][ghld_s_dema_compile] | [![check][ghid_s_dema_bt]][ghld_s_dema_bt] |
 | Demo | [![check][ghid_s_demo_check]][ghld_s_demo_check] | [![check][ghid_s_demo_compile]][ghld_s_demo_compile] | [![check][ghid_s_demo_bt]][ghld_s_demo_bt] |
 | DeMarker | [![check][ghid_s_dm_check]][ghld_s_dm_check] | [![check][ghid_s_dm_compile]][ghld_s_dm_compile] | [![check][ghid_s_dm_bt]][ghld_s_dm_bt] |
@@ -160,6 +162,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | BearsPower | [![indi][ghid_s_bears_indi]][ghld_s_bears_indi] | [![indi][ghid_s_bears_sopen]][ghld_s_bears_sopen] | [![indi][ghid_s_bears_sclose]][ghld_s_bears_sclose] |
 | BullsPower | [![indi][ghid_s_bulls_indi]][ghld_s_bulls_indi] | [![indi][ghid_s_bulls_sopen]][ghld_s_bulls_sopen] | [![indi][ghid_s_bulls_sclose]][ghld_s_bulls_sclose] |
 | CCI | [![indi][ghid_s_cci_indi]][ghld_s_cci_indi] | [![indi][ghid_s_cci_sopen]][ghld_s_cci_sopen] | [![indi][ghid_s_cci_sclose]][ghld_s_cci_sclose] |
+| Chaikin | [![indi][ghid_s_cho_indi]][ghld_s_cho_indi] | [![indi][ghid_s_cho_sopen]][ghld_s_cho_sopen] | [![indi][ghid_s_cho_sclose]][ghld_s_cho_sclose] |
 | DEMA | [![indi][ghid_s_dema_indi]][ghld_s_dema_indi] | [![indi][ghid_s_dema_sopen]][ghld_s_dema_sopen] | [![indi][ghid_s_dema_sclose]][ghld_s_dema_sclose] |
 | DeMarker | [![indi][ghid_s_dm_indi]][ghld_s_dm_indi] | [![indi][ghid_s_dm_sopen]][ghld_s_dm_sopen] | [![indi][ghid_s_dm_sclose]][ghld_s_dm_sclose] |
 | ElliottWave | [![indi][ghid_s_elliott_indi]][ghld_s_elliott_indi] | [![indi][ghid_s_elliott_sopen]][ghld_s_elliott_sopen] | [![indi][ghid_s_elliott_sclose]][ghld_s_elliott_sclose] |
@@ -552,6 +555,27 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_cci_sopen]: https://github.com/EA31337/Strategy-CCI/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
 [ghld_s_cci_sclose]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
 [ghid_s_cci_sclose]: https://github.com/EA31337/Strategy-CCI/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
+
+[ghlm_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Check+branch:master
+[ghim_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/workflows/Check/badge.svg?branch=master
+[ghlm_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Compile+branch:master
+[ghim_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/workflows/Compile/badge.svg?branch=master
+[ghlm_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Backtest+branch:master
+[ghim_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Check+branch:dev
+[ghid_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/workflows/Check/badge.svg?branch=dev
+[ghld_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Compile+branch:dev
+[ghid_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/workflows/Compile/badge.svg?branch=dev
+[ghld_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Backtest+branch:dev
+[ghid_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/workflows/Backtest/badge.svg?branch=dev
+
+[ghld_s_cho_indi]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:"Optimize+Indicator+params"+branch:optimize-indi
+[ghid_s_cho_indi]: https://github.com/EA31337/Strategy-Chaikin/workflows/Optimize%20Indicator%20params/badge.svg?branch=optimize-indi
+[ghld_s_cho_sopen]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:"Optimize+SignalOpen+params"+branch:optimize-signalopen
+[ghid_s_cho_sopen]: https://github.com/EA31337/Strategy-Chaikin/workflows/Optimize%20SignalOpen%20params/badge.svg?branch=optimize-signalopen
+[ghld_s_cho_sclose]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:"Optimize+SignalClose+params"+branch:optimize-signalclose
+[ghid_s_cho_sclose]: https://github.com/EA31337/Strategy-Chaikin/workflows/Optimize%20SignalClose%20params/badge.svg?branch=optimize-signalclose
 
 [ghlm_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Check+branch:master
 [ghim_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/workflows/Check/badge.svg?branch=master
