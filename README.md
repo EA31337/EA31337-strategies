@@ -41,7 +41,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | v1.001   | v2.001    |
 | ...      | ...       |
 | v1.010   | v2.010    |
-| v1.011   | v2.011    |
+| v1.011   | v2.011.1  |
 
 ## Status
 
