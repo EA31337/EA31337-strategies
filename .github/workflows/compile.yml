@@ -43,8 +43,9 @@ jobs:
           - BearsPower
           - BullsPower
           - CCI
-          - DeMarker
+          - Chaikin
           - DEMA
+          - DeMarker
           - ElliottWave
           - Envelopes
           - Force
