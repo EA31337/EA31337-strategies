@@ -43,6 +43,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | ...      | ...       |
 | v1.010   | v2.010    |
 | v1.011   | v2.011.1  |
+| v1.012   | v2.012.1  |
 
 ## Status
 
@@ -187,7 +188,7 @@ these TERMS OF USE and that you agree to be bound by such Terms of Use ("License
 
 ### Copyright information
 
-Copyright © 2016-2022 - EA31337 Ltd - All Rights Reserved
+Copyright © 2016-2023 - EA31337 Ltd - All Rights Reserved
 
 Author & Publisher: kenorb at EA31337 Ltd.
 
