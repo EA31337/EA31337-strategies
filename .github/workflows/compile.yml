@@ -43,8 +43,9 @@ jobs:
           - BearsPower
           - BullsPower
           - CCI
-          - DeMarker
+          - Chaikin
           - DEMA
+          - DeMarker
           - ElliottWave
           - Envelopes
           - Force
@@ -75,14 +76,15 @@ jobs:
           - TMA_True
           - WPR
           - ZigZag
+      max-parallel: 4
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: recursive
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           path: Include/EA31337-classes
-          ref: v2.011.1
+          ref: v2.012.1
           repository: EA31337/EA31337-classes
       - name: Enables input mode
         run: echo '#define __input__' > ./${{ matrix.name }}/config/define.h
@@ -109,13 +111,13 @@ jobs:
         shell: powershell
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: recursive
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           path: Include/EA31337-classes
-          ref: v2.011
+          ref: v2.012.1
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
