@@ -75,6 +75,7 @@ jobs:
           - TMA_True
           - WPR
           - ZigZag
+      max-parallel: 4
     steps:
       - uses: actions/checkout@v2
         with:
