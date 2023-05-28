@@ -52,6 +52,7 @@ enum ENUM_STRATEGY {
   STRAT_INDICATOR,    // Indicator
   STRAT_MA,           // MA
   STRAT_MACD,         // MACD
+  STRAT_META_MULTI,   // (Meta) Multi
   STRAT_MFI,          // MFI
   STRAT_MOMENTUM,     // Momentum
   STRAT_OBV,          // OBV
