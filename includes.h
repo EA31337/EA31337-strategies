@@ -47,6 +47,7 @@
 #include "Indicator/Stg_Indicator.mqh"
 #include "MA/Stg_MA.mqh"
 #include "MACD/Stg_MACD.mqh"
+#include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "MFI/Stg_MFI.mqh"
 #include "Momentum/Stg_Momentum.mqh"
