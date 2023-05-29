@@ -58,6 +58,7 @@ jobs:
           - MFI
           - Meta_Mirror
           - Meta_Multi
+          - Meta_Reversal
           - Momentum
           - OBV
           - OsMA

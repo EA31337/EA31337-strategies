@@ -49,6 +49,7 @@
 #include "MACD/Stg_MACD.mqh"
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
+#include "Meta_Reversal/Stg_Meta_Reversal.mqh"
 #include "MFI/Stg_MFI.mqh"
 #include "Momentum/Stg_Momentum.mqh"
 #include "OBV/Stg_OBV.mqh"
