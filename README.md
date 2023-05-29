@@ -49,13 +49,14 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
+| (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
 | AD | [![check][ghim_s_ad_check]][ghlm_s_ad_check] | [![check][ghim_s_ad_compile]][ghlm_s_ad_compile] | [![check][ghim_s_ad_bt]][ghlm_s_ad_bt] |
 | ADX | [![check][ghim_s_adx_check]][ghlm_s_adx_check] | [![check][ghim_s_adx_compile]][ghlm_s_adx_compile] | [![check][ghim_s_adx_bt]][ghlm_s_adx_bt] |
 | AMA | [![check][ghim_s_ama_check]][ghlm_s_ama_check] | [![check][ghim_s_ama_compile]][ghlm_s_ama_compile] | [![check][ghim_s_ama_bt]][ghlm_s_ama_bt] |
 | ASI | [![check][ghim_s_asi_check]][ghlm_s_asi_check] | [![check][ghim_s_asi_compile]][ghlm_s_asi_compile] | [![check][ghim_s_asi_bt]][ghlm_s_asi_bt] |
-| ATR | [![check][ghim_s_atr_check]][ghlm_s_atr_check] | [![check][ghim_s_atr_compile]][ghlm_s_atr_compile] | [![check][ghim_s_atr_bt]][ghlm_s_atr_bt] |
 | ATR MA Trend | [![check][ghim_s_atr_ma_trend_check]][ghlm_s_atr_ma_trend_check] | [![check][ghim_s_atr_ma_trend_compile]][ghlm_s_atr_ma_trend_compile] | [![check][ghim_s_atr_ma_trend_bt]][ghlm_s_atr_ma_trend_bt] |
+| ATR | [![check][ghim_s_atr_check]][ghlm_s_atr_check] | [![check][ghim_s_atr_compile]][ghlm_s_atr_compile] | [![check][ghim_s_atr_bt]][ghlm_s_atr_bt] |
 | Alligator | [![check][ghim_s_alli_check]][ghlm_s_alli_check] | [![check][ghim_s_alli_compile]][ghlm_s_alli_compile] | [![check][ghim_s_alli_bt]][ghlm_s_alli_bt] |
 | Awesome | [![check][ghim_s_ao_check]][ghlm_s_ao_check] | [![check][ghim_s_ao_compile]][ghlm_s_ao_compile] | [![check][ghim_s_ao_bt]][ghlm_s_ao_bt] |
 | BWMFI | [![check][ghim_s_bwmfi_check]][ghlm_s_bwmfi_check] | [![check][ghim_s_bwmfi_compile]][ghlm_s_bwmfi_compile] | [![check][ghim_s_bwmfi_bt]][ghlm_s_bwmfi_bt] |
@@ -65,8 +66,8 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | CCI | [![check][ghim_s_cci_check]][ghlm_s_cci_check] | [![check][ghim_s_cci_compile]][ghlm_s_cci_compile] | [![check][ghim_s_cci_bt]][ghlm_s_cci_bt] |
 | Chaikin | [![check][ghim_s_cho_check]][ghlm_s_cho_check] | [![check][ghim_s_cho_compile]][ghlm_s_cho_compile] | [![check][ghim_s_cho_bt]][ghlm_s_cho_bt] |
 | DEMA | [![check][ghim_s_dema_check]][ghlm_s_dema_check] | [![check][ghim_s_dema_compile]][ghlm_s_dema_compile] | [![check][ghim_s_dema_bt]][ghlm_s_dema_bt] |
-| Demo | [![check][ghim_s_demo_check]][ghlm_s_demo_check] | [![check][ghim_s_demo_compile]][ghlm_s_demo_compile] | [![check][ghim_s_demo_bt]][ghlm_s_demo_bt] |
 | DeMarker | [![check][ghim_s_dm_check]][ghlm_s_dm_check] | [![check][ghim_s_dm_compile]][ghlm_s_dm_compile] | [![check][ghim_s_dm_bt]][ghlm_s_dm_bt] |
+| Demo | [![check][ghim_s_demo_check]][ghlm_s_demo_check] | [![check][ghim_s_demo_compile]][ghlm_s_demo_compile] | [![check][ghim_s_demo_bt]][ghlm_s_demo_bt] |
 | ElliottWave | [![check][ghim_s_elliott_check]][ghlm_s_elliott_check] | [![check][ghim_s_elliott_compile]][ghlm_s_elliott_compile] | [![check][ghim_s_elliott_bt]][ghlm_s_elliott_bt] |
 | Envelopes | [![check][ghim_s_env_check]][ghlm_s_env_check] | [![check][ghim_s_env_compile]][ghlm_s_env_compile] | [![check][ghim_s_env_bt]][ghlm_s_env_bt] |
 | Force | [![check][ghim_s_force_check]][ghlm_s_force_check] | [![check][ghim_s_force_compile]][ghlm_s_force_compile] | [![check][ghim_s_force_bt]][ghlm_s_force_bt] |
@@ -101,13 +102,14 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
+| (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
 | AD | [![check][ghid_s_ad_check]][ghld_s_ad_check] | [![check][ghid_s_ad_compile]][ghld_s_ad_compile] | [![check][ghid_s_ad_bt]][ghld_s_ad_bt] |
 | ADX | [![check][ghid_s_adx_check]][ghld_s_adx_check] | [![check][ghid_s_adx_compile]][ghld_s_adx_compile] | [![check][ghid_s_adx_bt]][ghld_s_adx_bt] |
 | AMA | [![check][ghid_s_ama_check]][ghld_s_ama_check] | [![check][ghid_s_ama_compile]][ghld_s_ama_compile] | [![check][ghid_s_ama_bt]][ghld_s_ama_bt] |
 | ASI | [![check][ghid_s_asi_check]][ghld_s_asi_check] | [![check][ghid_s_asi_compile]][ghld_s_asi_compile] | [![check][ghid_s_asi_bt]][ghld_s_asi_bt] |
-| ATR | [![check][ghid_s_atr_check]][ghld_s_atr_check] | [![check][ghid_s_atr_compile]][ghld_s_atr_compile] | [![check][ghid_s_atr_bt]][ghld_s_atr_bt] |
 | ATR MA Trend | [![check][ghid_s_atr_ma_trend_check]][ghld_s_atr_ma_trend_check] | [![check][ghid_s_atr_ma_trend_compile]][ghld_s_atr_ma_trend_compile] | [![check][ghid_s_atr_ma_trend_bt]][ghld_s_atr_ma_trend_bt] |
+| ATR | [![check][ghid_s_atr_check]][ghld_s_atr_check] | [![check][ghid_s_atr_compile]][ghld_s_atr_compile] | [![check][ghid_s_atr_bt]][ghld_s_atr_bt] |
 | Alligator | [![check][ghid_s_alli_check]][ghld_s_alli_check] | [![check][ghid_s_alli_compile]][ghld_s_alli_compile] | [![check][ghid_s_alli_bt]][ghld_s_alli_bt] |
 | Awesome | [![check][ghid_s_ao_check]][ghld_s_ao_check] | [![check][ghid_s_ao_compile]][ghld_s_ao_compile] | [![check][ghid_s_ao_bt]][ghld_s_ao_bt] |
 | BWMFI | [![check][ghid_s_bwmfi_check]][ghld_s_bwmfi_check] | [![check][ghid_s_bwmfi_compile]][ghld_s_bwmfi_compile] | [![check][ghid_s_bwmfi_bt]][ghld_s_bwmfi_bt] |
@@ -117,8 +119,8 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | CCI | [![check][ghid_s_cci_check]][ghld_s_cci_check] | [![check][ghid_s_cci_compile]][ghld_s_cci_compile] | [![check][ghid_s_cci_bt]][ghld_s_cci_bt] |
 | Chaikin | [![check][ghid_s_cho_check]][ghld_s_cho_check] | [![check][ghid_s_cho_compile]][ghld_s_cho_compile] | [![check][ghid_s_cho_bt]][ghld_s_cho_bt] |
 | DEMA | [![check][ghid_s_dema_check]][ghld_s_dema_check] | [![check][ghid_s_dema_compile]][ghld_s_dema_compile] | [![check][ghid_s_dema_bt]][ghld_s_dema_bt] |
-| Demo | [![check][ghid_s_demo_check]][ghld_s_demo_check] | [![check][ghid_s_demo_compile]][ghld_s_demo_compile] | [![check][ghid_s_demo_bt]][ghld_s_demo_bt] |
 | DeMarker | [![check][ghid_s_dm_check]][ghld_s_dm_check] | [![check][ghid_s_dm_compile]][ghld_s_dm_compile] | [![check][ghid_s_dm_bt]][ghld_s_dm_bt] |
+| Demo | [![check][ghid_s_demo_check]][ghld_s_demo_check] | [![check][ghid_s_demo_compile]][ghld_s_demo_compile] | [![check][ghid_s_demo_bt]][ghld_s_demo_bt] |
 | ElliottWave | [![check][ghid_s_elliott_check]][ghld_s_elliott_check] | [![check][ghid_s_elliott_compile]][ghld_s_elliott_compile] | [![check][ghid_s_elliott_bt]][ghld_s_elliott_bt] |
 | Envelopes | [![check][ghid_s_env_check]][ghld_s_env_check] | [![check][ghid_s_env_compile]][ghld_s_env_compile] | [![check][ghid_s_env_bt]][ghld_s_env_bt] |
 | Force | [![check][ghid_s_force_check]][ghld_s_force_check] | [![check][ghid_s_force_compile]][ghld_s_force_compile] | [![check][ghid_s_force_bt]][ghld_s_force_bt] |
@@ -241,6 +243,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 
 [license-image]: https://img.shields.io/github/license/EA31337/EA31337-Strategies.svg
 [license-link]: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
+
+[ghlm_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Check+branch:master
+[ghim_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_ac_check]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Check+branch:master
 [ghim_s_ac_check]: https://github.com/EA31337/Strategy-AC/workflows/Check/badge.svg?branch=master
