@@ -49,6 +49,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
+| (Meta) Mirror | [![check][ghim_s_meta_mirror_check]][ghlm_s_meta_mirror_check] | [![check][ghim_s_meta_mirror_compile]][ghlm_s_meta_mirror_compile] | [![check][ghim_s_meta_mirror_bt]][ghlm_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
 | AD | [![check][ghim_s_ad_check]][ghlm_s_ad_check] | [![check][ghim_s_ad_compile]][ghlm_s_ad_compile] | [![check][ghim_s_ad_bt]][ghlm_s_ad_bt] |
@@ -102,6 +103,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
+| (Meta) Mirror | [![check][ghid_s_meta_mirror_check]][ghld_s_meta_mirror_check] | [![check][ghid_s_meta_mirror_compile]][ghld_s_meta_mirror_compile] | [![check][ghid_s_meta_mirror_bt]][ghld_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
 | AD | [![check][ghid_s_ad_check]][ghld_s_ad_check] | [![check][ghid_s_ad_compile]][ghld_s_ad_compile] | [![check][ghid_s_ad_bt]][ghld_s_ad_bt] |
@@ -243,6 +245,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 
 [license-image]: https://img.shields.io/github/license/EA31337/EA31337-Strategies.svg
 [license-link]: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
+
+[ghlm_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Check+branch:master
+[ghim_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Check+branch:master
 [ghim_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Check/badge.svg?branch=master
