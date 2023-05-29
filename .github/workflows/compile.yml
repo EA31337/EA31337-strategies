@@ -6,7 +6,7 @@ on:
   pull_request:
     branches:
       - 'master'
-      - 'dev*'
+      - '*dev*'
     paths-ignore:
       - '*.md'
       - '.git*'
@@ -14,7 +14,7 @@ on:
   push:
     branches:
       - 'master'
-      - 'dev*'
+      - '*dev*'
     paths-ignore:
       - '*.md'
       - '.git*'
