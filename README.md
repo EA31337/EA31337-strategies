@@ -43,6 +43,10 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | v1.009   | v2.009    |
 | v1.010   | v2.010    |
 
+| Tag      | Framework |
+|:--------:|:---------:|
+| v2.000   | v3.000.1  |
+
 ## Status
 
 ### Stable
