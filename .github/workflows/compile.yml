@@ -86,6 +86,13 @@ jobs:
           path: Include/EA31337-classes
           ref: v3.000.1
           repository: EA31337/EA31337-classes
+      - uses: actions/checkout@v2
+        if: ${{ startsWith(matrix.name, 'Meta_') }}
+        with:
+          path: Include/EA31337-strategies
+          ref: v2.000-dev
+          repository: EA31337/EA31337-strategies
+          submodules: recursive
       - name: Enables input mode
         run: echo '#define __input__' > ./${{ matrix.name }}/config/define.h
       - name: Compile for MQL4
