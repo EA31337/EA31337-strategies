@@ -9,16 +9,16 @@
 	url = https://github.com/EA31337/Strategy-ADX
 [submodule "AMA"]
 	path = AMA
-	url = https://github.com/EA31337/Strategy-AMA.git
+	url = https://github.com/EA31337/Strategy-AMA
 [submodule "ASI"]
 	path = ASI
-	url = https://github.com/EA31337/Strategy-ASI.git
+	url = https://github.com/EA31337/Strategy-ASI
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/EA31337/Strategy-ATR
 [submodule "ATR_MA_Trend"]
 	path = ATR_MA_Trend
-	url = https://github.com/EA31337/Strategy-ATR_MA_Trend.git
+	url = https://github.com/EA31337/Strategy-ATR_MA_Trend
 [submodule "Alligator"]
 	path = Alligator
 	url = https://github.com/EA31337/Strategy-Alligator
@@ -42,13 +42,13 @@
 	url = https://github.com/EA31337/Strategy-CCI
 [submodule "Chaikin"]
 	path = Chaikin
-	url = https://github.com/EA31337/Strategy-Chaikin.git
+	url = https://github.com/EA31337/Strategy-Chaikin
 [submodule "Demo"]
 	path = Demo
-	url = https://github.com/EA31337/Strategy-Demo.git
+	url = https://github.com/EA31337/Strategy-Demo
 [submodule "DEMA"]
 	path = DEMA
-	url = https://github.com/EA31337/Strategy-DEMA.git
+	url = https://github.com/EA31337/Strategy-DEMA
 [submodule "DeMarker"]
 	path = DeMarker
 	url = https://github.com/EA31337/Strategy-DeMarker
@@ -96,13 +96,13 @@
 	url = https://github.com/EA31337/Strategy-OsMA
 [submodule "Pattern"]
 	path = Pattern
-	url = https://github.com/EA31337/Strategy-Pattern.git
+	url = https://github.com/EA31337/Strategy-Pattern
 [submodule "Pinbar"]
 	path = Pinbar
-	url = https://github.com/EA31337/Strategy-Pinbar.git
+	url = https://github.com/EA31337/Strategy-Pinbar
 [submodule "Pivot"]
 	path = Pivot
-	url = https://github.com/EA31337/Strategy-Pivot.git
+	url = https://github.com/EA31337/Strategy-Pivot
 [submodule "RSI"]
 	path = RSI
 	url = https://github.com/EA31337/Strategy-RSI
@@ -126,10 +126,10 @@
 	url = https://github.com/EA31337/Strategy-Stochastic
 [submodule "SuperTrend"]
 	path = SuperTrend
-	url = https://github.com/EA31337/Strategy-SuperTrend.git
+	url = https://github.com/EA31337/Strategy-SuperTrend
 [submodule "TMA_CG"]
 	path = TMA_CG
-	url = https://github.com/EA31337/Strategy-TMA_CG.git
+	url = https://github.com/EA31337/Strategy-TMA_CG
 [submodule "TMA_True"]
 	path = TMA_True
 	url = https://github.com/EA31337/Strategy-TMA_True
