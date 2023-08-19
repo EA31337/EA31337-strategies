@@ -42,6 +42,7 @@ enum ENUM_STRATEGY {
   STRAT_CHAIKIN,      // Chaikin
   STRAT_DEMA,         // DEMA
   STRAT_DEMARKER,     // DeMarker
+  STRAT_DPO,          // DPO
   STRAT_ENVELOPES,    // Envelopes
   STRAT_EWO,          // ElliottWave
   STRAT_FORCE,        // Force

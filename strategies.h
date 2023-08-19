@@ -37,6 +37,7 @@
 #include "Chaikin/Stg_Chaikin.mqh"
 #include "DEMA/Stg_DEMA.mqh"
 #include "DeMarker/Stg_DeMarker.mqh"
+#include "DPO/Stg_DPO.mqh"
 #include "ElliottWave/Stg_ElliottWave.mqh"
 #include "Envelopes/Stg_Envelopes.mqh"
 #include "Force/Stg_Force.mqh"

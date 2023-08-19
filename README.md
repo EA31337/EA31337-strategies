@@ -74,6 +74,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | DEMA | [![check][ghim_s_dema_check]][ghlm_s_dema_check] | [![check][ghim_s_dema_compile]][ghlm_s_dema_compile] | [![check][ghim_s_dema_bt]][ghlm_s_dema_bt] |
 | DeMarker | [![check][ghim_s_dm_check]][ghlm_s_dm_check] | [![check][ghim_s_dm_compile]][ghlm_s_dm_compile] | [![check][ghim_s_dm_bt]][ghlm_s_dm_bt] |
 | Demo | [![check][ghim_s_demo_check]][ghlm_s_demo_check] | [![check][ghim_s_demo_compile]][ghlm_s_demo_compile] | [![check][ghim_s_demo_bt]][ghlm_s_demo_bt] |
+| DPO | [![check][ghim_s_dpo_check]][ghlm_s_dpo_check] | [![check][ghim_s_dpo_compile]][ghlm_s_dpo_compile] | [![check][ghim_s_dpo_bt]][ghlm_s_dpo_bt] |
 | ElliottWave | [![check][ghim_s_elliott_check]][ghlm_s_elliott_check] | [![check][ghim_s_elliott_compile]][ghlm_s_elliott_compile] | [![check][ghim_s_elliott_bt]][ghlm_s_elliott_bt] |
 | Envelopes | [![check][ghim_s_env_check]][ghlm_s_env_check] | [![check][ghim_s_env_compile]][ghlm_s_env_compile] | [![check][ghim_s_env_bt]][ghlm_s_env_bt] |
 | Force | [![check][ghim_s_force_check]][ghlm_s_force_check] | [![check][ghim_s_force_compile]][ghlm_s_force_compile] | [![check][ghim_s_force_bt]][ghlm_s_force_bt] |
@@ -129,6 +130,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | DEMA | [![check][ghid_s_dema_check]][ghld_s_dema_check] | [![check][ghid_s_dema_compile]][ghld_s_dema_compile] | [![check][ghid_s_dema_bt]][ghld_s_dema_bt] |
 | DeMarker | [![check][ghid_s_dm_check]][ghld_s_dm_check] | [![check][ghid_s_dm_compile]][ghld_s_dm_compile] | [![check][ghid_s_dm_bt]][ghld_s_dm_bt] |
 | Demo | [![check][ghid_s_demo_check]][ghld_s_demo_check] | [![check][ghid_s_demo_compile]][ghld_s_demo_compile] | [![check][ghid_s_demo_bt]][ghld_s_demo_bt] |
+| DPO | [![check][ghid_s_dpo_check]][ghld_s_dpo_check] | [![check][ghid_s_dpo_compile]][ghld_s_dpo_compile] | [![check][ghid_s_dpo_bt]][ghld_s_dpo_bt] |
 | ElliottWave | [![check][ghid_s_elliott_check]][ghld_s_elliott_check] | [![check][ghid_s_elliott_compile]][ghld_s_elliott_compile] | [![check][ghid_s_elliott_bt]][ghld_s_elliott_bt] |
 | Envelopes | [![check][ghid_s_env_check]][ghld_s_env_check] | [![check][ghid_s_env_compile]][ghld_s_env_compile] | [![check][ghid_s_env_bt]][ghld_s_env_bt] |
 | Force | [![check][ghid_s_force_check]][ghld_s_force_check] | [![check][ghid_s_force_compile]][ghld_s_force_compile] | [![check][ghid_s_force_bt]][ghld_s_force_bt] |
@@ -545,6 +547,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_dm_compile]: https://github.com/EA31337/Strategy-DeMarker/workflows/Compile/badge.svg?branch=dev
 [ghld_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Backtest+branch:dev
 [ghid_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Check+branch:master
+[ghim_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/workflows/Check/badge.svg?branch=master
+[ghlm_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Compile+branch:master
+[ghim_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/workflows/Compile/badge.svg?branch=master
+[ghlm_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Backtest+branch:master
+[ghim_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Check+branch:dev
+[ghid_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/workflows/Check/badge.svg?branch=dev
+[ghld_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Compile+branch:dev
+[ghid_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/workflows/Compile/badge.svg?branch=dev
+[ghld_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Backtest+branch:dev
+[ghid_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Check+branch:master
 [ghim_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Check/badge.svg?branch=master
