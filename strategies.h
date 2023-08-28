@@ -53,6 +53,7 @@
 #include "Momentum/Stg_Momentum.mqh"
 #include "OBV/Stg_OBV.mqh"
 #include "OSMA/Stg_OSMA.mqh"
+#include "Oscillator/Stg_Oscillator.mqh"
 #include "Pattern/Stg_Pattern.mqh"
 #include "Pinbar/Stg_Pinbar.mqh"
 #include "Pivot/Stg_Pivot.mqh"

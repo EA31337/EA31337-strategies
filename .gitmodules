@@ -103,6 +103,9 @@
 [submodule "OsMA"]
 	path = OsMA
 	url = https://github.com/EA31337/Strategy-OsMA
+[submodule "Oscillator"]
+	path = Oscillator
+	url = https://github.com/EA31337/Strategy-Oscillator.git
 [submodule "Pattern"]
 	path = Pattern
 	url = https://github.com/EA31337/Strategy-Pattern.git

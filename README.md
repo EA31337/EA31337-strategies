@@ -89,6 +89,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Momentum | [![check][ghim_s_mom_check]][ghlm_s_mom_check] | [![check][ghim_s_mom_compile]][ghlm_s_mom_compile] | [![check][ghim_s_mom_bt]][ghlm_s_mom_bt] |
 | OBV | [![check][ghim_s_obv_check]][ghlm_s_obv_check] | [![check][ghim_s_obv_compile]][ghlm_s_obv_compile] | [![check][ghim_s_obv_bt]][ghlm_s_obv_bt] |
 | OsMA | [![check][ghim_s_osma_check]][ghlm_s_osma_check] | [![check][ghim_s_osma_compile]][ghlm_s_osma_compile] | [![check][ghim_s_osma_bt]][ghlm_s_osma_bt] |
+| Oscillator | [![check][ghim_s_osc_check]][ghlm_s_osc_check] | [![check][ghim_s_osc_compile]][ghlm_s_osc_compile] | [![check][ghim_s_osc_bt]][ghlm_s_osc_bt] |
 | Pinbar | [![check][ghim_s_pinbar_check]][ghlm_s_pinbar_check] | [![check][ghim_s_pinbar_compile]][ghlm_s_pinbar_compile] | [![check][ghim_s_pinbar_bt]][ghlm_s_pinbar_bt] |
 | Pivot | [![check][ghim_s_pivot_check]][ghlm_s_pivot_check] | [![check][ghim_s_pivot_compile]][ghlm_s_pivot_compile] | [![check][ghim_s_pivot_bt]][ghlm_s_pivot_bt] |
 | RSI | [![check][ghim_s_rsi_check]][ghlm_s_rsi_check] | [![check][ghim_s_rsi_compile]][ghlm_s_rsi_compile] | [![check][ghim_s_rsi_bt]][ghlm_s_rsi_bt] |
@@ -145,6 +146,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Momentum | [![check][ghid_s_mom_check]][ghld_s_mom_check] | [![check][ghid_s_mom_compile]][ghld_s_mom_compile] | [![check][ghid_s_mom_bt]][ghld_s_mom_bt] |
 | OBV | [![check][ghid_s_obv_check]][ghld_s_obv_check] | [![check][ghid_s_obv_compile]][ghld_s_obv_compile] | [![check][ghid_s_obv_bt]][ghld_s_obv_bt] |
 | OsMA | [![check][ghid_s_osma_check]][ghld_s_osma_check] | [![check][ghid_s_osma_compile]][ghld_s_osma_compile] | [![check][ghid_s_osma_bt]][ghld_s_osma_bt] |
+| Oscillator | [![check][ghid_s_osc_check]][ghld_s_osc_check] | [![check][ghid_s_osc_compile]][ghld_s_osc_compile] | [![check][ghid_s_osc_bt]][ghld_s_osc_bt] |
 | Pinbar | [![check][ghid_s_pinbar_check]][ghld_s_pinbar_check] | [![check][ghid_s_pinbar_compile]][ghld_s_pinbar_compile] | [![check][ghid_s_pinbar_bt]][ghld_s_pinbar_bt] |
 | Pivot | [![check][ghid_s_pivot_check]][ghld_s_pivot_check] | [![check][ghid_s_pivot_compile]][ghld_s_pivot_compile] | [![check][ghid_s_pivot_bt]][ghld_s_pivot_bt] |
 | RSI | [![check][ghid_s_rsi_check]][ghld_s_rsi_check] | [![check][ghid_s_rsi_compile]][ghld_s_rsi_compile] | [![check][ghid_s_rsi_bt]][ghld_s_rsi_bt] |
@@ -743,6 +745,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_obv_compile]: https://github.com/EA31337/Strategy-OBV/workflows/Compile/badge.svg?branch=dev
 [ghld_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Backtest+branch:dev
 [ghid_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Check+branch:master
+[ghim_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/workflows/Check/badge.svg?branch=master
+[ghlm_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Compile+branch:master
+[ghim_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/workflows/Compile/badge.svg?branch=master
+[ghlm_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Backtest+branch:master
+[ghim_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Check+branch:dev
+[ghid_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/workflows/Check/badge.svg?branch=dev
+[ghld_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Compile+branch:dev
+[ghid_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/workflows/Compile/badge.svg?branch=dev
+[ghld_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Backtest+branch:dev
+[ghid_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Check+branch:master
 [ghim_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/workflows/Check/badge.svg?branch=master
