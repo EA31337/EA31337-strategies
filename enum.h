@@ -60,6 +60,7 @@ enum ENUM_STRATEGY {
   STRAT_MOMENTUM,     // Momentum
   STRAT_OBV,          // OBV
   STRAT_OSCILLATOR,   // Oscillator
+  STRAT_OSCILLATOR_MULTI, // Oscillator Multi
   STRAT_OSMA,         // OSMA
   STRAT_PATTERN,      // Pattern
   STRAT_PINBAR,       // Pinbar
