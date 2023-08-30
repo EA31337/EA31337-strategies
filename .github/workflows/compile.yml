@@ -65,6 +65,7 @@ jobs:
           - Oscillator
           - Oscillator_Multi
           - Oscillator_Cross
+          - Oscillator_Cross_Shift
           - Pattern
           - Pinbar
           - Pivot

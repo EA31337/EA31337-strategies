@@ -62,6 +62,7 @@ enum ENUM_STRATEGY {
   STRAT_OSCILLATOR,   // Oscillator
   STRAT_OSCILLATOR_MULTI, // Oscillator Multi
   STRAT_OSCILLATOR_CROSS, // Oscillator Cross
+  STRAT_OSCILLATOR_CROSS_SHIFT, // Oscillator Cross Shift
   STRAT_OSMA,         // OSMA
   STRAT_PATTERN,      // Pattern
   STRAT_PINBAR,       // Pinbar
