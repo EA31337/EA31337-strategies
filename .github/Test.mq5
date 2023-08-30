@@ -24,11 +24,11 @@
 #include <EA31337-classes/Pattern.mqh>
 
 // Includes indicator classes.
-#include <EA31337-classes/Indicators/indicators.h>
 #include <EA31337-classes/Indicators/Bitwise/indicators.h>
 #include <EA31337-classes/Indicators/OHLC/indicators.h>
 #include <EA31337-classes/Indicators/Price/indicators.h>
 #include <EA31337-classes/Indicators/Special/indicators.h>
+#include <EA31337-classes/Indicators/indicators.h>
 
 // Local includes.
 #include "../enum.h"

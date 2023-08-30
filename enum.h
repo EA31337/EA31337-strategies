@@ -33,44 +33,44 @@ enum ENUM_STRATEGY {
 #ifdef __MQL5__
 // STRAT_ATR_MA_TREND,  // ATR MA Trend
 #endif
-  STRAT_AWESOME,      // Awesome
-  STRAT_BANDS,        // Bands
-  STRAT_BEARS_POWER,  // Bear Power
-  STRAT_BULLS_POWER,  // Bulls Power
-  STRAT_BWMFI,        // BWMFI
-  STRAT_CCI,          // CCI
-  STRAT_CHAIKIN,      // Chaikin
-  STRAT_DEMA,         // DEMA
-  STRAT_DEMARKER,     // DeMarker
-  STRAT_DPO,          // DPO
-  STRAT_ENVELOPES,    // Envelopes
-  STRAT_EWO,          // ElliottWave
-  STRAT_FORCE,        // Force
-  STRAT_FRACTALS,     // Fractals
-  STRAT_GATOR,        // Gator
-  STRAT_HEIKEN_ASHI,  // Heiken Ashi
-  STRAT_ICHIMOKU,     // Ichimoku
-  STRAT_INDICATOR,    // Indicator
-  STRAT_MA,           // MA
-  STRAT_MACD,         // MACD
-  STRAT_META_MIRROR,  // (Meta) Mirror
-  STRAT_META_MULTI,   // (Meta) Multi
-  STRAT_META_REVERSAL,// (Meta) Reversal
-  STRAT_MFI,          // MFI
-  STRAT_MOMENTUM,     // Momentum
-  STRAT_OBV,          // OBV
-  STRAT_OSCILLATOR,   // Oscillator
-  STRAT_OSCILLATOR_MULTI, // Oscillator Multi
-  STRAT_OSCILLATOR_CROSS, // Oscillator Cross
-  STRAT_OSCILLATOR_CROSS_SHIFT, // Oscillator Cross Shift
-  STRAT_OSCILLATOR_RANGE, // Oscillator Range
-  STRAT_OSMA,         // OSMA
-  STRAT_PATTERN,      // Pattern
-  STRAT_PINBAR,       // Pinbar
-  STRAT_PIVOT,        // Pivot
-  STRAT_RSI,          // RSI
-  STRAT_RVI,          // RVI
-  STRAT_SAR,          // SAR
+  STRAT_AWESOME,                 // Awesome
+  STRAT_BANDS,                   // Bands
+  STRAT_BEARS_POWER,             // Bear Power
+  STRAT_BULLS_POWER,             // Bulls Power
+  STRAT_BWMFI,                   // BWMFI
+  STRAT_CCI,                     // CCI
+  STRAT_CHAIKIN,                 // Chaikin
+  STRAT_DEMA,                    // DEMA
+  STRAT_DEMARKER,                // DeMarker
+  STRAT_DPO,                     // DPO
+  STRAT_ENVELOPES,               // Envelopes
+  STRAT_EWO,                     // ElliottWave
+  STRAT_FORCE,                   // Force
+  STRAT_FRACTALS,                // Fractals
+  STRAT_GATOR,                   // Gator
+  STRAT_HEIKEN_ASHI,             // Heiken Ashi
+  STRAT_ICHIMOKU,                // Ichimoku
+  STRAT_INDICATOR,               // Indicator
+  STRAT_MA,                      // MA
+  STRAT_MACD,                    // MACD
+  STRAT_META_MIRROR,             // (Meta) Mirror
+  STRAT_META_MULTI,              // (Meta) Multi
+  STRAT_META_REVERSAL,           // (Meta) Reversal
+  STRAT_MFI,                     // MFI
+  STRAT_MOMENTUM,                // Momentum
+  STRAT_OBV,                     // OBV
+  STRAT_OSCILLATOR,              // Oscillator
+  STRAT_OSCILLATOR_MULTI,        // Oscillator Multi
+  STRAT_OSCILLATOR_CROSS,        // Oscillator Cross
+  STRAT_OSCILLATOR_CROSS_SHIFT,  // Oscillator Cross Shift
+  STRAT_OSCILLATOR_RANGE,        // Oscillator Range
+  STRAT_OSMA,                    // OSMA
+  STRAT_PATTERN,                 // Pattern
+  STRAT_PINBAR,                  // Pinbar
+  STRAT_PIVOT,                   // Pivot
+  STRAT_RSI,                     // RSI
+  STRAT_RVI,                     // RVI
+  STRAT_SAR,                     // SAR
   // STRAT_SAWA,          // SAWA
   STRAT_STDDEV,      // StdDev
   STRAT_STOCHASTIC,  // Stochastic
