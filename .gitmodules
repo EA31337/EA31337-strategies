@@ -106,6 +106,9 @@
 [submodule "Oscillator"]
 	path = Oscillator
 	url = https://github.com/EA31337/Strategy-Oscillator.git
+[submodule "Oscillator_Cross"]
+	path = Oscillator_Cross
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross.git
 [submodule "Oscillator_Multi"]
 	path = Oscillator_Multi
 	url = https://github.com/EA31337/Strategy-Oscillator_Multi.git

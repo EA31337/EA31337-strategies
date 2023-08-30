@@ -55,6 +55,7 @@
 #include "OSMA/Stg_OSMA.mqh"
 #include "Oscillator/Stg_Oscillator.mqh"
 #include "Oscillator_Multi/Stg_Oscillator_Multi.mqh"
+#include "Oscillator_Cross/Stg_Oscillator_Cross.mqh"
 #include "Pattern/Stg_Pattern.mqh"
 #include "Pinbar/Stg_Pinbar.mqh"
 #include "Pivot/Stg_Pivot.mqh"

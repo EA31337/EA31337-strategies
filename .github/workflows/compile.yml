@@ -64,6 +64,7 @@ jobs:
           - OsMA
           - Oscillator
           - Oscillator_Multi
+          - Oscillator_Cross
           - Pattern
           - Pinbar
           - Pivot
