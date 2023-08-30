@@ -57,6 +57,7 @@
 #include "Oscillator_Multi/Stg_Oscillator_Multi.mqh"
 #include "Oscillator_Cross/Stg_Oscillator_Cross.mqh"
 #include "Oscillator_Cross_Shift/Stg_Oscillator_Cross_Shift.mqh"
+#include "Oscillator_Range/Stg_Oscillator_Range.mqh"
 #include "Pattern/Stg_Pattern.mqh"
 #include "Pinbar/Stg_Pinbar.mqh"
 #include "Pivot/Stg_Pivot.mqh"

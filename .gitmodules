@@ -115,6 +115,9 @@
 [submodule "Oscillator_Multi"]
 	path = Oscillator_Multi
 	url = https://github.com/EA31337/Strategy-Oscillator_Multi.git
+[submodule "Oscillator_Range"]
+	path = Oscillator_Range
+	url = https://github.com/EA31337/Strategy-Oscillator_Range.git
 [submodule "Pattern"]
 	path = Pattern
 	url = https://github.com/EA31337/Strategy-Pattern.git

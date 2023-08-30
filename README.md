@@ -93,6 +93,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator Cross | [![check][ghim_s_osc_cross_check]][ghlm_s_osc_cross_check] | [![check][ghim_s_osc_cross_compile]][ghlm_s_osc_cross_compile] | [![check][ghim_s_osc_cross_bt]][ghlm_s_osc_cross_bt] |
 | Oscillator Cross Shift | [![check][ghim_s_osc_cross_shift_check]][ghlm_s_osc_cross_shift_check] | [![check][ghim_s_osc_cross_shift_compile]][ghlm_s_osc_cross_shift_compile] | [![check][ghim_s_osc_cross_shift_bt]][ghlm_s_osc_cross_shift_bt] |
 | Oscillator Multi | [![check][ghim_s_osc_multi_check]][ghlm_s_osc_multi_check] | [![check][ghim_s_osc_multi_compile]][ghlm_s_osc_multi_compile] | [![check][ghim_s_osc_multi_bt]][ghlm_s_osc_multi_bt] |
+| Oscillator Range | [![check][ghim_s_osc_range_check]][ghlm_s_osc_range_check] | [![check][ghim_s_osc_range_compile]][ghlm_s_osc_range_compile] | [![check][ghim_s_osc_range_bt]][ghlm_s_osc_range_bt] |
 | Pinbar | [![check][ghim_s_pinbar_check]][ghlm_s_pinbar_check] | [![check][ghim_s_pinbar_compile]][ghlm_s_pinbar_compile] | [![check][ghim_s_pinbar_bt]][ghlm_s_pinbar_bt] |
 | Pivot | [![check][ghim_s_pivot_check]][ghlm_s_pivot_check] | [![check][ghim_s_pivot_compile]][ghlm_s_pivot_compile] | [![check][ghim_s_pivot_bt]][ghlm_s_pivot_bt] |
 | RSI | [![check][ghim_s_rsi_check]][ghlm_s_rsi_check] | [![check][ghim_s_rsi_compile]][ghlm_s_rsi_compile] | [![check][ghim_s_rsi_bt]][ghlm_s_rsi_bt] |
@@ -153,6 +154,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator Cross | [![check][ghid_s_osc_cross_check]][ghld_s_osc_cross_check] | [![check][ghid_s_osc_cross_compile]][ghld_s_osc_cross_compile] | [![check][ghid_s_osc_cross_bt]][ghld_s_osc_cross_bt] |
 | Oscillator Cross Shift | [![check][ghid_s_osc_cross_shift_check]][ghld_s_osc_cross_shift_check] | [![check][ghid_s_osc_cross_shift_compile]][ghld_s_osc_cross_shift_compile] | [![check][ghid_s_osc_cross_shift_bt]][ghld_s_osc_cross_shift_bt] |
 | Oscillator Multi | [![check][ghid_s_osc_multi_check]][ghld_s_osc_multi_check] | [![check][ghid_s_osc_multi_compile]][ghld_s_osc_multi_compile] | [![check][ghid_s_osc_multi_bt]][ghld_s_osc_multi_bt] |
+| Oscillator Range | [![check][ghid_s_osc_range_check]][ghld_s_osc_range_check] | [![check][ghid_s_osc_range_compile]][ghld_s_osc_range_compile] | [![check][ghid_s_osc_range_bt]][ghld_s_osc_range_bt] |
 | Pinbar | [![check][ghid_s_pinbar_check]][ghld_s_pinbar_check] | [![check][ghid_s_pinbar_compile]][ghld_s_pinbar_compile] | [![check][ghid_s_pinbar_bt]][ghld_s_pinbar_bt] |
 | Pivot | [![check][ghid_s_pivot_check]][ghld_s_pivot_check] | [![check][ghid_s_pivot_compile]][ghld_s_pivot_compile] | [![check][ghid_s_pivot_bt]][ghld_s_pivot_bt] |
 | RSI | [![check][ghid_s_rsi_check]][ghld_s_rsi_check] | [![check][ghid_s_rsi_compile]][ghld_s_rsi_compile] | [![check][ghid_s_rsi_bt]][ghld_s_rsi_bt] |
@@ -807,6 +809,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_osc_multi_compile]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Compile/badge.svg?branch=dev
 [ghld_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Backtest+branch:dev
 [ghid_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Check+branch:master
+[ghim_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Check/badge.svg?branch=master
+[ghlm_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Compile+branch:master
+[ghim_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Compile/badge.svg?branch=master
+[ghlm_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Backtest+branch:master
+[ghim_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Check+branch:dev
+[ghid_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Check/badge.svg?branch=dev
+[ghld_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Compile+branch:dev
+[ghid_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Compile/badge.svg?branch=dev
+[ghld_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Backtest+branch:dev
+[ghid_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Check+branch:master
 [ghim_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/workflows/Check/badge.svg?branch=master
