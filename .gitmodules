@@ -169,3 +169,6 @@
 [submodule "DPO"]
 	path = DPO
 	url = https://github.com/EA31337/Strategy-DPO.git
+[submodule "Oscillator_Divergence"]
+	path = Oscillator_Divergence
+	url = https://github.com/EA31337/Strategy-Oscillator_Divergence.git

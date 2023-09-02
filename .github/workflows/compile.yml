@@ -63,6 +63,7 @@ jobs:
           - OBV
           - OsMA
           - Oscillator
+          - Oscillator_Divergence
           - Oscillator_Multi
           - Oscillator_Cross
           - Oscillator_Cross_Shift
