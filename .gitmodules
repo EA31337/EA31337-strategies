@@ -172,3 +172,6 @@
 [submodule "Oscillator_Divergence"]
 	path = Oscillator_Divergence
 	url = https://github.com/EA31337/Strategy-Oscillator_Divergence.git
+[submodule "Oscillator_Cross_Zero"]
+	path = Oscillator_Cross_Zero
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Zero.git

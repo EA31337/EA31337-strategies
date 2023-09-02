@@ -57,6 +57,7 @@
 #include "Oscillator_Divergence/Stg_Oscillator_Divergence.mqh"
 #include "Oscillator_Cross/Stg_Oscillator_Cross.mqh"
 #include "Oscillator_Cross_Shift/Stg_Oscillator_Cross_Shift.mqh"
+#include "Oscillator_Cross_Zero/Stg_Oscillator_Cross_Zero.mqh"
 #include "Oscillator_Multi/Stg_Oscillator_Multi.mqh"
 #include "Oscillator_Range/Stg_Oscillator_Range.mqh"
 #include "Pattern/Stg_Pattern.mqh"

@@ -67,6 +67,7 @@ jobs:
           - Oscillator_Multi
           - Oscillator_Cross
           - Oscillator_Cross_Shift
+          - Oscillator_Cross_Zero
           - Oscillator_Range
           - Pattern
           - Pinbar
