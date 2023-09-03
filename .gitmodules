@@ -52,6 +52,9 @@
 [submodule "DeMarker"]
 	path = DeMarker
 	url = https://github.com/EA31337/Strategy-DeMarker
+[submodule "DPO"]
+	path = DPO
+	url = https://github.com/EA31337/Strategy-DPO.git
 [submodule "ElliottWave"]
 	path = ElliottWave
 	url = https://github.com/EA31337/Strategy-ElliottWave
@@ -115,6 +118,12 @@
 [submodule "Oscillator_Cross_Shift"]
 	path = Oscillator_Cross_Shift
 	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Shift.git
+[submodule "Oscillator_Cross_Zero"]
+	path = Oscillator_Cross_Zero
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Zero.git
+[submodule "Oscillator_Divergence"]
+	path = Oscillator_Divergence
+	url = https://github.com/EA31337/Strategy-Oscillator_Divergence.git
 [submodule "Oscillator_Multi"]
 	path = Oscillator_Multi
 	url = https://github.com/EA31337/Strategy-Oscillator_Multi.git
@@ -169,12 +178,3 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag
-[submodule "DPO"]
-	path = DPO
-	url = https://github.com/EA31337/Strategy-DPO.git
-[submodule "Oscillator_Divergence"]
-	path = Oscillator_Divergence
-	url = https://github.com/EA31337/Strategy-Oscillator_Divergence.git
-[submodule "Oscillator_Cross_Zero"]
-	path = Oscillator_Cross_Zero
-	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Zero.git
