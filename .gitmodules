@@ -82,6 +82,9 @@
 [submodule "MA"]
 	path = MA
 	url = https://github.com/EA31337/Strategy-MA
+[submodule "MA_Cross_Pivot"]
+	path = MA_Cross_Pivot
+	url = https://github.com/EA31337/Strategy-MA_Cross_Pivot.git
 [submodule "MA_Cross_Shift"]
 	path = MA_Cross_Shift
 	url = https://github.com/EA31337/Strategy-MA_Cross_Shift.git

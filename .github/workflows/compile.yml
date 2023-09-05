@@ -54,6 +54,7 @@ jobs:
           - Ichimoku
           - Indicator
           - MA
+          - MA_Cross_Pivot
           - MA_Cross_Shift
           - MACD
           - MFI
