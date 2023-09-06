@@ -56,6 +56,7 @@ jobs:
           - MA
           - MA_Cross_Pivot
           - MA_Cross_Shift
+          - MA_Cross_Sup_Res
           - MACD
           - MFI
           - Meta_Mirror
