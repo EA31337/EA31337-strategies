@@ -64,6 +64,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | ATR MA Trend | [![check][ghim_s_atr_ma_trend_check]][ghlm_s_atr_ma_trend_check] | [![check][ghim_s_atr_ma_trend_compile]][ghlm_s_atr_ma_trend_compile] | [![check][ghim_s_atr_ma_trend_bt]][ghlm_s_atr_ma_trend_bt] |
 | ATR | [![check][ghim_s_atr_check]][ghlm_s_atr_check] | [![check][ghim_s_atr_compile]][ghlm_s_atr_compile] | [![check][ghim_s_atr_bt]][ghlm_s_atr_bt] |
 | Alligator | [![check][ghim_s_alli_check]][ghlm_s_alli_check] | [![check][ghim_s_alli_compile]][ghlm_s_alli_compile] | [![check][ghim_s_alli_bt]][ghlm_s_alli_bt] |
+| Arrows | [![check][ghim_s_arrows_check]][ghlm_s_arrows_check] | [![check][ghim_s_arrows_compile]][ghlm_s_arrows_compile] | [![check][ghim_s_arrows_bt]][ghlm_s_arrows_bt] |
 | Awesome | [![check][ghim_s_ao_check]][ghlm_s_ao_check] | [![check][ghim_s_ao_compile]][ghlm_s_ao_compile] | [![check][ghim_s_ao_bt]][ghlm_s_ao_bt] |
 | BWMFI | [![check][ghim_s_bwmfi_check]][ghlm_s_bwmfi_check] | [![check][ghim_s_bwmfi_compile]][ghlm_s_bwmfi_compile] | [![check][ghim_s_bwmfi_bt]][ghlm_s_bwmfi_bt] |
 | Bands | [![check][ghim_s_bands_check]][ghlm_s_bands_check] | [![check][ghim_s_bands_compile]][ghlm_s_bands_compile] | [![check][ghim_s_bands_bt]][ghlm_s_bands_bt] |
@@ -130,6 +131,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | ATR MA Trend | [![check][ghid_s_atr_ma_trend_check]][ghld_s_atr_ma_trend_check] | [![check][ghid_s_atr_ma_trend_compile]][ghld_s_atr_ma_trend_compile] | [![check][ghid_s_atr_ma_trend_bt]][ghld_s_atr_ma_trend_bt] |
 | ATR | [![check][ghid_s_atr_check]][ghld_s_atr_check] | [![check][ghid_s_atr_compile]][ghld_s_atr_compile] | [![check][ghid_s_atr_bt]][ghld_s_atr_bt] |
 | Alligator | [![check][ghid_s_alli_check]][ghld_s_alli_check] | [![check][ghid_s_alli_compile]][ghld_s_alli_compile] | [![check][ghid_s_alli_bt]][ghld_s_alli_bt] |
+| Arrows | [![check][ghid_s_arrows_check]][ghld_s_arrows_check] | [![check][ghid_s_arrows_compile]][ghld_s_arrows_compile] | [![check][ghid_s_arrows_bt]][ghld_s_arrows_bt] |
 | Awesome | [![check][ghid_s_ao_check]][ghld_s_ao_check] | [![check][ghid_s_ao_compile]][ghld_s_ao_compile] | [![check][ghid_s_ao_bt]][ghld_s_ao_bt] |
 | BWMFI | [![check][ghid_s_bwmfi_check]][ghld_s_bwmfi_check] | [![check][ghid_s_bwmfi_compile]][ghld_s_bwmfi_compile] | [![check][ghid_s_bwmfi_bt]][ghld_s_bwmfi_bt] |
 | Bands | [![check][ghid_s_bands_check]][ghld_s_bands_check] | [![check][ghid_s_bands_compile]][ghld_s_bands_compile] | [![check][ghid_s_bands_bt]][ghld_s_bands_bt] |
@@ -427,6 +429,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_alli_compile]: https://github.com/EA31337/Strategy-Alligator/workflows/Compile/badge.svg?branch=dev
 [ghld_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Backtest+branch:dev
 [ghid_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Check+branch:master
+[ghim_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/workflows/Check/badge.svg?branch=master
+[ghlm_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Compile+branch:master
+[ghim_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/workflows/Compile/badge.svg?branch=master
+[ghlm_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Backtest+branch:master
+[ghim_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Check+branch:dev
+[ghid_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/workflows/Check/badge.svg?branch=dev
+[ghld_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Compile+branch:dev
+[ghid_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/workflows/Compile/badge.svg?branch=dev
+[ghld_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Backtest+branch:dev
+[ghid_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Check+branch:master
 [ghim_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/workflows/Check/badge.svg?branch=master

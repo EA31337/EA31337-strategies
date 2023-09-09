@@ -28,6 +28,7 @@
 #include "ATR/Stg_ATR.mqh"
 #include "ATR_MA_Trend/Stg_ATR_MA_Trend.mqh"
 #include "Alligator/Stg_Alligator.mqh"
+#include "Arrows/Stg_Arrows.mqh"
 #include "Awesome/Stg_Awesome.mqh"
 #include "BWMFI/Stg_BWMFI.mqh"
 #include "Bands/Stg_Bands.mqh"

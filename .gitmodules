@@ -184,3 +184,6 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag
+[submodule "Arrows"]
+	path = Arrows
+	url = https://github.com/EA31337/Strategy-Arrows.git

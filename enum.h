@@ -28,6 +28,7 @@ enum ENUM_STRATEGY {
   STRAT_ADX,        // ADX
   STRAT_ALLIGATOR,  // Alligator
   STRAT_AMA,        // AMA
+  STRAT_ARROWS,     // Arrows
   STRAT_ASI,        // ASI
   STRAT_ATR,        // ATR
 #ifdef __MQL5__
