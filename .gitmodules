@@ -187,3 +187,6 @@
 [submodule "Arrows"]
 	path = Arrows
 	url = https://github.com/EA31337/Strategy-Arrows.git
+[submodule "Retracement"]
+	path = Retracement
+	url = https://github.com/EA31337/Strategy-Retracement.git

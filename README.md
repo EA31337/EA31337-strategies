@@ -102,6 +102,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator Range | [![check][ghim_s_osc_range_check]][ghlm_s_osc_range_check] | [![check][ghim_s_osc_range_compile]][ghlm_s_osc_range_compile] | [![check][ghim_s_osc_range_bt]][ghlm_s_osc_range_bt] |
 | Pinbar | [![check][ghim_s_pinbar_check]][ghlm_s_pinbar_check] | [![check][ghim_s_pinbar_compile]][ghlm_s_pinbar_compile] | [![check][ghim_s_pinbar_bt]][ghlm_s_pinbar_bt] |
 | Pivot | [![check][ghim_s_pivot_check]][ghlm_s_pivot_check] | [![check][ghim_s_pivot_compile]][ghlm_s_pivot_compile] | [![check][ghim_s_pivot_bt]][ghlm_s_pivot_bt] |
+| Retracement | [![check][ghim_s_retracement_check]][ghlm_s_retracement_check] | [![check][ghim_s_retracement_compile]][ghlm_s_retracement_compile] | [![check][ghim_s_retracement_bt]][ghlm_s_retracement_bt] |
 | RSI | [![check][ghim_s_rsi_check]][ghlm_s_rsi_check] | [![check][ghim_s_rsi_compile]][ghlm_s_rsi_compile] | [![check][ghim_s_rsi_bt]][ghlm_s_rsi_bt] |
 | RVI | [![check][ghim_s_rvi_check]][ghlm_s_rvi_check] | [![check][ghim_s_rvi_compile]][ghlm_s_rvi_compile] | [![check][ghim_s_rvi_bt]][ghlm_s_rvi_bt] |
 | SAR | [![check][ghim_s_sar_check]][ghlm_s_sar_check] | [![check][ghim_s_sar_compile]][ghlm_s_sar_compile] | [![check][ghim_s_sar_bt]][ghlm_s_sar_bt] |
@@ -169,6 +170,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator Range | [![check][ghid_s_osc_range_check]][ghld_s_osc_range_check] | [![check][ghid_s_osc_range_compile]][ghld_s_osc_range_compile] | [![check][ghid_s_osc_range_bt]][ghld_s_osc_range_bt] |
 | Pinbar | [![check][ghid_s_pinbar_check]][ghld_s_pinbar_check] | [![check][ghid_s_pinbar_compile]][ghld_s_pinbar_compile] | [![check][ghid_s_pinbar_bt]][ghld_s_pinbar_bt] |
 | Pivot | [![check][ghid_s_pivot_check]][ghld_s_pivot_check] | [![check][ghid_s_pivot_compile]][ghld_s_pivot_compile] | [![check][ghid_s_pivot_bt]][ghld_s_pivot_bt] |
+| Retracement | [![check][ghid_s_retracement_check]][ghld_s_retracement_check] | [![check][ghid_s_retracement_compile]][ghld_s_retracement_compile] | [![check][ghid_s_retracement_bt]][ghld_s_retracement_bt] |
 | RSI | [![check][ghid_s_rsi_check]][ghld_s_rsi_check] | [![check][ghid_s_rsi_compile]][ghld_s_rsi_compile] | [![check][ghid_s_rsi_bt]][ghld_s_rsi_bt] |
 | RVI | [![check][ghid_s_rvi_check]][ghld_s_rvi_check] | [![check][ghid_s_rvi_compile]][ghld_s_rvi_compile] | [![check][ghid_s_rvi_bt]][ghld_s_rvi_bt] |
 | SAR | [![check][ghid_s_sar_check]][ghld_s_sar_check] | [![check][ghid_s_sar_compile]][ghld_s_sar_compile] | [![check][ghid_s_sar_bt]][ghld_s_sar_bt] |
@@ -961,6 +963,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/workflows/Compile/badge.svg?branch=dev
 [ghld_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Backtest+branch:dev
 [ghid_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Check+branch:master
+[ghim_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/workflows/Check/badge.svg?branch=master
+[ghlm_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Compile+branch:master
+[ghim_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/workflows/Compile/badge.svg?branch=master
+[ghlm_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Backtest+branch:master
+[ghim_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Check+branch:dev
+[ghid_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/workflows/Check/badge.svg?branch=dev
+[ghld_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Compile+branch:dev
+[ghid_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/workflows/Compile/badge.svg?branch=dev
+[ghld_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Backtest+branch:dev
+[ghid_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Check+branch:master
 [ghim_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/workflows/Check/badge.svg?branch=master

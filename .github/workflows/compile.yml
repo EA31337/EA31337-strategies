@@ -75,6 +75,7 @@ jobs:
           - Pattern
           - Pinbar
           - Pivot
+          - Retracement
           - RSI
           - RVI
           - SAR

@@ -67,6 +67,7 @@
 #include "Pattern/Stg_Pattern.mqh"
 #include "Pinbar/Stg_Pinbar.mqh"
 #include "Pivot/Stg_Pivot.mqh"
+#include "Retracement/Stg_Retracement.mqh"
 #include "RSI/Stg_RSI.mqh"
 #include "RVI/Stg_RVI.mqh"
 #include "SAR/Stg_SAR.mqh"

@@ -74,6 +74,7 @@ enum ENUM_STRATEGY {
   STRAT_PATTERN,                 // Pattern
   STRAT_PINBAR,                  // Pinbar
   STRAT_PIVOT,                   // Pivot
+  STRAT_RETRACEMENT,             // Retracement
   STRAT_RSI,                     // RSI
   STRAT_RVI,                     // RVI
   STRAT_SAR,                     // SAR
