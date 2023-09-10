@@ -7,6 +7,7 @@
 [![Status][gha-image-check-master]][gha-link-check-master]
 [![Status][gha-image-compile-master]][gha-link-compile-master]
 [![License][license-image]][license-link]
+[![Edit][gh-edit-badge]][gh-edit-link]
 
 ## About the project
 
@@ -40,8 +41,10 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | v1.000   | v2.000    |
 | v1.001   | v2.001    |
 | ...      | ...       |
-| v1.009   | v2.009    |
 | v1.010   | v2.010    |
+| v1.011   | v2.011.1  |
+| v1.012   | v2.012.1  |
+| v1.013   | v2.013    |
 
 | Tag      | Framework |
 |:--------:|:---------:|
@@ -222,7 +225,7 @@ these TERMS OF USE and that you agree to be bound by such Terms of Use ("License
 
 ### Copyright information
 
-Copyright © 2016-2022 - EA31337 Ltd - All Rights Reserved
+Copyright © 2016-2023 - EA31337 Ltd - All Rights Reserved
 
 Author & Publisher: kenorb at EA31337 Ltd.
 
@@ -253,6 +256,9 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 
 [gh-discuss-badge]: https://img.shields.io/badge/Discussions-Q&A-blue.svg?logo=github
 [gh-discuss-link]: https://github.com/EA31337/EA31337-Strategies/discussions
+
+[gh-edit-badge]: https://img.shields.io/badge/GitHub-edit-purple.svg?logo=github
+[gh-edit-link]: https://github.dev/EA31337/EA31337-Strategies
 
 [gh-issues]: https://github.com/EA31337/EA31337-Strategies/issues
 
