@@ -13,11 +13,11 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: true
-      - uses: actions/cache@v1
+      - uses: actions/cache@v3
         with:
           path: ~/.cache/pre-commit
           key: pre-commit|${{ hashFiles('.pre-commit-config.yaml') }}
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v3
         with:
           python-version: 3.9
-      - uses: pre-commit/action@v2.0.3
+      - uses: pre-commit/action@v3.0.0

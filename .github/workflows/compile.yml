@@ -6,7 +6,7 @@ on:
   pull_request:
     branches:
       - 'master'
-      - 'dev*'
+      - '*dev*'
     paths-ignore:
       - '*.md'
       - '.git*'
@@ -14,7 +14,7 @@ on:
   push:
     branches:
       - 'master'
-      - 'dev*'
+      - '*dev*'
     paths-ignore:
       - '*.md'
       - '.git*'
@@ -55,14 +55,28 @@ jobs:
           - Ichimoku
           - Indicator
           - MA
+          - MA_Cross_Pivot
+          - MA_Cross_Shift
+          - MA_Cross_Sup_Res
           - MACD
           - MFI
+          - Meta_Mirror
+          - Meta_Multi
+          - Meta_Reversal
           - Momentum
           - OBV
           - OsMA
+          - Oscillator
+          - Oscillator_Divergence
+          - Oscillator_Multi
+          - Oscillator_Cross
+          - Oscillator_Cross_Shift
+          - Oscillator_Cross_Zero
+          - Oscillator_Range
           - Pattern
           - Pinbar
           - Pivot
+          - Retracement
           - RSI
           - RVI
           - SAR
@@ -84,8 +98,15 @@ jobs:
       - uses: actions/checkout@v3
         with:
           path: Include/EA31337-classes
-          ref: v2.013
+          ref: v3.000.1
           repository: EA31337/EA31337-classes
+      - uses: actions/checkout@v2
+        if: ${{ startsWith(matrix.name, 'Meta_') }}
+        with:
+          path: Include/EA31337-strategies
+          ref: v2.000-dev
+          repository: EA31337/EA31337-strategies
+          submodules: recursive
       - name: Enables input mode
         run: echo '#define __input__' > ./${{ matrix.name }}/config/define.h
       - name: Compile for MQL4
@@ -117,7 +138,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           path: Include/EA31337-classes
-          ref: v2.013
+          ref: v3.000.1
           repository: EA31337/EA31337-classes
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master

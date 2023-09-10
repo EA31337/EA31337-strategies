@@ -22,6 +22,9 @@
 [submodule "Alligator"]
 	path = Alligator
 	url = https://github.com/EA31337/Strategy-Alligator.git
+[submodule "Arrows"]
+	path = Arrows
+	url = https://github.com/EA31337/Strategy-Arrows.git
 [submodule "Awesome"]
 	path = Awesome
 	url = https://github.com/EA31337/Strategy-Awesome.git
@@ -52,6 +55,9 @@
 [submodule "DeMarker"]
 	path = DeMarker
 	url = https://github.com/EA31337/Strategy-DeMarker.git
+[submodule "DPO"]
+	path = DPO
+	url = https://github.com/EA31337/Strategy-DPO.git
 [submodule "ElliottWave"]
 	path = ElliottWave
 	url = https://github.com/EA31337/Strategy-ElliottWave.git
@@ -79,21 +85,60 @@
 [submodule "MA"]
 	path = MA
 	url = https://github.com/EA31337/Strategy-MA.git
+[submodule "MA_Cross_Pivot"]
+	path = MA_Cross_Pivot
+	url = https://github.com/EA31337/Strategy-MA_Cross_Pivot.git
+[submodule "MA_Cross_Shift"]
+	path = MA_Cross_Shift
+	url = https://github.com/EA31337/Strategy-MA_Cross_Shift.git
+[submodule "MA_Cross_Sup_Res"]
+	path = MA_Cross_Sup_Res
+	url = https://github.com/EA31337/Strategy-MA_Cross_Sup_Res.git
 [submodule "MACD"]
 	path = MACD
 	url = https://github.com/EA31337/Strategy-MACD.git
-[submodule "MFI"]
-	path = MFI
-	url = https://github.com/EA31337/Strategy-MFI.git
+[submodule "Meta_Mirror"]
+	path = Meta_Mirror
+	url = https://github.com/EA31337/Strategy-Meta_Mirror.git
+[submodule "Meta_Multi"]
+	path = Meta_Multi
+	url = https://github.com/EA31337/Strategy-Meta_Multi.git
+[submodule "Meta_Reversal"]
+	path = Meta_Reversal
+	url = https://github.com/EA31337/Strategy-Meta_Reversal.git
 [submodule "Momentum"]
 	path = Momentum
 	url = https://github.com/EA31337/Strategy-Momentum.git
+[submodule "MFI"]
+	path = MFI
+	url = https://github.com/EA31337/Strategy-MFI.git
 [submodule "OBV"]
 	path = OBV
 	url = https://github.com/EA31337/Strategy-OBV.git
 [submodule "OsMA"]
 	path = OsMA
 	url = https://github.com/EA31337/Strategy-OsMA.git
+[submodule "Oscillator"]
+	path = Oscillator
+	url = https://github.com/EA31337/Strategy-Oscillator.git
+[submodule "Oscillator_Cross"]
+	path = Oscillator_Cross
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross.git
+[submodule "Oscillator_Cross_Shift"]
+	path = Oscillator_Cross_Shift
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Shift.git
+[submodule "Oscillator_Cross_Zero"]
+	path = Oscillator_Cross_Zero
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Zero.git
+[submodule "Oscillator_Divergence"]
+	path = Oscillator_Divergence
+	url = https://github.com/EA31337/Strategy-Oscillator_Divergence.git
+[submodule "Oscillator_Multi"]
+	path = Oscillator_Multi
+	url = https://github.com/EA31337/Strategy-Oscillator_Multi.git
+[submodule "Oscillator_Range"]
+	path = Oscillator_Range
+	url = https://github.com/EA31337/Strategy-Oscillator_Range.git
 [submodule "Pattern"]
 	path = Pattern
 	url = https://github.com/EA31337/Strategy-Pattern.git
@@ -103,6 +148,9 @@
 [submodule "Pivot"]
 	path = Pivot
 	url = https://github.com/EA31337/Strategy-Pivot.git
+[submodule "Retracement"]
+	path = Retracement
+	url = https://github.com/EA31337/Strategy-Retracement.git
 [submodule "RSI"]
 	path = RSI
 	url = https://github.com/EA31337/Strategy-RSI.git
