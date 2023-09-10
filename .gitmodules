@@ -22,6 +22,9 @@
 [submodule "Alligator"]
 	path = Alligator
 	url = https://github.com/EA31337/Strategy-Alligator.git
+[submodule "Arrows"]
+	path = Arrows
+	url = https://github.com/EA31337/Strategy-Arrows.git
 [submodule "Awesome"]
 	path = Awesome
 	url = https://github.com/EA31337/Strategy-Awesome.git
@@ -145,6 +148,9 @@
 [submodule "Pivot"]
 	path = Pivot
 	url = https://github.com/EA31337/Strategy-Pivot.git
+[submodule "Retracement"]
+	path = Retracement
+	url = https://github.com/EA31337/Strategy-Retracement.git
 [submodule "RSI"]
 	path = RSI
 	url = https://github.com/EA31337/Strategy-RSI.git
@@ -184,9 +190,3 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag.git
-[submodule "Arrows"]
-	path = Arrows
-	url = https://github.com/EA31337/Strategy-Arrows.git
-[submodule "Retracement"]
-	path = Retracement
-	url = https://github.com/EA31337/Strategy-Retracement.git
