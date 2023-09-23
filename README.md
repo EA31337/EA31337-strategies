@@ -92,6 +92,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | MA Cross Pivot | [![check][ghim_s_ma_cross_pivot_check]][ghlm_s_ma_cross_pivot_check] | [![check][ghim_s_ma_cross_pivot_compile]][ghlm_s_ma_cross_pivot_compile] | [![check][ghim_s_ma_cross_pivot_bt]][ghlm_s_ma_cross_pivot_bt] |
 | MA Cross Shift | [![check][ghim_s_ma_cross_shift_check]][ghlm_s_ma_cross_shift_check] | [![check][ghim_s_ma_cross_shift_compile]][ghlm_s_ma_cross_shift_compile] | [![check][ghim_s_ma_cross_shift_bt]][ghlm_s_ma_cross_shift_bt] |
 | MA Cross Sup/Res | [![check][ghim_s_ma_cross_sup_res_check]][ghlm_s_ma_cross_sup_res_check] | [![check][ghim_s_ma_cross_sup_res_compile]][ghlm_s_ma_cross_sup_res_compile] | [![check][ghim_s_ma_cross_sup_res_bt]][ghlm_s_ma_cross_sup_res_bt] |
+| MA Trend | [![check][ghim_s_ma_trend_check]][ghlm_s_ma_trend_check] | [![check][ghim_s_ma_trend_compile]][ghlm_s_ma_trend_compile] | [![check][ghim_s_ma_trend_bt]][ghlm_s_ma_trend_bt] |
 | MACD | [![check][ghim_s_macd_check]][ghlm_s_macd_check] | [![check][ghim_s_macd_compile]][ghlm_s_macd_compile] | [![check][ghim_s_macd_bt]][ghlm_s_macd_bt] |
 | MFI | [![check][ghim_s_mfi_check]][ghlm_s_mfi_check] | [![check][ghim_s_mfi_compile]][ghlm_s_mfi_compile] | [![check][ghim_s_mfi_bt]][ghlm_s_mfi_bt] |
 | Momentum | [![check][ghim_s_mom_check]][ghlm_s_mom_check] | [![check][ghim_s_mom_compile]][ghlm_s_mom_compile] | [![check][ghim_s_mom_bt]][ghlm_s_mom_bt] |
@@ -161,6 +162,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | MA Cross Pivot | [![check][ghid_s_ma_cross_pivot_check]][ghld_s_ma_cross_pivot_check] | [![check][ghid_s_ma_cross_pivot_compile]][ghld_s_ma_cross_pivot_compile] | [![check][ghid_s_ma_cross_pivot_bt]][ghld_s_ma_cross_pivot_bt] |
 | MA Cross Shift | [![check][ghid_s_ma_cross_shift_check]][ghld_s_ma_cross_shift_check] | [![check][ghid_s_ma_cross_shift_compile]][ghld_s_ma_cross_shift_compile] | [![check][ghid_s_ma_cross_shift_bt]][ghld_s_ma_cross_shift_bt] |
 | MA Cross Sup/Res | [![check][ghid_s_ma_cross_sup_res_check]][ghld_s_ma_cross_sup_res_check] | [![check][ghid_s_ma_cross_sup_res_compile]][ghld_s_ma_cross_sup_res_compile] | [![check][ghid_s_ma_cross_sup_res_bt]][ghld_s_ma_cross_sup_res_bt] |
+| MA Trend | [![check][ghid_s_ma_trend_check]][ghld_s_ma_trend_check] | [![check][ghid_s_ma_trend_compile]][ghld_s_ma_trend_compile] | [![check][ghid_s_ma_trend_bt]][ghld_s_ma_trend_bt] |
 | MACD | [![check][ghid_s_macd_check]][ghld_s_macd_check] | [![check][ghid_s_macd_compile]][ghld_s_macd_compile] | [![check][ghid_s_macd_bt]][ghld_s_macd_bt] |
 | MFI | [![check][ghid_s_mfi_check]][ghld_s_mfi_check] | [![check][ghid_s_mfi_compile]][ghld_s_mfi_compile] | [![check][ghid_s_mfi_bt]][ghld_s_mfi_bt] |
 | Momentum | [![check][ghid_s_mom_check]][ghld_s_mom_check] | [![check][ghid_s_mom_compile]][ghld_s_mom_compile] | [![check][ghid_s_mom_bt]][ghld_s_mom_bt] |
@@ -789,6 +791,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_ma_cross_sup_res_compile]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Compile/badge.svg?branch=dev
 [ghld_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Backtest+branch:dev
 [ghid_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Check+branch:master
+[ghim_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Check/badge.svg?branch=master
+[ghlm_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Compile+branch:master
+[ghim_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Compile/badge.svg?branch=master
+[ghlm_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Backtest+branch:master
+[ghim_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Check+branch:dev
+[ghid_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Check/badge.svg?branch=dev
+[ghld_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Compile+branch:dev
+[ghid_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Compile/badge.svg?branch=dev
+[ghld_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Backtest+branch:dev
+[ghid_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_macd_check]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Check+branch:master
 [ghim_s_macd_check]: https://github.com/EA31337/Strategy-MACD/workflows/Check/badge.svg?branch=master

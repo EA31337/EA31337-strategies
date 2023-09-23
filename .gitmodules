@@ -97,6 +97,9 @@
 [submodule "MA_Cross_Sup_Res"]
 	path = MA_Cross_Sup_Res
 	url = https://github.com/EA31337/Strategy-MA_Cross_Sup_Res.git
+[submodule "MA_Trend"]
+	path = MA_Trend
+	url = https://github.com/EA31337/Strategy-MA_Trend.git
 [submodule "MACD"]
 	path = MACD
 	url = https://github.com/EA31337/Strategy-MACD.git

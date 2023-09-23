@@ -52,6 +52,7 @@
 #include "MA_Cross_Pivot/Stg_MA_Cross_Pivot.mqh"
 #include "MA_Cross_Shift/Stg_MA_Cross_Shift.mqh"
 #include "MA_Cross_Sup_Res/Stg_MA_Cross_Sup_Res.mqh"
+#include "MA_Trend/Stg_MA_Trend.mqh"
 #include "MACD/Stg_MACD.mqh"
 #include "MFI/Stg_MFI.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
