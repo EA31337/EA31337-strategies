@@ -55,6 +55,7 @@ jobs:
           - Ichimoku
           - Indicator
           - MA
+          - MA_Breakout
           - MA_Cross_Pivot
           - MA_Cross_Shift
           - MA_Cross_Sup_Res

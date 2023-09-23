@@ -53,6 +53,7 @@ enum ENUM_STRATEGY {
   STRAT_ICHIMOKU,                // Ichimoku
   STRAT_INDICATOR,               // Indicator
   STRAT_MA,                      // MA
+  STRAT_MA_BREAKOUT,             // MA Breakout
   STRAT_MA_CROSS_PIVOT,          // MA Cross Pivot
   STRAT_MA_CROSS_SHIFT,          // MA Cross Shift
   STRAT_MA_CROSS_SUP_RES,        // MA Cross Sup/Res

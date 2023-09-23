@@ -48,6 +48,7 @@
 #include "Ichimoku/Stg_Ichimoku.mqh"
 #include "Indicator/Stg_Indicator.mqh"
 #include "MA/Stg_MA.mqh"
+#include "MA_Breakout/Stg_MA_Breakout.mqh"
 #include "MA_Cross_Pivot/Stg_MA_Cross_Pivot.mqh"
 #include "MA_Cross_Shift/Stg_MA_Cross_Shift.mqh"
 #include "MA_Cross_Sup_Res/Stg_MA_Cross_Sup_Res.mqh"
