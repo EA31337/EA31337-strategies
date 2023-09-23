@@ -196,3 +196,6 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag.git
+[submodule "Oscillator_Trend"]
+	path = Oscillator_Trend
+	url = https://github.com/EA31337/Strategy-Oscillator_Trend.git
