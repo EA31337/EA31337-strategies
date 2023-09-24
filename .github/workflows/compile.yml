@@ -65,6 +65,7 @@ jobs:
           - Meta_Mirror
           - Meta_Multi
           - Meta_Reversal
+          - Meta_Trend
           - Momentum
           - OBV
           - OsMA

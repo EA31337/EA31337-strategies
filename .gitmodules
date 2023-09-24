@@ -199,3 +199,6 @@
 [submodule "Oscillator_Trend"]
 	path = Oscillator_Trend
 	url = https://github.com/EA31337/Strategy-Oscillator_Trend.git
+[submodule "Meta_Trend"]
+	path = Meta_Trend
+	url = https://github.com/EA31337/Strategy-Meta_Trend.git

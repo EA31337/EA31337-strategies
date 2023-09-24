@@ -58,6 +58,7 @@
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "Meta_Reversal/Stg_Meta_Reversal.mqh"
+#include "Meta_Trend/Stg_Meta_Trend.mqh"
 #include "Momentum/Stg_Momentum.mqh"
 #include "OBV/Stg_OBV.mqh"
 #include "OSMA/Stg_OSMA.mqh"
