@@ -59,6 +59,7 @@ enum ENUM_STRATEGY {
   STRAT_MA_CROSS_SUP_RES,        // MA Cross Sup/Res
   STRAT_MA_TREND,                // MA Trend
   STRAT_MACD,                    // MACD
+  STRAT_META_DOUBLE,             // (Meta) Double
   STRAT_META_MIRROR,             // (Meta) Mirror
   STRAT_META_MULTI,              // (Meta) Multi
   STRAT_META_REVERSAL,           // (Meta) Reversal

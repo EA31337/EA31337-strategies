@@ -55,6 +55,7 @@
 #include "MA_Cross_Sup_Res/Stg_MA_Cross_Sup_Res.mqh"
 #include "MA_Trend/Stg_MA_Trend.mqh"
 #include "MFI/Stg_MFI.mqh"
+#include "Meta_Double/Stg_Meta_Double.mqh"
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "Meta_Reversal/Stg_Meta_Reversal.mqh"

@@ -103,6 +103,9 @@
 [submodule "MACD"]
 	path = MACD
 	url = https://github.com/EA31337/Strategy-MACD.git
+[submodule "Meta_Double"]
+	path = Meta_Double
+	url = https://github.com/EA31337/Strategy-Meta_Double.git
 [submodule "Meta_Mirror"]
 	path = Meta_Mirror
 	url = https://github.com/EA31337/Strategy-Meta_Mirror.git

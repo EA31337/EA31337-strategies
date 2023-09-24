@@ -56,8 +56,10 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
+| (Meta) Double | [![check][ghim_s_meta_double_check]][ghlm_s_meta_double_check] | [![check][ghim_s_meta_double_compile]][ghlm_s_meta_double_compile] | [![check][ghim_s_meta_double_bt]][ghlm_s_meta_double_bt] |
 | (Meta) Mirror | [![check][ghim_s_meta_mirror_check]][ghlm_s_meta_mirror_check] | [![check][ghim_s_meta_mirror_compile]][ghlm_s_meta_mirror_compile] | [![check][ghim_s_meta_mirror_bt]][ghlm_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
+| (Meta) Oscillator | [![check][ghim_s_meta_osc_check]][ghlm_s_meta_osc_check] | [![check][ghim_s_meta_osc_compile]][ghlm_s_meta_osc_compile] | [![check][ghim_s_meta_osc_bt]][ghlm_s_meta_osc_bt] |
 | (Meta) Reversal | [![check][ghim_s_meta_reversal_check]][ghlm_s_meta_reversal_check] | [![check][ghim_s_meta_reversal_compile]][ghlm_s_meta_reversal_compile] | [![check][ghim_s_meta_reversal_bt]][ghlm_s_meta_reversal_bt] |
 | (Meta) Trend | [![check][ghim_s_meta_trend_check]][ghlm_s_meta_trend_check] | [![check][ghim_s_meta_trend_compile]][ghlm_s_meta_trend_compile] | [![check][ghim_s_meta_trend_bt]][ghlm_s_meta_trend_bt] |
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
@@ -128,8 +130,10 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
+| (Meta) Double | [![check][ghid_s_meta_double_check]][ghld_s_meta_double_check] | [![check][ghid_s_meta_double_compile]][ghld_s_meta_double_compile] | [![check][ghid_s_meta_double_bt]][ghld_s_meta_double_bt] |
 | (Meta) Mirror | [![check][ghid_s_meta_mirror_check]][ghld_s_meta_mirror_check] | [![check][ghid_s_meta_mirror_compile]][ghld_s_meta_mirror_compile] | [![check][ghid_s_meta_mirror_bt]][ghld_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
+| (Meta) Oscillator | [![check][ghid_s_meta_osc_check]][ghld_s_meta_osc_check] | [![check][ghid_s_meta_osc_compile]][ghld_s_meta_osc_compile] | [![check][ghid_s_meta_osc_bt]][ghld_s_meta_osc_bt] |
 | (Meta) Reversal | [![check][ghid_s_meta_reversal_check]][ghld_s_meta_reversal_check] | [![check][ghid_s_meta_reversal_compile]][ghld_s_meta_reversal_compile] | [![check][ghid_s_meta_reversal_bt]][ghld_s_meta_reversal_bt] |
 | (Meta) Trend | [![check][ghid_s_meta_trend_check]][ghld_s_meta_trend_check] | [![check][ghid_s_meta_trend_compile]][ghld_s_meta_trend_compile] | [![check][ghid_s_meta_trend_bt]][ghld_s_meta_trend_bt] |
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
@@ -292,6 +296,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [license-image]: https://img.shields.io/github/license/EA31337/EA31337-Strategies.svg
 [license-link]: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
+[ghlm_s_meta_double_check]: https://github.com/EA31337/Strategy-Meta_Double/actions?query=workflow:Check+branch:master
+[ghim_s_meta_double_check]: https://github.com/EA31337/Strategy-Meta_Double/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_double_compile]: https://github.com/EA31337/Strategy-Meta_Double/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_double_compile]: https://github.com/EA31337/Strategy-Meta_Double/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_double_bt]: https://github.com/EA31337/Strategy-Meta_Double/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_double_bt]: https://github.com/EA31337/Strategy-Meta_Double/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_double_check]: https://github.com/EA31337/Strategy-Meta_Double/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_double_check]: https://github.com/EA31337/Strategy-Meta_Double/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_double_compile]: https://github.com/EA31337/Strategy-Meta_Double/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_double_compile]: https://github.com/EA31337/Strategy-Meta_Double/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_double_bt]: https://github.com/EA31337/Strategy-Meta_Double/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_double_bt]: https://github.com/EA31337/Strategy-Meta_Double/workflows/Backtest/badge.svg?branch=dev
+
 [ghlm_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Check+branch:master
 [ghim_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Check/badge.svg?branch=master
 [ghlm_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Compile+branch:master
@@ -319,6 +337,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Check+branch:master
+[ghim_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_reversal_check]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Check+branch:master
 [ghim_s_meta_reversal_check]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Check/badge.svg?branch=master
