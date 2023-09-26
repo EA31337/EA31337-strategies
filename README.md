@@ -61,6 +61,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
 | (Meta) Oscillator | [![check][ghim_s_meta_osc_check]][ghlm_s_meta_osc_check] | [![check][ghim_s_meta_osc_compile]][ghlm_s_meta_osc_compile] | [![check][ghim_s_meta_osc_bt]][ghlm_s_meta_osc_bt] |
 | (Meta) Reversal | [![check][ghim_s_meta_reversal_check]][ghlm_s_meta_reversal_check] | [![check][ghim_s_meta_reversal_compile]][ghlm_s_meta_reversal_compile] | [![check][ghim_s_meta_reversal_bt]][ghlm_s_meta_reversal_bt] |
+| (Meta) Timezone | [![check][ghim_s_meta_timezone_check]][ghlm_s_meta_timezone_check] | [![check][ghim_s_meta_timezone_compile]][ghlm_s_meta_timezone_compile] | [![check][ghim_s_meta_timezone_bt]][ghlm_s_meta_timezone_bt] |
 | (Meta) Trend | [![check][ghim_s_meta_trend_check]][ghlm_s_meta_trend_check] | [![check][ghim_s_meta_trend_compile]][ghlm_s_meta_trend_compile] | [![check][ghim_s_meta_trend_bt]][ghlm_s_meta_trend_bt] |
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
 | AD | [![check][ghim_s_ad_check]][ghlm_s_ad_check] | [![check][ghim_s_ad_compile]][ghlm_s_ad_compile] | [![check][ghim_s_ad_bt]][ghlm_s_ad_bt] |
@@ -136,6 +137,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
 | (Meta) Oscillator | [![check][ghid_s_meta_osc_check]][ghld_s_meta_osc_check] | [![check][ghid_s_meta_osc_compile]][ghld_s_meta_osc_compile] | [![check][ghid_s_meta_osc_bt]][ghld_s_meta_osc_bt] |
 | (Meta) Reversal | [![check][ghid_s_meta_reversal_check]][ghld_s_meta_reversal_check] | [![check][ghid_s_meta_reversal_compile]][ghld_s_meta_reversal_compile] | [![check][ghid_s_meta_reversal_bt]][ghld_s_meta_reversal_bt] |
+| (Meta) Timezone | [![check][ghid_s_meta_timezone_check]][ghld_s_meta_trend_check] | [![check][ghid_s_meta_trend_compile]][ghld_s_meta_trend_compile] | [![check][ghid_s_meta_trend_bt]][ghld_s_meta_trend_bt] |
 | (Meta) Trend | [![check][ghid_s_meta_trend_check]][ghld_s_meta_trend_check] | [![check][ghid_s_meta_trend_compile]][ghld_s_meta_trend_compile] | [![check][ghid_s_meta_trend_bt]][ghld_s_meta_trend_bt] |
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
 | AD | [![check][ghid_s_ad_check]][ghld_s_ad_check] | [![check][ghid_s_ad_compile]][ghld_s_ad_compile] | [![check][ghid_s_ad_bt]][ghld_s_ad_bt] |
@@ -367,6 +369,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_reversal_compile]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_reversal_bt]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_reversal_bt]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_timezone_check]: https://github.com/EA31337/Strategy-Meta_Timezone/actions?query=workflow:Check+branch:master
+[ghim_s_meta_timezone_check]: https://github.com/EA31337/Strategy-Meta_Timezone/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_timezone_compile]: https://github.com/EA31337/Strategy-Meta_Timezone/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_timezone_compile]: https://github.com/EA31337/Strategy-Meta_Timezone/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_timezone_bt]: https://github.com/EA31337/Strategy-Meta_Timezone/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_timezone_bt]: https://github.com/EA31337/Strategy-Meta_Timezone/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_timezone_check]: https://github.com/EA31337/Strategy-Meta_Timezone/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_timezone_check]: https://github.com/EA31337/Strategy-Meta_Timezone/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_timezone_compile]: https://github.com/EA31337/Strategy-Meta_Timezone/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_timezone_compile]: https://github.com/EA31337/Strategy-Meta_Timezone/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_timezone_bt]: https://github.com/EA31337/Strategy-Meta_Timezone/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_timezone_bt]: https://github.com/EA31337/Strategy-Meta_Timezone/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_trend_check]: https://github.com/EA31337/Strategy-Meta_Trend/actions?query=workflow:Check+branch:master
 [ghim_s_meta_trend_check]: https://github.com/EA31337/Strategy-Meta_Trend/workflows/Check/badge.svg?branch=master
