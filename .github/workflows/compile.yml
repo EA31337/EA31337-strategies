@@ -62,6 +62,7 @@ jobs:
           - MA_Trend
           - MACD
           - MFI
+          - Meta_Bears_Bulls
           - Meta_Double
           - Meta_Mirror
           - Meta_Multi
