@@ -68,6 +68,7 @@ jobs:
           - Meta_Multi
           - Meta_Oscillator
           - Meta_Reversal
+          - Meta_RSI
           - Meta_Timezone
           - Meta_Trend
           - Momentum
