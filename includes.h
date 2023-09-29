@@ -56,6 +56,7 @@
 #include "MA_Trend/Stg_MA_Trend.mqh"
 #include "MFI/Stg_MFI.mqh"
 #include "Meta_Bears_Bulls/Stg_Meta_Bears_Bulls.mqh"
+#include "Meta_Conditions/Stg_Meta_Conditions.mqh"
 #include "Meta_Double/Stg_Meta_Double.mqh"
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"

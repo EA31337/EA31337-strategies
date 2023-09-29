@@ -63,6 +63,7 @@ jobs:
           - MACD
           - MFI
           - Meta_Bears_Bulls
+          - Meta_Conditions
           - Meta_Double
           - Meta_Mirror
           - Meta_Multi

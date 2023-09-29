@@ -106,6 +106,9 @@
 [submodule "Meta_Bears_Bulls"]
 	path = Meta_Bears_Bulls
 	url = https://github.com/EA31337/Strategy-Meta_Bears_Bulls.git
+[submodule "Meta_Conditions"]
+	path = Meta_Conditions
+	url = https://github.com/EA31337/Strategy-Meta_Conditions.git
 [submodule "Meta_Double"]
 	path = Meta_Double
 	url = https://github.com/EA31337/Strategy-Meta_Double.git
