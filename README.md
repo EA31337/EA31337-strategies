@@ -58,6 +58,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | --------:|:-----:|:-------:|:--------:|
 | (Meta) Double | [![check][ghim_s_meta_double_check]][ghlm_s_meta_double_check] | [![check][ghim_s_meta_double_compile]][ghlm_s_meta_double_compile] | [![check][ghim_s_meta_double_bt]][ghlm_s_meta_double_bt] |
 | (Meta) Conditions | [![check][ghim_s_meta_conditions_check]][ghlm_s_meta_conditions_check] | [![check][ghim_s_meta_conditions_compile]][ghlm_s_meta_conditions_compile] | [![check][ghim_s_meta_conditions_bt]][ghlm_s_meta_conditions_bt] |
+| (Meta) Margin | [![check][ghim_s_meta_margin_check]][ghlm_s_meta_margin_check] | [![check][ghim_s_meta_margin_compile]][ghlm_s_meta_margin_compile] | [![check][ghim_s_meta_margin_bt]][ghlm_s_meta_margin_bt] |
 | (Meta) Mirror | [![check][ghim_s_meta_mirror_check]][ghlm_s_meta_mirror_check] | [![check][ghim_s_meta_mirror_compile]][ghlm_s_meta_mirror_compile] | [![check][ghim_s_meta_mirror_bt]][ghlm_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
 | (Meta) Oscillator | [![check][ghim_s_meta_osc_check]][ghlm_s_meta_osc_check] | [![check][ghim_s_meta_osc_compile]][ghlm_s_meta_osc_compile] | [![check][ghim_s_meta_osc_bt]][ghlm_s_meta_osc_bt] |
@@ -136,6 +137,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | --------:|:-----:|:-------:|:--------:|
 | (Meta) Double | [![check][ghid_s_meta_double_check]][ghld_s_meta_double_check] | [![check][ghid_s_meta_double_compile]][ghld_s_meta_double_compile] | [![check][ghid_s_meta_double_bt]][ghld_s_meta_double_bt] |
 | (Meta) Conditions | [![check][ghid_s_meta_conditions_check]][ghld_s_meta_conditions_check] | [![check][ghid_s_meta_conditions_compile]][ghld_s_meta_conditions_compile] | [![check][ghid_s_meta_conditions_bt]][ghld_s_meta_conditions_bt] |
+| (Meta) Margin | [![check][ghid_s_meta_margin_check]][ghld_s_meta_margin_check] | [![check][ghid_s_meta_margin_compile]][ghld_s_meta_margin_compile] | [![check][ghid_s_meta_margin_bt]][ghld_s_meta_margin_bt] |
 | (Meta) Mirror | [![check][ghid_s_meta_mirror_check]][ghld_s_meta_mirror_check] | [![check][ghid_s_meta_mirror_compile]][ghld_s_meta_mirror_compile] | [![check][ghid_s_meta_mirror_bt]][ghld_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
 | (Meta) Oscillator | [![check][ghid_s_meta_osc_check]][ghld_s_meta_osc_check] | [![check][ghid_s_meta_osc_compile]][ghld_s_meta_osc_compile] | [![check][ghid_s_meta_osc_bt]][ghld_s_meta_osc_bt] |
@@ -331,6 +333,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_conditions_compile]: https://github.com/EA31337/Strategy-Meta_Conditions/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_conditions_bt]: https://github.com/EA31337/Strategy-Meta_Conditions/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_conditions_bt]: https://github.com/EA31337/Strategy-Meta_Conditions/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_margin_check]: https://github.com/EA31337/Strategy-Meta_Margin/actions?query=workflow:Check+branch:master
+[ghim_s_meta_margin_check]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_margin_compile]: https://github.com/EA31337/Strategy-Meta_Margin/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_margin_compile]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_margin_bt]: https://github.com/EA31337/Strategy-Meta_Margin/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_margin_bt]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_margin_check]: https://github.com/EA31337/Strategy-Meta_Margin/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_margin_check]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_margin_compile]: https://github.com/EA31337/Strategy-Meta_Margin/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_margin_compile]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_margin_bt]: https://github.com/EA31337/Strategy-Meta_Margin/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_margin_bt]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Check+branch:master
 [ghim_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Check/badge.svg?branch=master

@@ -65,6 +65,7 @@ jobs:
           - Meta_Bears_Bulls
           - Meta_Conditions
           - Meta_Double
+          - Meta_Margin
           - Meta_Mirror
           - Meta_Multi
           - Meta_Oscillator
