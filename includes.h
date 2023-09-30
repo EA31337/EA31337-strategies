@@ -64,6 +64,7 @@
 #include "Meta_Reversal/Stg_Meta_Reversal.mqh"
 #include "Meta_RSI/Stg_Meta_RSI.mqh"
 #include "Meta_Timezone/Stg_Meta_Timezone.mqh"
+#include "Meta_Trio/Stg_Meta_Trio.mqh"
 #include "Meta_Trend/Stg_Meta_Trend.mqh"
 #include "Momentum/Stg_Momentum.mqh"
 #include "OBV/Stg_OBV.mqh"

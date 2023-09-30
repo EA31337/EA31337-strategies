@@ -226,3 +226,6 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag.git
+[submodule "Meta_Trio"]
+	path = Meta_Trio
+	url = https://github.com/EA31337/Strategy-Meta_Trio.git

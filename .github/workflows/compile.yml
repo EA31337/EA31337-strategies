@@ -73,6 +73,7 @@ jobs:
           - Meta_RSI
           - Meta_Timezone
           - Meta_Trend
+          - Meta_Trio
           - Momentum
           - OBV
           - OsMA
