@@ -58,6 +58,7 @@
 #include "Meta_Bears_Bulls/Stg_Meta_Bears_Bulls.mqh"
 #include "Meta_Conditions/Stg_Meta_Conditions.mqh"
 #include "Meta_Double/Stg_Meta_Double.mqh"
+#include "Meta_Equity/Stg_Meta_Equity.mqh"
 #include "Meta_Margin/Stg_Meta_Margin.mqh"
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"

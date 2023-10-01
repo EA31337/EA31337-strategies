@@ -109,9 +109,15 @@
 [submodule "Meta_Conditions"]
 	path = Meta_Conditions
 	url = https://github.com/EA31337/Strategy-Meta_Conditions.git
+[submodule "Meta_Delegate"]
+	path = Meta_Delegate
+	url = https://github.com/EA31337/Strategy-Meta_Delegate.git
 [submodule "Meta_Double"]
 	path = Meta_Double
 	url = https://github.com/EA31337/Strategy-Meta_Double.git
+[submodule "Meta_Equity"]
+	path = Meta_Equity
+	url = https://github.com/EA31337/Strategy-Meta_Equity.git
 [submodule "Meta_Margin"]
 	path = Meta_Margin
 	url = https://github.com/EA31337/Strategy-Meta_Margin.git
@@ -130,12 +136,18 @@
 [submodule "Meta_RSI"]
 	path = Meta_RSI
 	url = https://github.com/EA31337/Strategy-Meta_RSI.git
+[submodule "Meta_Scalper"]
+	path = Meta_Scalper
+	url = https://github.com/EA31337/Strategy-Meta_Scalper.git
 [submodule "Meta_Timezone"]
 	path = Meta_Timezone
 	url = https://github.com/EA31337/Strategy-Meta_Timezone.git
 [submodule "Meta_Trend"]
 	path = Meta_Trend
 	url = https://github.com/EA31337/Strategy-Meta_Trend.git
+[submodule "Meta_Trio"]
+	path = Meta_Trio
+	url = https://github.com/EA31337/Strategy-Meta_Trio.git
 [submodule "Momentum"]
 	path = Momentum
 	url = https://github.com/EA31337/Strategy-Momentum.git
@@ -226,6 +238,3 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag.git
-[submodule "Meta_Trio"]
-	path = Meta_Trio
-	url = https://github.com/EA31337/Strategy-Meta_Trio.git
