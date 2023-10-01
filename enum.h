@@ -73,6 +73,7 @@ enum ENUM_STRATEGY {
   STRAT_META_TIMEZONE,           // (Meta) Timezone
   STRAT_META_TREND,              // (Meta) Trend
   STRAT_META_TRIO,               // (Meta) Trio
+  STRAT_META_VOLATILITY,         // (Meta) Volatility
   STRAT_MFI,                     // MFI
   STRAT_MOMENTUM,                // Momentum
   STRAT_OBV,                     // OBV

@@ -78,6 +78,7 @@ jobs:
           - Meta_Timezone
           - Meta_Trend
           - Meta_Trio
+          - Meta_Volatility
           - Momentum
           - OBV
           - OsMA
