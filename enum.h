@@ -68,6 +68,7 @@ enum ENUM_STRATEGY {
   STRAT_META_MULTI,              // (Meta) Multi
   STRAT_META_REVERSAL,           // (Meta) Reversal
   STRAT_META_RSI,                // (Meta) RSI
+  STRAT_META_SCALPER,            // (Meta) Scalper
   STRAT_META_TIMEZONE,           // (Meta) Timezone
   STRAT_META_TREND,              // (Meta) Trend
   STRAT_META_TRIO,               // (Meta) Trio

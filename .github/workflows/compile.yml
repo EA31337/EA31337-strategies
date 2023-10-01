@@ -64,6 +64,7 @@ jobs:
           - MFI
           - Meta_Bears_Bulls
           - Meta_Conditions
+          - Meta_Delegate
           - Meta_Double
           - Meta_Equity
           - Meta_Margin
@@ -72,6 +73,7 @@ jobs:
           - Meta_Oscillator
           - Meta_Reversal
           - Meta_RSI
+          - Meta_Scalper
           - Meta_Timezone
           - Meta_Trend
           - Meta_Trio
