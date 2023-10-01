@@ -63,6 +63,7 @@ enum ENUM_STRATEGY {
   STRAT_META_DOUBLE,             // (Meta) Double
   STRAT_META_CONDITIONS,         // (Meta) Conditions
   STRAT_META_EQUITY,             // (Meta) Equity
+  STRAT_META_LIMIT,              // (Meta) Limit
   STRAT_META_MARGIN,             // (Meta) Margin
   STRAT_META_MIRROR,             // (Meta) Mirror
   STRAT_META_MULTI,              // (Meta) Multi

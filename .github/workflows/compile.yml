@@ -67,6 +67,7 @@ jobs:
           - Meta_Delegate
           - Meta_Double
           - Meta_Equity
+          - Meta_Limit
           - Meta_Margin
           - Meta_Mirror
           - Meta_Multi
