@@ -70,6 +70,7 @@
 #include "Meta_Trend/Stg_Meta_Trend.mqh"
 #include "Meta_Trio/Stg_Meta_Trio.mqh"
 #include "Meta_Volatility/Stg_Meta_Volatility.mqh"
+#include "Meta_Weekday/Stg_Meta_Weekday.mqh"
 #include "Momentum/Stg_Momentum.mqh"
 #include "OBV/Stg_OBV.mqh"
 #include "OSMA/Stg_OSMA.mqh"

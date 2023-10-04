@@ -71,6 +71,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Trend | [![check][ghim_s_meta_trend_check]][ghlm_s_meta_trend_check] | [![check][ghim_s_meta_trend_compile]][ghlm_s_meta_trend_compile] | [![check][ghim_s_meta_trend_bt]][ghlm_s_meta_trend_bt] |
 | (Meta) Trio | [![check][ghim_s_meta_trio_check]][ghlm_s_meta_trio_check] | [![check][ghim_s_meta_trio_compile]][ghlm_s_meta_trio_compile] | [![check][ghim_s_meta_trio_bt]][ghlm_s_meta_trio_bt] |
 | (Meta) Volatility | [![check][ghim_s_meta_volatility_check]][ghlm_s_meta_volatility_check] | [![check][ghim_s_meta_volatility_compile]][ghlm_s_meta_volatility_compile] | [![check][ghim_s_meta_volatility_bt]][ghlm_s_meta_volatility_bt] |
+| (Meta) Weekday | [![check][ghim_s_meta_weekday_check]][ghlm_s_meta_weekday_check] | [![check][ghim_s_meta_weekday_compile]][ghlm_s_meta_weekday_compile] | [![check][ghim_s_meta_weekday_bt]][ghlm_s_meta_weekday_bt] |
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
 | AD | [![check][ghim_s_ad_check]][ghlm_s_ad_check] | [![check][ghim_s_ad_compile]][ghlm_s_ad_compile] | [![check][ghim_s_ad_bt]][ghlm_s_ad_bt] |
 | ADX | [![check][ghim_s_adx_check]][ghlm_s_adx_check] | [![check][ghim_s_adx_compile]][ghlm_s_adx_compile] | [![check][ghim_s_adx_bt]][ghlm_s_adx_bt] |
@@ -155,6 +156,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Trend | [![check][ghid_s_meta_trend_check]][ghld_s_meta_trend_check] | [![check][ghid_s_meta_trend_compile]][ghld_s_meta_trend_compile] | [![check][ghid_s_meta_trend_bt]][ghld_s_meta_trend_bt] |
 | (Meta) Trio | [![check][ghid_s_meta_trio_check]][ghld_s_meta_trio_check] | [![check][ghid_s_meta_trio_compile]][ghld_s_meta_trio_compile] | [![check][ghid_s_meta_trio_bt]][ghld_s_meta_trio_bt] |
 | (Meta) Volatility | [![check][ghid_s_meta_volatility_check]][ghld_s_meta_volatility_check] | [![check][ghid_s_meta_volatility_compile]][ghld_s_meta_volatility_compile] | [![check][ghid_s_meta_volatility_bt]][ghld_s_meta_volatility_bt] |
+| (Meta) Weekday | [![check][ghid_s_meta_weekday_check]][ghld_s_meta_weekday_check] | [![check][ghid_s_meta_weekday_compile]][ghld_s_meta_weekday_compile] | [![check][ghid_s_meta_weekday_bt]][ghld_s_meta_weekday_bt] |
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
 | AD | [![check][ghid_s_ad_check]][ghld_s_ad_check] | [![check][ghid_s_ad_compile]][ghld_s_ad_compile] | [![check][ghid_s_ad_bt]][ghld_s_ad_bt] |
 | ADX | [![check][ghid_s_adx_check]][ghld_s_adx_check] | [![check][ghid_s_adx_compile]][ghld_s_adx_compile] | [![check][ghid_s_adx_bt]][ghld_s_adx_bt] |
@@ -525,6 +527,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_volatility_compile]: https://github.com/EA31337/Strategy-Meta_Volatility/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_volatility_bt]: https://github.com/EA31337/Strategy-Meta_Volatility/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_volatility_bt]: https://github.com/EA31337/Strategy-Meta_Volatility/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_weekday_check]: https://github.com/EA31337/Strategy-Meta_Weekday/actions?query=workflow:Check+branch:master
+[ghim_s_meta_weekday_check]: https://github.com/EA31337/Strategy-Meta_Weekday/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_weekday_compile]: https://github.com/EA31337/Strategy-Meta_Weekday/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_weekday_compile]: https://github.com/EA31337/Strategy-Meta_Weekday/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_weekday_bt]: https://github.com/EA31337/Strategy-Meta_Weekday/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_weekday_bt]: https://github.com/EA31337/Strategy-Meta_Weekday/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_weekday_check]: https://github.com/EA31337/Strategy-Meta_Weekday/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_weekday_check]: https://github.com/EA31337/Strategy-Meta_Weekday/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_weekday_compile]: https://github.com/EA31337/Strategy-Meta_Weekday/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_weekday_compile]: https://github.com/EA31337/Strategy-Meta_Weekday/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_weekday_bt]: https://github.com/EA31337/Strategy-Meta_Weekday/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_weekday_bt]: https://github.com/EA31337/Strategy-Meta_Weekday/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_ac_check]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Check+branch:master
 [ghim_s_ac_check]: https://github.com/EA31337/Strategy-AC/workflows/Check/badge.svg?branch=master
