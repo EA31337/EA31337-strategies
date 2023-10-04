@@ -21,7 +21,7 @@ on:
       - 'docs/**'
 
 jobs:
-  Compile:
+  Compile-All:
     defaults:
       run:
         shell: powershell
