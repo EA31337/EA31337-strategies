@@ -118,6 +118,9 @@
 [submodule "Meta_Equity"]
 	path = Meta_Equity
 	url = https://github.com/EA31337/Strategy-Meta_Equity.git
+[submodule "Meta_Interval"]
+	path = Meta_Interval
+	url = https://github.com/EA31337/Strategy-Meta_Interval.git
 [submodule "Meta_Limit"]
 	path = Meta_Limit
 	url = https://github.com/EA31337/Strategy-Meta_Limit.git
@@ -247,3 +250,6 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag.git
+[submodule "Meta_Time"]
+	path = Meta_Time
+	url = https://github.com/EA31337/Strategy-Meta_Time.git
