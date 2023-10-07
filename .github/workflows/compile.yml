@@ -41,19 +41,29 @@ jobs:
           ref: v2.000-dev
           repository: EA31337/EA31337-strategies
           submodules: recursive
+      - name: Deletes Arrows as it fails to compile
+        run: 'Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose'
+      - name: Deletes SAWA as it fails to compile
+        run: 'Remove-Item -LiteralPath "SAWA" -Force -Recurse -Verbose'
+      - name: Deletes SVE_Bollinger_Bands as it fails to compile
+        run: 'Remove-Item -LiteralPath "SVE_Bollinger_Bands" -Force -Recurse -Verbose'
+      - name: Deletes TMAT_SVEBB as it fails to compile
+        run: 'Remove-Item -LiteralPath "TMAT_SVEBB" -Force -Recurse -Verbose'
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
         with:
           include: .
           mt-version: 5.0.0.2361
-          path: "**/Stg_*.mq4 !(Stg_{Arrows,SVE_Bollinger_Bands}.mq?)"
+          path: "*/Stg_*.mq4"
           verbose: true
+      - name: Deletes ElliottWave as it fails to compile
+        run: 'Remove-Item -LiteralPath "ElliottWave" -Force -Recurse -Verbose'
       - name: Compile for MQL5
         uses: fx31337/mql-compile-action@master
         with:
           include: .
           mt-version: 5.0.0.2515
-          path: "**/Stg_*.mq5 !(Stg_{Arrows,SVE_Bollinger_Bands}.mq?)"
+          path: "*/Stg_*.mq5"
           verbose: true
       - name: List compiled files
         run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
