@@ -64,6 +64,7 @@
 #include "Meta_Margin/Stg_Meta_Margin.mqh"
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
+#include "Meta_Pattern/Stg_Meta_Pattern.mqh"
 #include "Meta_Reversal/Stg_Meta_Reversal.mqh"
 #include "Meta_Risk/Stg_Meta_Risk.mqh"
 #include "Meta_RSI/Stg_Meta_RSI.mqh"
