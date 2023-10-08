@@ -65,6 +65,7 @@
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "Meta_Reversal/Stg_Meta_Reversal.mqh"
+#include "Meta_Risk/Stg_Meta_Risk.mqh"
 #include "Meta_RSI/Stg_Meta_RSI.mqh"
 #include "Meta_Scalper/Stg_Meta_Scalper.mqh"
 #include "Meta_Timezone/Stg_Meta_Timezone.mqh"
