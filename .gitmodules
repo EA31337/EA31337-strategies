@@ -118,6 +118,9 @@
 [submodule "Meta_Equity"]
 	path = Meta_Equity
 	url = https://github.com/EA31337/Strategy-Meta_Equity.git
+[submodule "Meta_Enhance"]
+	path = Meta_Enhance
+	url = https://github.com/EA31337/Strategy-Meta_Enhance.git
 [submodule "Meta_Interval"]
 	path = Meta_Interval
 	url = https://github.com/EA31337/Strategy-Meta_Interval.git
@@ -133,6 +136,9 @@
 [submodule "Meta_Multi"]
 	path = Meta_Multi
 	url = https://github.com/EA31337/Strategy-Meta_Multi.git
+[submodule "Meta_Multi_Currency"]
+	path = Meta_Multi_Currency
+	url = https://github.com/EA31337/Strategy-Meta_Multi_Currency.git
 [submodule "Meta_Oscillator"]
 	path = Meta_Oscillator
 	url = https://github.com/EA31337/Strategy-Meta_Oscillator.git
