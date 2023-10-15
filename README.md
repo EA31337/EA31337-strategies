@@ -61,6 +61,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Enhance | [![check][ghim_s_meta_enhance_check]][ghlm_s_meta_enhance_check] | [![check][ghim_s_meta_enhance_compile]][ghlm_s_meta_enhance_compile] | [![check][ghim_s_meta_enhance_bt]][ghlm_s_meta_enhance_bt] |
 | (Meta) Equity | [![check][ghim_s_meta_equity_check]][ghlm_s_meta_equity_check] | [![check][ghim_s_meta_equity_compile]][ghlm_s_meta_equity_compile] | [![check][ghim_s_meta_equity_bt]][ghlm_s_meta_equity_bt] |
 | (Meta) Interval | [![check][ghim_s_meta_interval_check]][ghlm_s_meta_interval_check] | [![check][ghim_s_meta_interval_compile]][ghlm_s_meta_interval_compile] | [![check][ghim_s_meta_interval_bt]][ghlm_s_meta_interval_bt] |
+| (Meta) Hedge | [![check][ghim_s_meta_hedge_check]][ghlm_s_meta_hedge_check] | [![check][ghim_s_meta_hedge_compile]][ghlm_s_meta_hedge_compile] | [![check][ghim_s_meta_hedge_bt]][ghlm_s_meta_hedge_bt] |
 | (Meta) Limit | [![check][ghim_s_meta_limit_check]][ghlm_s_meta_limit_check] | [![check][ghim_s_meta_limit_compile]][ghlm_s_meta_limit_compile] | [![check][ghim_s_meta_limit_bt]][ghlm_s_meta_limit_bt] |
 | (Meta) Margin | [![check][ghim_s_meta_margin_check]][ghlm_s_meta_margin_check] | [![check][ghim_s_meta_margin_compile]][ghlm_s_meta_margin_compile] | [![check][ghim_s_meta_margin_bt]][ghlm_s_meta_margin_bt] |
 | (Meta) Mirror | [![check][ghim_s_meta_mirror_check]][ghlm_s_meta_mirror_check] | [![check][ghim_s_meta_mirror_compile]][ghlm_s_meta_mirror_compile] | [![check][ghim_s_meta_mirror_bt]][ghlm_s_meta_mirror_bt] |
@@ -151,6 +152,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Enhance | [![check][ghid_s_meta_enhance_check]][ghld_s_meta_enhance_check] | [![check][ghid_s_meta_enhance_compile]][ghld_s_meta_enhance_compile] | [![check][ghid_s_meta_enhance_bt]][ghld_s_meta_enhance_bt] |
 | (Meta) Equity | [![check][ghid_s_meta_equity_check]][ghld_s_meta_equity_check] | [![check][ghid_s_meta_equity_compile]][ghld_s_meta_equity_compile] | [![check][ghid_s_meta_equity_bt]][ghld_s_meta_equity_bt] |
 | (Meta) Interval | [![check][ghid_s_meta_interval_check]][ghld_s_meta_interval_check] | [![check][ghid_s_meta_interval_compile]][ghld_s_meta_interval_compile] | [![check][ghid_s_meta_interval_bt]][ghld_s_meta_interval_bt] |
+| (Meta) Hedge | [![check][ghid_s_meta_hedge_check]][ghld_s_meta_hedge_check] | [![check][ghid_s_meta_hedge_compile]][ghld_s_meta_hedge_compile] | [![check][ghid_s_meta_hedge_bt]][ghld_s_meta_hedge_bt] |
 | (Meta) Limit | [![check][ghid_s_meta_limit_check]][ghld_s_meta_limit_check] | [![check][ghid_s_meta_limit_compile]][ghld_s_meta_limit_compile] | [![check][ghid_s_meta_limit_bt]][ghld_s_meta_limit_bt] |
 | (Meta) Margin | [![check][ghid_s_meta_margin_check]][ghld_s_meta_margin_check] | [![check][ghid_s_meta_margin_compile]][ghld_s_meta_margin_compile] | [![check][ghid_s_meta_margin_bt]][ghld_s_meta_margin_bt] |
 | (Meta) Mirror | [![check][ghid_s_meta_mirror_check]][ghld_s_meta_mirror_check] | [![check][ghid_s_meta_mirror_compile]][ghld_s_meta_mirror_compile] | [![check][ghid_s_meta_mirror_bt]][ghld_s_meta_mirror_bt] |
@@ -397,6 +399,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_interval_compile]: https://github.com/EA31337/Strategy-Meta_Interval/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_interval_bt]: https://github.com/EA31337/Strategy-Meta_Interval/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_interval_bt]: https://github.com/EA31337/Strategy-Meta_Interval/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_hedge_check]: https://github.com/EA31337/Strategy-Meta_Hedge/actions?query=workflow:Check+branch:master
+[ghim_s_meta_hedge_check]: https://github.com/EA31337/Strategy-Meta_Hedge/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_hedge_compile]: https://github.com/EA31337/Strategy-Meta_Hedge/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_hedge_compile]: https://github.com/EA31337/Strategy-Meta_Hedge/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_hedge_bt]: https://github.com/EA31337/Strategy-Meta_Hedge/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_hedge_bt]: https://github.com/EA31337/Strategy-Meta_Hedge/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_hedge_check]: https://github.com/EA31337/Strategy-Meta_Hedge/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_hedge_check]: https://github.com/EA31337/Strategy-Meta_Hedge/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_hedge_compile]: https://github.com/EA31337/Strategy-Meta_Hedge/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_hedge_compile]: https://github.com/EA31337/Strategy-Meta_Hedge/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_hedge_bt]: https://github.com/EA31337/Strategy-Meta_Hedge/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_hedge_bt]: https://github.com/EA31337/Strategy-Meta_Hedge/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_limit_check]: https://github.com/EA31337/Strategy-Meta_Limit/actions?query=workflow:Check+branch:master
 [ghim_s_meta_limit_check]: https://github.com/EA31337/Strategy-Meta_Limit/workflows/Check/badge.svg?branch=master
