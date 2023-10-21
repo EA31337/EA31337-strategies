@@ -175,6 +175,9 @@
 [submodule "Meta_Scalper"]
 	path = Meta_Scalper
 	url = https://github.com/EA31337/Strategy-Meta_Scalper.git
+[submodule "Meta_Signal_Switch"]
+	path = Meta_Signal_Switch
+	url = https://github.com/EA31337/Strategy-Meta_Signal_Switch.git
 [submodule "Meta_Timezone"]
 	path = Meta_Timezone
 	url = https://github.com/EA31337/Strategy-Meta_Timezone.git

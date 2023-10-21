@@ -78,6 +78,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Risk | [![check][ghim_s_meta_risk_check]][ghlm_s_meta_risk_check] | [![check][ghim_s_meta_risk_compile]][ghlm_s_meta_risk_compile] | [![check][ghim_s_meta_risk_bt]][ghlm_s_meta_risk_bt] |
 | (Meta) RSI | [![check][ghim_s_meta_rsi_check]][ghlm_s_meta_rsi_check] | [![check][ghim_s_meta_rsi_compile]][ghlm_s_meta_rsi_compile] | [![check][ghim_s_meta_rsi_bt]][ghlm_s_meta_rsi_bt] |
 | (Meta) Scalper | [![check][ghim_s_meta_scalper_check]][ghlm_s_meta_scalper_check] | [![check][ghim_s_meta_scalper_compile]][ghlm_s_meta_scalper_compile] | [![check][ghim_s_meta_scalper_bt]][ghlm_s_meta_scalper_bt] |
+| (Meta) Signal Switch | [![check][ghim_s_meta_signal_switch_check]][ghlm_s_meta_signal_switch_check] | [![check][ghim_s_meta_signal_switch_compile]][ghlm_s_meta_signal_switch_compile] | [![check][ghim_s_meta_signal_switch_bt]][ghlm_s_meta_signal_switch_bt] |
 | (Meta) Timezone | [![check][ghim_s_meta_timezone_check]][ghlm_s_meta_timezone_check] | [![check][ghim_s_meta_timezone_compile]][ghlm_s_meta_timezone_compile] | [![check][ghim_s_meta_timezone_bt]][ghlm_s_meta_timezone_bt] |
 | (Meta) Trend | [![check][ghim_s_meta_trend_check]][ghlm_s_meta_trend_check] | [![check][ghim_s_meta_trend_compile]][ghlm_s_meta_trend_compile] | [![check][ghim_s_meta_trend_bt]][ghlm_s_meta_trend_bt] |
 | (Meta) Trio | [![check][ghim_s_meta_trio_check]][ghlm_s_meta_trio_check] | [![check][ghim_s_meta_trio_compile]][ghlm_s_meta_trio_compile] | [![check][ghim_s_meta_trio_bt]][ghlm_s_meta_trio_bt] |
@@ -174,6 +175,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Risk | [![check][ghid_s_meta_risk_check]][ghld_s_meta_risk_check] | [![check][ghid_s_meta_risk_compile]][ghld_s_meta_risk_compile] | [![check][ghid_s_meta_risk_bt]][ghld_s_meta_risk_bt] |
 | (Meta) RSI | [![check][ghid_s_meta_rsi_check]][ghld_s_meta_rsi_check] | [![check][ghid_s_meta_rsi_compile]][ghld_s_meta_rsi_compile] | [![check][ghid_s_meta_rsi_bt]][ghld_s_meta_rsi_bt] |
 | (Meta) Scalper | [![check][ghid_s_meta_scalper_check]][ghld_s_meta_scalper_check] | [![check][ghid_s_meta_scalper_compile]][ghld_s_meta_scalper_compile] | [![check][ghid_s_meta_scalper_bt]][ghld_s_meta_scalper_bt] |
+| (Meta) Signal Switch | [![check][ghid_s_meta_signal_switch_check]][ghld_s_meta_signal_switch_check] | [![check][ghid_s_meta_signal_switch_compile]][ghld_s_meta_signal_switch_compile] | [![check][ghid_s_meta_signal_switch_bt]][ghld_s_meta_signal_switch_bt] |
 | (Meta) Timezone | [![check][ghid_s_meta_timezone_check]][ghld_s_meta_trend_check] | [![check][ghid_s_meta_trend_compile]][ghld_s_meta_trend_compile] | [![check][ghid_s_meta_trend_bt]][ghld_s_meta_trend_bt] |
 | (Meta) Trend | [![check][ghid_s_meta_trend_check]][ghld_s_meta_trend_check] | [![check][ghid_s_meta_trend_compile]][ghld_s_meta_trend_compile] | [![check][ghid_s_meta_trend_bt]][ghld_s_meta_trend_bt] |
 | (Meta) Trio | [![check][ghid_s_meta_trio_check]][ghld_s_meta_trio_check] | [![check][ghid_s_meta_trio_compile]][ghld_s_meta_trio_compile] | [![check][ghid_s_meta_trio_bt]][ghld_s_meta_trio_bt] |
@@ -647,6 +649,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_scalper_compile]: https://github.com/EA31337/Strategy-Meta_Scalper/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_scalper_bt]: https://github.com/EA31337/Strategy-Meta_Scalper/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_scalper_bt]: https://github.com/EA31337/Strategy-Meta_Scalper/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_signal_switch_check]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/actions?query=workflow:Check+branch:master
+[ghim_s_meta_signal_switch_check]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_signal_switch_compile]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_signal_switch_compile]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_signal_switch_bt]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_signal_switch_bt]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_signal_switch_check]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_signal_switch_check]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_signal_switch_compile]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_signal_switch_compile]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_signal_switch_bt]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_signal_switch_bt]: https://github.com/EA31337/Strategy-Meta_Signal_Switch/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_timezone_check]: https://github.com/EA31337/Strategy-Meta_Timezone/actions?query=workflow:Check+branch:master
 [ghim_s_meta_timezone_check]: https://github.com/EA31337/Strategy-Meta_Timezone/workflows/Check/badge.svg?branch=master
