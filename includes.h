@@ -79,6 +79,7 @@
 #include "Meta_RSI/Stg_Meta_RSI.mqh"
 #include "Meta_Scalper/Stg_Meta_Scalper.mqh"
 #include "Meta_Signal_Switch/Stg_Meta_Signal_Switch.mqh"
+#include "Meta_Spread/Stg_Meta_Spread.mqh"
 #include "Meta_Timezone/Stg_Meta_Timezone.mqh"
 #include "Meta_Trend/Stg_Meta_Trend.mqh"
 #include "Meta_Trio/Stg_Meta_Trio.mqh"

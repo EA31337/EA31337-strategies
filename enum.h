@@ -83,6 +83,7 @@ enum ENUM_STRATEGY {
   STRAT_META_RSI,                // (Meta) RSI
   STRAT_META_SCALPER,            // (Meta) Scalper
   STRAT_META_SIGNAL_SWITCH,      // (Meta) Signal Switch
+  STRAT_META_SPREAD,             // (Meta) Spread
   STRAT_META_TIMEZONE,           // (Meta) Timezone
   STRAT_META_TREND,              // (Meta) Trend
   STRAT_META_TRIO,               // (Meta) Trio
