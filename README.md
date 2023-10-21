@@ -68,7 +68,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
 | (Meta) Multi Currency | [![check][ghim_s_meta_multi_currency_check]][ghlm_s_meta_multi_currency_check] | [![check][ghim_s_meta_multi_currency_compile]][ghlm_s_meta_multi_currency_compile] | [![check][ghim_s_meta_multi_currency_bt]][ghlm_s_meta_multi_currency_bt] |
 | (Meta) Order Limit | [![check][ghim_s_meta_order_limit_check]][ghlm_s_meta_order_limit_check] | [![check][ghim_s_meta_order_limit_compile]][ghlm_s_meta_order_limit_compile] | [![check][ghim_s_meta_order_limit_bt]][ghlm_s_meta_order_limit_bt] |
-| (Meta) Oscillator | [![check][ghim_s_meta_osc_check]][ghlm_s_meta_osc_check] | [![check][ghim_s_meta_osc_compile]][ghlm_s_meta_osc_compile] | [![check][ghim_s_meta_osc_bt]][ghlm_s_meta_osc_bt] |
+| (Meta) Oscillator Filter | [![check][ghim_s_meta_oscillator_filter_check]][ghlm_s_meta_oscillator_filter_check] | [![check][ghim_s_meta_oscillator_filter_compile]][ghlm_s_meta_oscillator_filter_compile] | [![check][ghim_s_meta_oscillator_filter_bt]][ghlm_s_meta_oscillator_filter_bt] |
 | (Meta) Pattern | [![check][ghim_s_meta_pattern_check]][ghlm_s_meta_pattern_check] | [![check][ghim_s_meta_pattern_compile]][ghlm_s_meta_pattern_compile] | [![check][ghim_s_meta_pattern_bt]][ghlm_s_meta_pattern_bt] |
 | (Meta) Pivot | [![check][ghim_s_meta_pivot_check]][ghlm_s_meta_pivot_check] | [![check][ghim_s_meta_pivot_compile]][ghlm_s_meta_pivot_compile] | [![check][ghim_s_meta_pivot_bt]][ghlm_s_meta_pivot_bt] |
 | (Meta) Profit | [![check][ghim_s_meta_profit_check]][ghlm_s_meta_profit_check] | [![check][ghim_s_meta_profit_compile]][ghlm_s_meta_profit_compile] | [![check][ghim_s_meta_profit_bt]][ghlm_s_meta_profit_bt] |
@@ -163,7 +163,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
 | (Meta) Multi Currency | [![check][ghid_s_meta_multi_currency_check]][ghld_s_meta_multi_currency_check] | [![check][ghid_s_meta_multi_currency_compile]][ghld_s_meta_multi_currency_compile] | [![check][ghid_s_meta_multi_currency_bt]][ghld_s_meta_multi_currency_bt] |
 | (Meta) Order Limit | [![check][ghid_s_meta_order_limit_check]][ghld_s_meta_order_limit_check] | [![check][ghid_s_meta_order_limit_compile]][ghld_s_meta_order_limit_compile] | [![check][ghid_s_meta_order_limit_bt]][ghld_s_meta_order_limit_bt] |
-| (Meta) Oscillator | [![check][ghid_s_meta_osc_check]][ghld_s_meta_osc_check] | [![check][ghid_s_meta_osc_compile]][ghld_s_meta_osc_compile] | [![check][ghid_s_meta_osc_bt]][ghld_s_meta_osc_bt] |
+| (Meta) Oscillator Filter | [![check][ghid_s_meta_oscillator_filter_check]][ghld_s_meta_oscillator_filter_check] | [![check][ghid_s_meta_oscillator_filter_compile]][ghld_s_meta_oscillator_filter_compile] | [![check][ghid_s_meta_oscillator_filter_bt]][ghld_s_meta_oscillator_filter_bt] |
 | (Meta) Pattern | [![check][ghid_s_meta_pattern_check]][ghld_s_meta_pattern_check] | [![check][ghid_s_meta_pattern_compile]][ghld_s_meta_pattern_compile] | [![check][ghid_s_meta_pattern_bt]][ghld_s_meta_pattern_bt] |
 | (Meta) Pivot | [![check][ghid_s_meta_pivot_check]][ghld_s_meta_pivot_check] | [![check][ghid_s_meta_pivot_compile]][ghld_s_meta_pivot_compile] | [![check][ghid_s_meta_pivot_bt]][ghld_s_meta_pivot_bt] |
 | (Meta) Profit | [![check][ghid_s_meta_profit_check]][ghld_s_meta_profit_check] | [![check][ghid_s_meta_profit_compile]][ghld_s_meta_profit_compile] | [![check][ghid_s_meta_profit_bt]][ghld_s_meta_profit_bt] |
@@ -506,19 +506,19 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghld_s_meta_order_limit_bt]: https://github.com/EA31337/Strategy-Meta_Order_Limit/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_order_limit_bt]: https://github.com/EA31337/Strategy-Meta_Order_Limit/workflows/Backtest/badge.svg?branch=dev
 
-[ghlm_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Check+branch:master
-[ghim_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Check/badge.svg?branch=master
-[ghlm_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Compile+branch:master
-[ghim_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Compile/badge.svg?branch=master
-[ghlm_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Backtest+branch:master
-[ghim_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Backtest/badge.svg?branch=master
+[ghlm_s_meta_oscillator_filter_check]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/actions?query=workflow:Check+branch:master
+[ghim_s_meta_oscillator_filter_check]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_oscillator_filter_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_oscillator_filter_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_oscillator_filter_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_oscillator_filter_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Check+branch:dev
-[ghid_s_meta_osc_check]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Check/badge.svg?branch=dev
-[ghld_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Compile+branch:dev
-[ghid_s_meta_osc_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Compile/badge.svg?branch=dev
-[ghld_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/actions?query=workflow:Backtest+branch:dev
-[ghid_s_meta_osc_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_meta_oscillator_filter_check]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_oscillator_filter_check]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_oscillator_filter_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_oscillator_filter_compile]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_oscillator_filter_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_oscillator_filter_bt]: https://github.com/EA31337/Strategy-Meta_Oscillator_Filter/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_resistance_check]: https://github.com/EA31337/Strategy-Meta_Resistance/actions?query=workflow:Check+branch:master
 [ghim_s_meta_resistance_check]: https://github.com/EA31337/Strategy-Meta_Resistance/workflows/Check/badge.svg?branch=master
