@@ -71,6 +71,7 @@ enum ENUM_STRATEGY {
   STRAT_META_MIRROR,             // (Meta) Mirror
   STRAT_META_MULTI,              // (Meta) Multi
   STRAT_META_MULTI_CURRENCY,     // (Meta) Multi Currency
+  STRAT_META_ORDER_LIMIT,        // (Meta) Order Limit
   STRAT_META_PATTERN,            // (Meta) Pattern
   STRAT_META_PROFIT,             // (Meta) Profit
   STRAT_META_RESISTANCE,         // (Meta) Resistance

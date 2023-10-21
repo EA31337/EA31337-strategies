@@ -67,6 +67,7 @@
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "Meta_Multi_Currency/Stg_Meta_Multi_Currency.mqh"
+#include "Meta_Order_Limit/Stg_Meta_Order_Limit.mqh"
 #include "Meta_Pattern/Stg_Meta_Pattern.mqh"
 #include "Meta_Profit/Stg_Meta_Profit.mqh"
 #include "Meta_Resistance/Stg_Meta_Resistance.mqh"
