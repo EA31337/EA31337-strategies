@@ -72,6 +72,8 @@ enum ENUM_STRATEGY {
   STRAT_META_MULTI,              // (Meta) Multi
   STRAT_META_MULTI_CURRENCY,     // (Meta) Multi Currency
   STRAT_META_ORDER_LIMIT,        // (Meta) Order Limit
+  STRAT_META_OSCILLATOR_FILTER,  // (Meta) Oscillator Filter
+  STRAT_META_OSCILLATOR_SWITCH,  // (Meta) Oscillator Switch
   STRAT_META_PATTERN,            // (Meta) Pattern
   STRAT_META_PIVOT,              // (Meta) Pivot
   STRAT_META_PROFIT,             // (Meta) Profit

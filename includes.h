@@ -68,6 +68,8 @@
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "Meta_Multi_Currency/Stg_Meta_Multi_Currency.mqh"
 #include "Meta_Order_Limit/Stg_Meta_Order_Limit.mqh"
+#include "Meta_Oscillator_Filter/Stg_Meta_Oscillator_Filter.mqh"
+#include "Meta_Oscillator_Switch/Stg_Meta_Oscillator_Switch.mqh"
 #include "Meta_Pattern/Stg_Meta_Pattern.mqh"
 #include "Meta_Pivot/Stg_Meta_Pivot.mqh"
 #include "Meta_Profit/Stg_Meta_Profit.mqh"
