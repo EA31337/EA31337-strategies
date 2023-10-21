@@ -73,6 +73,7 @@ enum ENUM_STRATEGY {
   STRAT_META_MULTI_CURRENCY,     // (Meta) Multi Currency
   STRAT_META_ORDER_LIMIT,        // (Meta) Order Limit
   STRAT_META_PATTERN,            // (Meta) Pattern
+  STRAT_META_PIVOT,              // (Meta) Pivot
   STRAT_META_PROFIT,             // (Meta) Profit
   STRAT_META_RESISTANCE,         // (Meta) Resistance
   STRAT_META_REVERSAL,           // (Meta) Reversal

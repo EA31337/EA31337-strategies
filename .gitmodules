@@ -151,6 +151,9 @@
 [submodule "Meta_Pattern"]
 	path = Meta_Pattern
 	url = https://github.com/EA31337/Strategy-Meta_Pattern.git
+[submodule "Meta_Pivot"]
+	path = Meta_Pivot
+	url = https://github.com/EA31337/Strategy-Meta_Pivot.git
 [submodule "Meta_Profit"]
 	path = Meta_Profit
 	url = https://github.com/EA31337/Strategy-Meta_Profit.git

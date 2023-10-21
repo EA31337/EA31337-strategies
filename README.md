@@ -70,6 +70,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Order Limit | [![check][ghim_s_meta_order_limit_check]][ghlm_s_meta_order_limit_check] | [![check][ghim_s_meta_order_limit_compile]][ghlm_s_meta_order_limit_compile] | [![check][ghim_s_meta_order_limit_bt]][ghlm_s_meta_order_limit_bt] |
 | (Meta) Oscillator | [![check][ghim_s_meta_osc_check]][ghlm_s_meta_osc_check] | [![check][ghim_s_meta_osc_compile]][ghlm_s_meta_osc_compile] | [![check][ghim_s_meta_osc_bt]][ghlm_s_meta_osc_bt] |
 | (Meta) Pattern | [![check][ghim_s_meta_pattern_check]][ghlm_s_meta_pattern_check] | [![check][ghim_s_meta_pattern_compile]][ghlm_s_meta_pattern_compile] | [![check][ghim_s_meta_pattern_bt]][ghlm_s_meta_pattern_bt] |
+| (Meta) Pivot | [![check][ghim_s_meta_pivot_check]][ghlm_s_meta_pivot_check] | [![check][ghim_s_meta_pivot_compile]][ghlm_s_meta_pivot_compile] | [![check][ghim_s_meta_pivot_bt]][ghlm_s_meta_pivot_bt] |
 | (Meta) Profit | [![check][ghim_s_meta_profit_check]][ghlm_s_meta_profit_check] | [![check][ghim_s_meta_profit_compile]][ghlm_s_meta_profit_compile] | [![check][ghim_s_meta_profit_bt]][ghlm_s_meta_profit_bt] |
 | (Meta) Resistance | [![check][ghim_s_meta_resistance_check]][ghlm_s_meta_resistance_check] | [![check][ghim_s_meta_resistance_compile]][ghlm_s_meta_resistance_compile] | [![check][ghim_s_meta_resistance_bt]][ghlm_s_meta_resistance_bt] |
 | (Meta) Reversal | [![check][ghim_s_meta_reversal_check]][ghlm_s_meta_reversal_check] | [![check][ghim_s_meta_reversal_compile]][ghlm_s_meta_reversal_compile] | [![check][ghim_s_meta_reversal_bt]][ghlm_s_meta_reversal_bt] |
@@ -164,6 +165,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Order Limit | [![check][ghid_s_meta_order_limit_check]][ghld_s_meta_order_limit_check] | [![check][ghid_s_meta_order_limit_compile]][ghld_s_meta_order_limit_compile] | [![check][ghid_s_meta_order_limit_bt]][ghld_s_meta_order_limit_bt] |
 | (Meta) Oscillator | [![check][ghid_s_meta_osc_check]][ghld_s_meta_osc_check] | [![check][ghid_s_meta_osc_compile]][ghld_s_meta_osc_compile] | [![check][ghid_s_meta_osc_bt]][ghld_s_meta_osc_bt] |
 | (Meta) Pattern | [![check][ghid_s_meta_pattern_check]][ghld_s_meta_pattern_check] | [![check][ghid_s_meta_pattern_compile]][ghld_s_meta_pattern_compile] | [![check][ghid_s_meta_pattern_bt]][ghld_s_meta_pattern_bt] |
+| (Meta) Pivot | [![check][ghid_s_meta_pivot_check]][ghld_s_meta_pivot_check] | [![check][ghid_s_meta_pivot_compile]][ghld_s_meta_pivot_compile] | [![check][ghid_s_meta_pivot_bt]][ghld_s_meta_pivot_bt] |
 | (Meta) Profit | [![check][ghid_s_meta_profit_check]][ghld_s_meta_profit_check] | [![check][ghid_s_meta_profit_compile]][ghld_s_meta_profit_compile] | [![check][ghid_s_meta_profit_bt]][ghld_s_meta_profit_bt] |
 | (Meta) Resistance | [![check][ghid_s_meta_resistance_check]][ghld_s_meta_resistance_check] | [![check][ghid_s_meta_resistance_compile]][ghld_s_meta_resistance_compile] | [![check][ghid_s_meta_resistance_bt]][ghld_s_meta_resistance_bt] |
 | (Meta) Reversal | [![check][ghid_s_meta_reversal_check]][ghld_s_meta_reversal_check] | [![check][ghid_s_meta_reversal_compile]][ghld_s_meta_reversal_compile] | [![check][ghid_s_meta_reversal_bt]][ghld_s_meta_reversal_bt] |
@@ -559,6 +561,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_pattern_compile]: https://github.com/EA31337/Strategy-Meta_Pattern/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_pattern_bt]: https://github.com/EA31337/Strategy-Meta_Pattern/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_pattern_bt]: https://github.com/EA31337/Strategy-Meta_Pattern/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_pivot_check]: https://github.com/EA31337/Strategy-Meta_Pivot/actions?query=workflow:Check+branch:master
+[ghim_s_meta_pivot_check]: https://github.com/EA31337/Strategy-Meta_Pivot/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_pivot_compile]: https://github.com/EA31337/Strategy-Meta_Pivot/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_pivot_compile]: https://github.com/EA31337/Strategy-Meta_Pivot/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_pivot_bt]: https://github.com/EA31337/Strategy-Meta_Pivot/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_pivot_bt]: https://github.com/EA31337/Strategy-Meta_Pivot/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_pivot_check]: https://github.com/EA31337/Strategy-Meta_Pivot/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_pivot_check]: https://github.com/EA31337/Strategy-Meta_Pivot/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_pivot_compile]: https://github.com/EA31337/Strategy-Meta_Pivot/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_pivot_compile]: https://github.com/EA31337/Strategy-Meta_Pivot/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_pivot_bt]: https://github.com/EA31337/Strategy-Meta_Pivot/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_pivot_bt]: https://github.com/EA31337/Strategy-Meta_Pivot/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_profit_check]: https://github.com/EA31337/Strategy-Meta_Profit/actions?query=workflow:Check+branch:master
 [ghim_s_meta_profit_check]: https://github.com/EA31337/Strategy-Meta_Profit/workflows/Check/badge.svg?branch=master

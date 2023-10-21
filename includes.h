@@ -69,6 +69,7 @@
 #include "Meta_Multi_Currency/Stg_Meta_Multi_Currency.mqh"
 #include "Meta_Order_Limit/Stg_Meta_Order_Limit.mqh"
 #include "Meta_Pattern/Stg_Meta_Pattern.mqh"
+#include "Meta_Pivot/Stg_Meta_Pivot.mqh"
 #include "Meta_Profit/Stg_Meta_Profit.mqh"
 #include "Meta_Resistance/Stg_Meta_Resistance.mqh"
 #include "Meta_Reversal/Stg_Meta_Reversal.mqh"
