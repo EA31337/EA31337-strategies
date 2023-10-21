@@ -67,6 +67,7 @@ enum ENUM_STRATEGY {
   STRAT_META_INTERVAL,           // (Meta) Interval
   STRAT_META_HEDGE,              // (Meta) Hedge
   STRAT_META_LIMIT,              // (Meta) Limit
+  STRAT_META_MA_CROSS,           // (Meta) MA Cross
   STRAT_META_MARGIN,             // (Meta) Margin
   STRAT_META_MIRROR,             // (Meta) Mirror
   STRAT_META_MULTI,              // (Meta) Multi
