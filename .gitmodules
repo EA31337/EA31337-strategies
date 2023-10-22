@@ -292,3 +292,6 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag.git
+[submodule "Meta_Martingale"]
+	path = Meta_Martingale
+	url = https://github.com/EA31337/Strategy-Meta_Martingale.git

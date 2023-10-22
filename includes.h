@@ -65,6 +65,7 @@
 #include "Meta_Limit/Stg_Meta_Limit.mqh"
 #include "Meta_MA_Cross/Stg_Meta_MA_Cross.mqh"
 #include "Meta_Margin/Stg_Meta_Margin.mqh"
+#include "Meta_Martingale/Stg_Meta_Martingale.mqh"
 #include "Meta_Mirror/Stg_Meta_Mirror.mqh"
 #include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "Meta_Multi_Currency/Stg_Meta_Multi_Currency.mqh"

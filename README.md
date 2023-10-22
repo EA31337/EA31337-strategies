@@ -65,6 +65,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Limit | [![check][ghim_s_meta_limit_check]][ghlm_s_meta_limit_check] | [![check][ghim_s_meta_limit_compile]][ghlm_s_meta_limit_compile] | [![check][ghim_s_meta_limit_bt]][ghlm_s_meta_limit_bt] |
 | (Meta) MA Cross | [![check][ghim_s_meta_ma_cross_check]][ghlm_s_meta_ma_cross_check] | [![check][ghim_s_meta_ma_cross_compile]][ghlm_s_meta_ma_cross_compile] | [![check][ghim_s_meta_ma_cross_bt]][ghlm_s_meta_ma_cross_bt] |
 | (Meta) Margin | [![check][ghim_s_meta_margin_check]][ghlm_s_meta_margin_check] | [![check][ghim_s_meta_margin_compile]][ghlm_s_meta_margin_compile] | [![check][ghim_s_meta_margin_bt]][ghlm_s_meta_margin_bt] |
+| (Meta) Martingale | [![check][ghim_s_meta_martingale_check]][ghlm_s_meta_martingale_check] | [![check][ghim_s_meta_martingale_compile]][ghlm_s_meta_martingale_compile] | [![check][ghim_s_meta_martingale_bt]][ghlm_s_meta_martingale_bt] |
 | (Meta) Mirror | [![check][ghim_s_meta_mirror_check]][ghlm_s_meta_mirror_check] | [![check][ghim_s_meta_mirror_compile]][ghlm_s_meta_mirror_compile] | [![check][ghim_s_meta_mirror_bt]][ghlm_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
 | (Meta) Multi Currency | [![check][ghim_s_meta_multi_currency_check]][ghlm_s_meta_multi_currency_check] | [![check][ghim_s_meta_multi_currency_compile]][ghlm_s_meta_multi_currency_compile] | [![check][ghim_s_meta_multi_currency_bt]][ghlm_s_meta_multi_currency_bt] |
@@ -165,6 +166,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Limit | [![check][ghid_s_meta_limit_check]][ghld_s_meta_limit_check] | [![check][ghid_s_meta_limit_compile]][ghld_s_meta_limit_compile] | [![check][ghid_s_meta_limit_bt]][ghld_s_meta_limit_bt] |
 | (Meta) MA Cross | [![check][ghid_s_meta_ma_cross_check]][ghld_s_meta_ma_cross_check] | [![check][ghid_s_meta_ma_cross_compile]][ghld_s_meta_ma_cross_compile] | [![check][ghid_s_meta_ma_cross_bt]][ghld_s_meta_ma_cross_bt] |
 | (Meta) Margin | [![check][ghid_s_meta_margin_check]][ghld_s_meta_margin_check] | [![check][ghid_s_meta_margin_compile]][ghld_s_meta_margin_compile] | [![check][ghid_s_meta_margin_bt]][ghld_s_meta_margin_bt] |
+| (Meta) Martingale | [![check][ghid_s_meta_martingale_check]][ghld_s_meta_martingale_check] | [![check][ghid_s_meta_martingale_compile]][ghld_s_meta_martingale_compile] | [![check][ghid_s_meta_martingale_bt]][ghld_s_meta_martingale_bt] |
 | (Meta) Mirror | [![check][ghid_s_meta_mirror_check]][ghld_s_meta_mirror_check] | [![check][ghid_s_meta_mirror_compile]][ghld_s_meta_mirror_compile] | [![check][ghid_s_meta_mirror_bt]][ghld_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
 | (Meta) Multi Currency | [![check][ghid_s_meta_multi_currency_check]][ghld_s_meta_multi_currency_check] | [![check][ghid_s_meta_multi_currency_compile]][ghld_s_meta_multi_currency_compile] | [![check][ghid_s_meta_multi_currency_bt]][ghld_s_meta_multi_currency_bt] |
@@ -473,6 +475,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_margin_compile]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_margin_bt]: https://github.com/EA31337/Strategy-Meta_Margin/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_margin_bt]: https://github.com/EA31337/Strategy-Meta_Margin/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_martingale_check]: https://github.com/EA31337/Strategy-Meta_Martingale/actions?query=workflow:Check+branch:master
+[ghim_s_meta_martingale_check]: https://github.com/EA31337/Strategy-Meta_Martingale/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_martingale_compile]: https://github.com/EA31337/Strategy-Meta_Martingale/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_martingale_compile]: https://github.com/EA31337/Strategy-Meta_Martingale/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_martingale_bt]: https://github.com/EA31337/Strategy-Meta_Martingale/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_martingale_bt]: https://github.com/EA31337/Strategy-Meta_Martingale/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_martingale_check]: https://github.com/EA31337/Strategy-Meta_Martingale/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_martingale_check]: https://github.com/EA31337/Strategy-Meta_Martingale/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_martingale_compile]: https://github.com/EA31337/Strategy-Meta_Martingale/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_martingale_compile]: https://github.com/EA31337/Strategy-Meta_Martingale/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_martingale_bt]: https://github.com/EA31337/Strategy-Meta_Martingale/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_martingale_bt]: https://github.com/EA31337/Strategy-Meta_Martingale/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Check+branch:master
 [ghim_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Check/badge.svg?branch=master
