@@ -66,8 +66,9 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) MA Cross | [![check][ghim_s_meta_ma_cross_check]][ghlm_s_meta_ma_cross_check] | [![check][ghim_s_meta_ma_cross_compile]][ghlm_s_meta_ma_cross_compile] | [![check][ghim_s_meta_ma_cross_bt]][ghlm_s_meta_ma_cross_bt] |
 | (Meta) Margin | [![check][ghim_s_meta_margin_check]][ghlm_s_meta_margin_check] | [![check][ghim_s_meta_margin_compile]][ghlm_s_meta_margin_compile] | [![check][ghim_s_meta_margin_bt]][ghlm_s_meta_margin_bt] |
 | (Meta) Mirror | [![check][ghim_s_meta_mirror_check]][ghlm_s_meta_mirror_check] | [![check][ghim_s_meta_mirror_compile]][ghlm_s_meta_mirror_compile] | [![check][ghim_s_meta_mirror_bt]][ghlm_s_meta_mirror_bt] |
-| (Meta) Multi Currency | [![check][ghim_s_meta_multi_currency_check]][ghlm_s_meta_multi_currency_check] | [![check][ghim_s_meta_multi_currency_compile]][ghlm_s_meta_multi_currency_compile] | [![check][ghim_s_meta_multi_currency_bt]][ghlm_s_meta_multi_currency_bt] |
 | (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
+| (Meta) Multi Currency | [![check][ghim_s_meta_multi_currency_check]][ghlm_s_meta_multi_currency_check] | [![check][ghim_s_meta_multi_currency_compile]][ghlm_s_meta_multi_currency_compile] | [![check][ghim_s_meta_multi_currency_bt]][ghlm_s_meta_multi_currency_bt] |
+| (Meta) News | [![check][ghim_s_meta_news_check]][ghlm_s_meta_news_check] | [![check][ghim_s_meta_news_compile]][ghlm_s_meta_news_compile] | [![check][ghim_s_meta_news_bt]][ghlm_s_meta_news_bt] |
 | (Meta) Order Limit | [![check][ghim_s_meta_order_limit_check]][ghlm_s_meta_order_limit_check] | [![check][ghim_s_meta_order_limit_compile]][ghlm_s_meta_order_limit_compile] | [![check][ghim_s_meta_order_limit_bt]][ghlm_s_meta_order_limit_bt] |
 | (Meta) Oscillator Filter | [![check][ghim_s_meta_oscillator_filter_check]][ghlm_s_meta_oscillator_filter_check] | [![check][ghim_s_meta_oscillator_filter_compile]][ghlm_s_meta_oscillator_filter_compile] | [![check][ghim_s_meta_oscillator_filter_bt]][ghlm_s_meta_oscillator_filter_bt] |
 | (Meta) Oscillator Switch | [![check][ghim_s_meta_oscillator_switch_check]][ghlm_s_meta_oscillator_switch_check] | [![check][ghim_s_meta_oscillator_switch_compile]][ghlm_s_meta_oscillator_switch_compile] | [![check][ghim_s_meta_oscillator_switch_bt]][ghlm_s_meta_oscillator_switch_bt] |
@@ -167,6 +168,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | (Meta) Mirror | [![check][ghid_s_meta_mirror_check]][ghld_s_meta_mirror_check] | [![check][ghid_s_meta_mirror_compile]][ghld_s_meta_mirror_compile] | [![check][ghid_s_meta_mirror_bt]][ghld_s_meta_mirror_bt] |
 | (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
 | (Meta) Multi Currency | [![check][ghid_s_meta_multi_currency_check]][ghld_s_meta_multi_currency_check] | [![check][ghid_s_meta_multi_currency_compile]][ghld_s_meta_multi_currency_compile] | [![check][ghid_s_meta_multi_currency_bt]][ghld_s_meta_multi_currency_bt] |
+| (Meta) News | [![check][ghid_s_meta_news_check]][ghld_s_meta_news_check] | [![check][ghid_s_meta_news_compile]][ghld_s_meta_news_compile] | [![check][ghid_s_meta_news_bt]][ghld_s_meta_news_bt] |
 | (Meta) Order Limit | [![check][ghid_s_meta_order_limit_check]][ghld_s_meta_order_limit_check] | [![check][ghid_s_meta_order_limit_compile]][ghld_s_meta_order_limit_compile] | [![check][ghid_s_meta_order_limit_bt]][ghld_s_meta_order_limit_bt] |
 | (Meta) Oscillator Filter | [![check][ghid_s_meta_oscillator_filter_check]][ghld_s_meta_oscillator_filter_check] | [![check][ghid_s_meta_oscillator_filter_compile]][ghld_s_meta_oscillator_filter_compile] | [![check][ghid_s_meta_oscillator_filter_bt]][ghld_s_meta_oscillator_filter_bt] |
 | (Meta) Oscillator Switch | [![check][ghid_s_meta_oscillator_switch_check]][ghld_s_meta_oscillator_switch_check] | [![check][ghid_s_meta_oscillator_switch_compile]][ghld_s_meta_oscillator_switch_compile] | [![check][ghid_s_meta_oscillator_switch_bt]][ghld_s_meta_oscillator_switch_bt] |
@@ -513,6 +515,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_meta_multi_currency_compile]: https://github.com/EA31337/Strategy-Meta_Multi_Currency/workflows/Compile/badge.svg?branch=dev
 [ghld_s_meta_multi_currency_bt]: https://github.com/EA31337/Strategy-Meta_Multi_Currency/actions?query=workflow:Backtest+branch:dev
 [ghid_s_meta_multi_currency_bt]: https://github.com/EA31337/Strategy-Meta_Multi_Currency/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_meta_news_check]: https://github.com/EA31337/Strategy-Meta_News/actions?query=workflow:Check+branch:master
+[ghim_s_meta_news_check]: https://github.com/EA31337/Strategy-Meta_News/workflows/Check/badge.svg?branch=master
+[ghlm_s_meta_news_compile]: https://github.com/EA31337/Strategy-Meta_News/actions?query=workflow:Compile+branch:master
+[ghim_s_meta_news_compile]: https://github.com/EA31337/Strategy-Meta_News/workflows/Compile/badge.svg?branch=master
+[ghlm_s_meta_news_bt]: https://github.com/EA31337/Strategy-Meta_News/actions?query=workflow:Backtest+branch:master
+[ghim_s_meta_news_bt]: https://github.com/EA31337/Strategy-Meta_News/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_meta_news_check]: https://github.com/EA31337/Strategy-Meta_News/actions?query=workflow:Check+branch:dev
+[ghid_s_meta_news_check]: https://github.com/EA31337/Strategy-Meta_News/workflows/Check/badge.svg?branch=dev
+[ghld_s_meta_news_compile]: https://github.com/EA31337/Strategy-Meta_News/actions?query=workflow:Compile+branch:dev
+[ghid_s_meta_news_compile]: https://github.com/EA31337/Strategy-Meta_News/workflows/Compile/badge.svg?branch=dev
+[ghld_s_meta_news_bt]: https://github.com/EA31337/Strategy-Meta_News/actions?query=workflow:Backtest+branch:dev
+[ghid_s_meta_news_bt]: https://github.com/EA31337/Strategy-Meta_News/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_meta_order_limit_check]: https://github.com/EA31337/Strategy-Meta_Order_Limit/actions?query=workflow:Check+branch:master
 [ghim_s_meta_order_limit_check]: https://github.com/EA31337/Strategy-Meta_Order_Limit/workflows/Check/badge.svg?branch=master

@@ -145,6 +145,9 @@
 [submodule "Meta_Multi_Currency"]
 	path = Meta_Multi_Currency
 	url = https://github.com/EA31337/Strategy-Meta_Multi_Currency.git
+[submodule "Meta_News"]
+	path = Meta_News
+	url = https://github.com/EA31337/Strategy-Meta_News.git
 [submodule "Meta_Order_Limit"]
 	path = Meta_Order_Limit
 	url = https://github.com/EA31337/Strategy-Meta_Order_Limit.git
