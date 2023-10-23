@@ -295,3 +295,6 @@
 [submodule "Meta_Martingale"]
 	path = Meta_Martingale
 	url = https://github.com/EA31337/Strategy-Meta_Martingale.git
+[submodule "Meta_Formation"]
+	path = Meta_Formation
+	url = https://github.com/EA31337/Strategy-Meta_Formation.git

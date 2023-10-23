@@ -60,6 +60,7 @@
 #include "Meta_Double/Stg_Meta_Double.mqh"
 #include "Meta_Enhance/Stg_Meta_Enhance.mqh"
 #include "Meta_Equity/Stg_Meta_Equity.mqh"
+#include "Meta_Formation/Stg_Meta_Formation.mqh"
 #include "Meta_Hedge/Stg_Meta_Hedge.mqh"
 #include "Meta_Interval/Stg_Meta_Interval.mqh"
 #include "Meta_Limit/Stg_Meta_Limit.mqh"

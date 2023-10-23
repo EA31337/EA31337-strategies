@@ -64,6 +64,7 @@ enum ENUM_STRATEGY {
   STRAT_META_CONDITIONS,         // (Meta) Conditions
   STRAT_META_ENHANCE,            // (Meta) Enhance
   STRAT_META_EQUITY,             // (Meta) Equity
+  STRAT_META_FORMATION,          // (Meta) Formation
   STRAT_META_INTERVAL,           // (Meta) Interval
   STRAT_META_HEDGE,              // (Meta) Hedge
   STRAT_META_LIMIT,              // (Meta) Limit
