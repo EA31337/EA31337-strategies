@@ -133,6 +133,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator Cross Shift | [![check][ghim_s_osc_cross_shift_check]][ghlm_s_osc_cross_shift_check] | [![check][ghim_s_osc_cross_shift_compile]][ghlm_s_osc_cross_shift_compile] | [![check][ghim_s_osc_cross_shift_bt]][ghlm_s_osc_cross_shift_bt] |
 | Oscillator Cross Zero | [![check][ghim_s_osc_cross_zero_check]][ghlm_s_osc_cross_zero_check] | [![check][ghim_s_osc_cross_zero_compile]][ghlm_s_osc_cross_zero_compile] | [![check][ghim_s_osc_cross_zero_bt]][ghlm_s_osc_cross_zero_bt] |
 | Oscillator Divergence | [![check][ghim_s_osc_div_check]][ghlm_s_osc_div_check] | [![check][ghim_s_osc_div_compile]][ghlm_s_osc_div_compile] | [![check][ghim_s_osc_div_bt]][ghlm_s_osc_div_bt] |
+| Oscillator Martingale | [![check][ghim_s_osc_martingale_check]][ghlm_s_osc_martingale_check] | [![check][ghim_s_osc_martingale_compile]][ghlm_s_osc_martingale_compile] | [![check][ghim_s_osc_martingale_bt]][ghlm_s_osc_martingale_bt] |
 | Oscillator Multi | [![check][ghim_s_osc_multi_check]][ghlm_s_osc_multi_check] | [![check][ghim_s_osc_multi_compile]][ghlm_s_osc_multi_compile] | [![check][ghim_s_osc_multi_bt]][ghlm_s_osc_multi_bt] |
 | Oscillator Overlay | [![check][ghim_s_osc_overlay_check]][ghlm_s_osc_overlay_check] | [![check][ghim_s_osc_overlay_compile]][ghlm_s_osc_overlay_compile] | [![check][ghim_s_osc_overlay_bt]][ghlm_s_osc_overlay_bt] |
 | Oscillator Range | [![check][ghim_s_osc_range_check]][ghlm_s_osc_range_check] | [![check][ghim_s_osc_range_compile]][ghlm_s_osc_range_compile] | [![check][ghim_s_osc_range_bt]][ghlm_s_osc_range_bt] |
@@ -235,6 +236,7 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator Cross Shift | [![check][ghid_s_osc_cross_shift_check]][ghld_s_osc_cross_shift_check] | [![check][ghid_s_osc_cross_shift_compile]][ghld_s_osc_cross_shift_compile] | [![check][ghid_s_osc_cross_shift_bt]][ghld_s_osc_cross_shift_bt] |
 | Oscillator Cross Zero | [![check][ghid_s_osc_cross_zero_check]][ghld_s_osc_cross_zero_check] | [![check][ghid_s_osc_cross_zero_compile]][ghld_s_osc_cross_zero_compile] | [![check][ghid_s_osc_cross_zero_bt]][ghld_s_osc_cross_zero_bt] |
 | Oscillator Divergence | [![check][ghid_s_osc_div_check]][ghld_s_osc_div_check] | [![check][ghid_s_osc_div_compile]][ghld_s_osc_div_compile] | [![check][ghid_s_osc_div_bt]][ghld_s_osc_div_bt] |
+| Oscillator Martingale | [![check][ghid_s_osc_martingale_check]][ghld_s_osc_martingale_check] | [![check][ghid_s_osc_martingale_compile]][ghld_s_osc_martingale_compile] | [![check][ghid_s_osc_martingale_bt]][ghld_s_osc_martingale_bt] |
 | Oscillator Multi | [![check][ghid_s_osc_multi_check]][ghld_s_osc_multi_check] | [![check][ghid_s_osc_multi_compile]][ghld_s_osc_multi_compile] | [![check][ghid_s_osc_multi_bt]][ghld_s_osc_multi_bt] |
 | Oscillator Overlay | [![check][ghid_s_osc_overlay_check]][ghld_s_osc_overlay_check] | [![check][ghid_s_osc_overlay_compile]][ghld_s_osc_overlay_compile] | [![check][ghid_s_osc_overlay_bt]][ghld_s_osc_overlay_bt] |
 | Oscillator Range | [![check][ghid_s_osc_range_check]][ghld_s_osc_range_check] | [![check][ghid_s_osc_range_compile]][ghld_s_osc_range_compile] | [![check][ghid_s_osc_range_bt]][ghld_s_osc_range_bt] |
@@ -1415,6 +1417,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_osc_div_compile]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Compile/badge.svg?branch=dev
 [ghld_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Backtest+branch:dev
 [ghid_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Check+branch:master
+[ghim_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Check/badge.svg?branch=master
+[ghlm_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Compile+branch:master
+[ghim_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Compile/badge.svg?branch=master
+[ghlm_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Backtest+branch:master
+[ghim_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Check+branch:dev
+[ghid_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Check/badge.svg?branch=dev
+[ghld_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Compile+branch:dev
+[ghid_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Compile/badge.svg?branch=dev
+[ghld_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Backtest+branch:dev
+[ghid_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Check+branch:master
 [ghim_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Check/badge.svg?branch=master

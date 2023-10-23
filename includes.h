@@ -98,6 +98,7 @@
 #include "Oscillator_Cross_Zero/Stg_Oscillator_Cross_Zero.mqh"
 #include "Oscillator_Divergence/Stg_Oscillator_Divergence.mqh"
 #include "Oscillator_Overlay/Stg_Oscillator_Overlay.mqh"
+#include "Oscillator_Martingale/Stg_Oscillator_Martingale.mqh"
 #include "Oscillator_Multi/Stg_Oscillator_Multi.mqh"
 #include "Oscillator_Range/Stg_Oscillator_Range.mqh"
 #include "Oscillator_Trend/Stg_Oscillator_Trend.mqh"

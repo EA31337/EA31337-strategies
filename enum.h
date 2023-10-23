@@ -98,6 +98,7 @@ enum ENUM_STRATEGY {
   STRAT_OBV,                     // OBV
   STRAT_OSCILLATOR,              // Oscillator
   STRAT_OSCILLATOR_DIVERGENCE,   // Oscillator Divergence
+  STRAT_OSCILLATOR_MARTINGALE,   // Oscillator Martingale
   STRAT_OSCILLATOR_MULTI,        // Oscillator Multi
   STRAT_OSCILLATOR_CROSS,        // Oscillator Cross
   STRAT_OSCILLATOR_CROSS_SHIFT,  // Oscillator Cross Shift

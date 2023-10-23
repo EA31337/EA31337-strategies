@@ -121,6 +121,9 @@
 [submodule "Meta_Enhance"]
 	path = Meta_Enhance
 	url = https://github.com/EA31337/Strategy-Meta_Enhance.git
+[submodule "Meta_Formation"]
+	path = Meta_Formation
+	url = https://github.com/EA31337/Strategy-Meta_Formation.git
 [submodule "Meta_Interval"]
 	path = Meta_Interval
 	url = https://github.com/EA31337/Strategy-Meta_Interval.git
@@ -136,6 +139,9 @@
 [submodule "Meta_Margin"]
 	path = Meta_Margin
 	url = https://github.com/EA31337/Strategy-Meta_Margin.git
+[submodule "Meta_Martingale"]
+	path = Meta_Martingale
+	url = https://github.com/EA31337/Strategy-Meta_Martingale.git
 [submodule "Meta_Mirror"]
 	path = Meta_Mirror
 	url = https://github.com/EA31337/Strategy-Meta_Mirror.git
@@ -229,6 +235,9 @@
 [submodule "Oscillator_Divergence"]
 	path = Oscillator_Divergence
 	url = https://github.com/EA31337/Strategy-Oscillator_Divergence.git
+[submodule "Oscillator_Martingale"]
+	path = Oscillator_Martingale
+	url = https://github.com/EA31337/Strategy-Oscillator_Martingale.git
 [submodule "Oscillator_Multi"]
 	path = Oscillator_Multi
 	url = https://github.com/EA31337/Strategy-Oscillator_Multi.git
@@ -292,9 +301,3 @@
 [submodule "ZigZag"]
 	path = ZigZag
 	url = https://github.com/EA31337/Strategy-ZigZag.git
-[submodule "Meta_Martingale"]
-	path = Meta_Martingale
-	url = https://github.com/EA31337/Strategy-Meta_Martingale.git
-[submodule "Meta_Formation"]
-	path = Meta_Formation
-	url = https://github.com/EA31337/Strategy-Meta_Formation.git
