@@ -55,7 +55,6 @@
 #include "MA_Cross_Sup_Res/Stg_MA_Cross_Sup_Res.mqh"
 #include "MA_Trend/Stg_MA_Trend.mqh"
 #include "MFI/Stg_MFI.mqh"
-#include "Meta_Multi/Stg_Meta_Multi.mqh"
 #include "Momentum/Stg_Momentum.mqh"
 #include "OBV/Stg_OBV.mqh"
 #include "OSMA/Stg_OSMA.mqh"
