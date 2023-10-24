@@ -232,6 +232,9 @@
 [submodule "Oscillator_Cross_Shift"]
 	path = Oscillator_Cross_Shift
 	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Shift.git
+[submodule "Oscillator_Cross_Timeframe"]
+	path = Oscillator_Cross_Timeframe
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe.git
 [submodule "Oscillator_Cross_Zero"]
 	path = Oscillator_Cross_Zero
 	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Zero.git

@@ -96,6 +96,7 @@
 #include "Oscillator/Stg_Oscillator.mqh"
 #include "Oscillator_Cross/Stg_Oscillator_Cross.mqh"
 #include "Oscillator_Cross_Shift/Stg_Oscillator_Cross_Shift.mqh"
+#include "Oscillator_Cross_Timeframe/Stg_Oscillator_Cross_Timeframe.mqh"
 #include "Oscillator_Cross_Zero/Stg_Oscillator_Cross_Zero.mqh"
 #include "Oscillator_Divergence/Stg_Oscillator_Divergence.mqh"
 #include "Oscillator_Overlay/Stg_Oscillator_Overlay.mqh"
