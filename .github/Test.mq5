@@ -32,7 +32,7 @@
 
 // Local includes.
 #include "../enum.h"
-#include "../strategies.h"
+#include "../includes.h"
 
 // Adds Demo strategy.
 #include "../Demo/Stg_Demo.mqh"
