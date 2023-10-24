@@ -57,6 +57,7 @@ enum ENUM_STRATEGY {
   STRAT_MA_CROSS_PIVOT,          // MA Cross Pivot
   STRAT_MA_CROSS_SHIFT,          // MA Cross Shift
   STRAT_MA_CROSS_SUP_RES,        // MA Cross Sup/Res
+  STRAT_MA_CROSS_TIMEFRAME,      // MA Cross Timeframe
   STRAT_MA_TREND,                // MA Trend
   STRAT_MACD,                    // MACD
   STRAT_META_BEARS_BULLS,        // (Meta) Bears & Bulls

@@ -53,6 +53,7 @@
 #include "MA_Cross_Pivot/Stg_MA_Cross_Pivot.mqh"
 #include "MA_Cross_Shift/Stg_MA_Cross_Shift.mqh"
 #include "MA_Cross_Sup_Res/Stg_MA_Cross_Sup_Res.mqh"
+#include "MA_Cross_Timeframe/Stg_MA_Cross_Timeframe.mqh"
 #include "MA_Trend/Stg_MA_Trend.mqh"
 #include "MFI/Stg_MFI.mqh"
 #include "Meta_Bears_Bulls/Stg_Meta_Bears_Bulls.mqh"
