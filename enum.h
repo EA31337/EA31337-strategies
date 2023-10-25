@@ -19,15 +19,10 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#define STRATEGY_LIST \
-  STRAT_AC,         /* AC */\ // AC
-  STRAT_AD,         // AD
-
 #ifndef ENUM_STRATEGY_DEFINED
 // Defines enum with supported strategy list.
 enum ENUM_STRATEGY {
   STRAT_NONE = 0,   // (None)
-  // STRATEGY_LIST // Test
   STRAT_AC,         // AC
   STRAT_AD,         // AD
   STRAT_ADX,        // ADX
