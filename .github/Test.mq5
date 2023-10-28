@@ -33,6 +33,7 @@
 // Local includes.
 #include "../enum.h"
 #include "../includes.h"
+#include "../manager.h"
 
 // Adds Demo strategy.
 #include "../Demo/Stg_Demo.mqh"

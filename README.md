@@ -56,9 +56,6 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
-| (Meta) Mirror | [![check][ghim_s_meta_mirror_check]][ghlm_s_meta_mirror_check] | [![check][ghim_s_meta_mirror_compile]][ghlm_s_meta_mirror_compile] | [![check][ghim_s_meta_mirror_bt]][ghlm_s_meta_mirror_bt] |
-| (Meta) Multi | [![check][ghim_s_meta_multi_check]][ghlm_s_meta_multi_check] | [![check][ghim_s_meta_multi_compile]][ghlm_s_meta_multi_compile] | [![check][ghim_s_meta_multi_bt]][ghlm_s_meta_multi_bt] |
-| (Meta) Reversal | [![check][ghim_s_meta_reversal_check]][ghlm_s_meta_reversal_check] | [![check][ghim_s_meta_reversal_compile]][ghlm_s_meta_reversal_compile] | [![check][ghim_s_meta_reversal_bt]][ghlm_s_meta_reversal_bt] |
 | AC | [![check][ghim_s_ac_check]][ghlm_s_ac_check] | [![check][ghim_s_ac_compile]][ghlm_s_ac_compile] | [![check][ghim_s_ac_bt]][ghlm_s_ac_bt] |
 | AD | [![check][ghim_s_ad_check]][ghlm_s_ad_check] | [![check][ghim_s_ad_compile]][ghlm_s_ad_compile] | [![check][ghim_s_ad_bt]][ghlm_s_ad_bt] |
 | ADX | [![check][ghim_s_adx_check]][ghlm_s_adx_check] | [![check][ghim_s_adx_compile]][ghlm_s_adx_compile] | [![check][ghim_s_adx_bt]][ghlm_s_adx_bt] |
@@ -88,9 +85,12 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Ichimoku | [![check][ghim_s_ichi_check]][ghlm_s_ichi_check] | [![check][ghim_s_ichi_compile]][ghlm_s_ichi_compile] | [![check][ghim_s_ichi_bt]][ghlm_s_ichi_bt] |
 | Indicator | [![check][ghim_s_indi_check]][ghlm_s_indi_check] | [![check][ghim_s_indi_compile]][ghlm_s_indi_compile] | [![check][ghim_s_indi_bt]][ghlm_s_indi_bt] |
 | MA | [![check][ghim_s_ma_check]][ghlm_s_ma_check] | [![check][ghim_s_ma_compile]][ghlm_s_ma_compile] | [![check][ghim_s_ma_bt]][ghlm_s_ma_bt] |
+| MA Breakout | [![check][ghim_s_ma_breakout_check]][ghlm_s_ma_breakout_check] | [![check][ghim_s_ma_breakout_compile]][ghlm_s_ma_breakout_compile] | [![check][ghim_s_ma_breakout_bt]][ghlm_s_ma_breakout_bt] |
 | MA Cross Pivot | [![check][ghim_s_ma_cross_pivot_check]][ghlm_s_ma_cross_pivot_check] | [![check][ghim_s_ma_cross_pivot_compile]][ghlm_s_ma_cross_pivot_compile] | [![check][ghim_s_ma_cross_pivot_bt]][ghlm_s_ma_cross_pivot_bt] |
 | MA Cross Shift | [![check][ghim_s_ma_cross_shift_check]][ghlm_s_ma_cross_shift_check] | [![check][ghim_s_ma_cross_shift_compile]][ghlm_s_ma_cross_shift_compile] | [![check][ghim_s_ma_cross_shift_bt]][ghlm_s_ma_cross_shift_bt] |
 | MA Cross Sup/Res | [![check][ghim_s_ma_cross_sup_res_check]][ghlm_s_ma_cross_sup_res_check] | [![check][ghim_s_ma_cross_sup_res_compile]][ghlm_s_ma_cross_sup_res_compile] | [![check][ghim_s_ma_cross_sup_res_bt]][ghlm_s_ma_cross_sup_res_bt] |
+| MA Cross Timeframe | [![check][ghim_s_ma_cross_tf_check]][ghlm_s_ma_cross_tf_check] | [![check][ghim_s_ma_cross_tf_compile]][ghlm_s_ma_cross_tf_compile] | [![check][ghim_s_ma_cross_tf_bt]][ghlm_s_ma_cross_tf_bt] |
+| MA Trend | [![check][ghim_s_ma_trend_check]][ghlm_s_ma_trend_check] | [![check][ghim_s_ma_trend_compile]][ghlm_s_ma_trend_compile] | [![check][ghim_s_ma_trend_bt]][ghlm_s_ma_trend_bt] |
 | MACD | [![check][ghim_s_macd_check]][ghlm_s_macd_check] | [![check][ghim_s_macd_compile]][ghlm_s_macd_compile] | [![check][ghim_s_macd_bt]][ghlm_s_macd_bt] |
 | MFI | [![check][ghim_s_mfi_check]][ghlm_s_mfi_check] | [![check][ghim_s_mfi_compile]][ghlm_s_mfi_compile] | [![check][ghim_s_mfi_bt]][ghlm_s_mfi_bt] |
 | Momentum | [![check][ghim_s_mom_check]][ghlm_s_mom_check] | [![check][ghim_s_mom_compile]][ghlm_s_mom_compile] | [![check][ghim_s_mom_bt]][ghlm_s_mom_bt] |
@@ -99,10 +99,14 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator | [![check][ghim_s_osc_check]][ghlm_s_osc_check] | [![check][ghim_s_osc_compile]][ghlm_s_osc_compile] | [![check][ghim_s_osc_bt]][ghlm_s_osc_bt] |
 | Oscillator Cross | [![check][ghim_s_osc_cross_check]][ghlm_s_osc_cross_check] | [![check][ghim_s_osc_cross_compile]][ghlm_s_osc_cross_compile] | [![check][ghim_s_osc_cross_bt]][ghlm_s_osc_cross_bt] |
 | Oscillator Cross Shift | [![check][ghim_s_osc_cross_shift_check]][ghlm_s_osc_cross_shift_check] | [![check][ghim_s_osc_cross_shift_compile]][ghlm_s_osc_cross_shift_compile] | [![check][ghim_s_osc_cross_shift_bt]][ghlm_s_osc_cross_shift_bt] |
+| Oscillator Cross Timeframe | [![check][ghim_s_osc_cross_tf_check]][ghlm_s_osc_cross_tf_check] | [![check][ghim_s_osc_cross_tf_compile]][ghlm_s_osc_cross_tf_compile] | [![check][ghim_s_osc_cross_tf_bt]][ghlm_s_osc_cross_tf_bt] |
 | Oscillator Cross Zero | [![check][ghim_s_osc_cross_zero_check]][ghlm_s_osc_cross_zero_check] | [![check][ghim_s_osc_cross_zero_compile]][ghlm_s_osc_cross_zero_compile] | [![check][ghim_s_osc_cross_zero_bt]][ghlm_s_osc_cross_zero_bt] |
 | Oscillator Divergence | [![check][ghim_s_osc_div_check]][ghlm_s_osc_div_check] | [![check][ghim_s_osc_div_compile]][ghlm_s_osc_div_compile] | [![check][ghim_s_osc_div_bt]][ghlm_s_osc_div_bt] |
+| Oscillator Martingale | [![check][ghim_s_osc_martingale_check]][ghlm_s_osc_martingale_check] | [![check][ghim_s_osc_martingale_compile]][ghlm_s_osc_martingale_compile] | [![check][ghim_s_osc_martingale_bt]][ghlm_s_osc_martingale_bt] |
 | Oscillator Multi | [![check][ghim_s_osc_multi_check]][ghlm_s_osc_multi_check] | [![check][ghim_s_osc_multi_compile]][ghlm_s_osc_multi_compile] | [![check][ghim_s_osc_multi_bt]][ghlm_s_osc_multi_bt] |
+| Oscillator Overlay | [![check][ghim_s_osc_overlay_check]][ghlm_s_osc_overlay_check] | [![check][ghim_s_osc_overlay_compile]][ghlm_s_osc_overlay_compile] | [![check][ghim_s_osc_overlay_bt]][ghlm_s_osc_overlay_bt] |
 | Oscillator Range | [![check][ghim_s_osc_range_check]][ghlm_s_osc_range_check] | [![check][ghim_s_osc_range_compile]][ghlm_s_osc_range_compile] | [![check][ghim_s_osc_range_bt]][ghlm_s_osc_range_bt] |
+| Oscillator Trend | [![check][ghim_s_osc_trend_check]][ghlm_s_osc_trend_check] | [![check][ghim_s_osc_trend_compile]][ghlm_s_osc_trend_compile] | [![check][ghim_s_osc_trend_bt]][ghlm_s_osc_trend_bt] |
 | Pinbar | [![check][ghim_s_pinbar_check]][ghlm_s_pinbar_check] | [![check][ghim_s_pinbar_compile]][ghlm_s_pinbar_compile] | [![check][ghim_s_pinbar_bt]][ghlm_s_pinbar_bt] |
 | Pivot | [![check][ghim_s_pivot_check]][ghlm_s_pivot_check] | [![check][ghim_s_pivot_compile]][ghlm_s_pivot_compile] | [![check][ghim_s_pivot_bt]][ghlm_s_pivot_bt] |
 | Retracement | [![check][ghim_s_retracement_check]][ghlm_s_retracement_check] | [![check][ghim_s_retracement_compile]][ghlm_s_retracement_compile] | [![check][ghim_s_retracement_bt]][ghlm_s_retracement_bt] |
@@ -124,9 +128,6 @@ See: <https://ea31337.github.io/EA31337-strategies>
 
 | Strategy | Check | Compile | Backtest |
 | --------:|:-----:|:-------:|:--------:|
-| (Meta) Mirror | [![check][ghid_s_meta_mirror_check]][ghld_s_meta_mirror_check] | [![check][ghid_s_meta_mirror_compile]][ghld_s_meta_mirror_compile] | [![check][ghid_s_meta_mirror_bt]][ghld_s_meta_mirror_bt] |
-| (Meta) Multi | [![check][ghid_s_meta_multi_check]][ghld_s_meta_multi_check] | [![check][ghid_s_meta_multi_compile]][ghld_s_meta_multi_compile] | [![check][ghid_s_meta_multi_bt]][ghld_s_meta_multi_bt] |
-| (Meta) Reversal | [![check][ghid_s_meta_reversal_check]][ghld_s_meta_reversal_check] | [![check][ghid_s_meta_reversal_compile]][ghld_s_meta_reversal_compile] | [![check][ghid_s_meta_reversal_bt]][ghld_s_meta_reversal_bt] |
 | AC | [![check][ghid_s_ac_check]][ghld_s_ac_check] | [![check][ghid_s_ac_compile]][ghld_s_ac_compile] | [![check][ghid_s_ac_bt]][ghld_s_ac_bt] |
 | AD | [![check][ghid_s_ad_check]][ghld_s_ad_check] | [![check][ghid_s_ad_compile]][ghld_s_ad_compile] | [![check][ghid_s_ad_bt]][ghld_s_ad_bt] |
 | ADX | [![check][ghid_s_adx_check]][ghld_s_adx_check] | [![check][ghid_s_adx_compile]][ghld_s_adx_compile] | [![check][ghid_s_adx_bt]][ghld_s_adx_bt] |
@@ -156,9 +157,12 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Ichimoku | [![check][ghid_s_ichi_check]][ghld_s_ichi_check] | [![check][ghid_s_ichi_compile]][ghld_s_ichi_compile] | [![check][ghid_s_ichi_bt]][ghld_s_ichi_bt] |
 | Indicator | [![check][ghid_s_indi_check]][ghld_s_indi_check] | [![check][ghid_s_indi_compile]][ghld_s_indi_compile] | [![check][ghid_s_indi_bt]][ghld_s_indi_bt] |
 | MA | [![check][ghid_s_ma_check]][ghld_s_ma_check] | [![check][ghid_s_ma_compile]][ghld_s_ma_compile] | [![check][ghid_s_ma_bt]][ghld_s_ma_bt] |
+| MA Breakout | [![check][ghid_s_ma_breakout_check]][ghld_s_ma_breakout_check] | [![check][ghid_s_ma_breakout_compile]][ghld_s_ma_breakout_compile] | [![check][ghid_s_ma_breakout_bt]][ghld_s_ma_breakout_bt] |
 | MA Cross Pivot | [![check][ghid_s_ma_cross_pivot_check]][ghld_s_ma_cross_pivot_check] | [![check][ghid_s_ma_cross_pivot_compile]][ghld_s_ma_cross_pivot_compile] | [![check][ghid_s_ma_cross_pivot_bt]][ghld_s_ma_cross_pivot_bt] |
 | MA Cross Shift | [![check][ghid_s_ma_cross_shift_check]][ghld_s_ma_cross_shift_check] | [![check][ghid_s_ma_cross_shift_compile]][ghld_s_ma_cross_shift_compile] | [![check][ghid_s_ma_cross_shift_bt]][ghld_s_ma_cross_shift_bt] |
 | MA Cross Sup/Res | [![check][ghid_s_ma_cross_sup_res_check]][ghld_s_ma_cross_sup_res_check] | [![check][ghid_s_ma_cross_sup_res_compile]][ghld_s_ma_cross_sup_res_compile] | [![check][ghid_s_ma_cross_sup_res_bt]][ghld_s_ma_cross_sup_res_bt] |
+| MA Cross Timeframe | [![check][ghid_s_ma_cross_tf_check]][ghld_s_ma_cross_tf_check] | [![check][ghid_s_ma_cross_tf_compile]][ghld_s_ma_cross_tf_compile] | [![check][ghid_s_ma_cross_tf_bt]][ghld_s_ma_cross_tf_bt] |
+| MA Trend | [![check][ghid_s_ma_trend_check]][ghld_s_ma_trend_check] | [![check][ghid_s_ma_trend_compile]][ghld_s_ma_trend_compile] | [![check][ghid_s_ma_trend_bt]][ghld_s_ma_trend_bt] |
 | MACD | [![check][ghid_s_macd_check]][ghld_s_macd_check] | [![check][ghid_s_macd_compile]][ghld_s_macd_compile] | [![check][ghid_s_macd_bt]][ghld_s_macd_bt] |
 | MFI | [![check][ghid_s_mfi_check]][ghld_s_mfi_check] | [![check][ghid_s_mfi_compile]][ghld_s_mfi_compile] | [![check][ghid_s_mfi_bt]][ghld_s_mfi_bt] |
 | Momentum | [![check][ghid_s_mom_check]][ghld_s_mom_check] | [![check][ghid_s_mom_compile]][ghld_s_mom_compile] | [![check][ghid_s_mom_bt]][ghld_s_mom_bt] |
@@ -167,10 +171,14 @@ See: <https://ea31337.github.io/EA31337-strategies>
 | Oscillator | [![check][ghid_s_osc_check]][ghld_s_osc_check] | [![check][ghid_s_osc_compile]][ghld_s_osc_compile] | [![check][ghid_s_osc_bt]][ghld_s_osc_bt] |
 | Oscillator Cross | [![check][ghid_s_osc_cross_check]][ghld_s_osc_cross_check] | [![check][ghid_s_osc_cross_compile]][ghld_s_osc_cross_compile] | [![check][ghid_s_osc_cross_bt]][ghld_s_osc_cross_bt] |
 | Oscillator Cross Shift | [![check][ghid_s_osc_cross_shift_check]][ghld_s_osc_cross_shift_check] | [![check][ghid_s_osc_cross_shift_compile]][ghld_s_osc_cross_shift_compile] | [![check][ghid_s_osc_cross_shift_bt]][ghld_s_osc_cross_shift_bt] |
+| Oscillator Cross Timeframe | [![check][ghid_s_osc_cross_tf_check]][ghld_s_osc_cross_tf_check] | [![check][ghid_s_osc_cross_tf_compile]][ghld_s_osc_cross_tf_compile] | [![check][ghid_s_osc_cross_tf_bt]][ghld_s_osc_cross_tf_bt] |
 | Oscillator Cross Zero | [![check][ghid_s_osc_cross_zero_check]][ghld_s_osc_cross_zero_check] | [![check][ghid_s_osc_cross_zero_compile]][ghld_s_osc_cross_zero_compile] | [![check][ghid_s_osc_cross_zero_bt]][ghld_s_osc_cross_zero_bt] |
 | Oscillator Divergence | [![check][ghid_s_osc_div_check]][ghld_s_osc_div_check] | [![check][ghid_s_osc_div_compile]][ghld_s_osc_div_compile] | [![check][ghid_s_osc_div_bt]][ghld_s_osc_div_bt] |
+| Oscillator Martingale | [![check][ghid_s_osc_martingale_check]][ghld_s_osc_martingale_check] | [![check][ghid_s_osc_martingale_compile]][ghld_s_osc_martingale_compile] | [![check][ghid_s_osc_martingale_bt]][ghld_s_osc_martingale_bt] |
 | Oscillator Multi | [![check][ghid_s_osc_multi_check]][ghld_s_osc_multi_check] | [![check][ghid_s_osc_multi_compile]][ghld_s_osc_multi_compile] | [![check][ghid_s_osc_multi_bt]][ghld_s_osc_multi_bt] |
+| Oscillator Overlay | [![check][ghid_s_osc_overlay_check]][ghld_s_osc_overlay_check] | [![check][ghid_s_osc_overlay_compile]][ghld_s_osc_overlay_compile] | [![check][ghid_s_osc_overlay_bt]][ghld_s_osc_overlay_bt] |
 | Oscillator Range | [![check][ghid_s_osc_range_check]][ghld_s_osc_range_check] | [![check][ghid_s_osc_range_compile]][ghld_s_osc_range_compile] | [![check][ghid_s_osc_range_bt]][ghld_s_osc_range_bt] |
+| Oscillator Trend | [![check][ghid_s_osc_trend_check]][ghld_s_osc_trend_check] | [![check][ghid_s_osc_trend_compile]][ghld_s_osc_trend_compile] | [![check][ghid_s_osc_trend_bt]][ghld_s_osc_trend_bt] |
 | Pinbar | [![check][ghid_s_pinbar_check]][ghld_s_pinbar_check] | [![check][ghid_s_pinbar_compile]][ghld_s_pinbar_compile] | [![check][ghid_s_pinbar_bt]][ghld_s_pinbar_bt] |
 | Pivot | [![check][ghid_s_pivot_check]][ghld_s_pivot_check] | [![check][ghid_s_pivot_compile]][ghld_s_pivot_compile] | [![check][ghid_s_pivot_bt]][ghld_s_pivot_bt] |
 | Retracement | [![check][ghid_s_retracement_check]][ghld_s_retracement_check] | [![check][ghid_s_retracement_compile]][ghld_s_retracement_compile] | [![check][ghid_s_retracement_bt]][ghld_s_retracement_bt] |
@@ -283,48 +291,6 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 
 [license-image]: https://img.shields.io/github/license/EA31337/EA31337-Strategies.svg
 [license-link]: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
-
-[ghlm_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Check+branch:master
-[ghim_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Check/badge.svg?branch=master
-[ghlm_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Compile+branch:master
-[ghim_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Compile/badge.svg?branch=master
-[ghlm_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Backtest+branch:master
-[ghim_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Backtest/badge.svg?branch=master
-
-[ghld_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Check+branch:dev
-[ghid_s_meta_mirror_check]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Check/badge.svg?branch=dev
-[ghld_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Compile+branch:dev
-[ghid_s_meta_mirror_compile]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Compile/badge.svg?branch=dev
-[ghld_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/actions?query=workflow:Backtest+branch:dev
-[ghid_s_meta_mirror_bt]: https://github.com/EA31337/Strategy-Meta_Mirror/workflows/Backtest/badge.svg?branch=dev
-
-[ghlm_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Check+branch:master
-[ghim_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Check/badge.svg?branch=master
-[ghlm_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Compile+branch:master
-[ghim_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Compile/badge.svg?branch=master
-[ghlm_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Backtest+branch:master
-[ghim_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Backtest/badge.svg?branch=master
-
-[ghld_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Check+branch:dev
-[ghid_s_meta_multi_check]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Check/badge.svg?branch=dev
-[ghld_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Compile+branch:dev
-[ghid_s_meta_multi_compile]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Compile/badge.svg?branch=dev
-[ghld_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/actions?query=workflow:Backtest+branch:dev
-[ghid_s_meta_multi_bt]: https://github.com/EA31337/Strategy-Meta_Multi/workflows/Backtest/badge.svg?branch=dev
-
-[ghlm_s_meta_reversal_check]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Check+branch:master
-[ghim_s_meta_reversal_check]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Check/badge.svg?branch=master
-[ghlm_s_meta_reversal_compile]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Compile+branch:master
-[ghim_s_meta_reversal_compile]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Compile/badge.svg?branch=master
-[ghlm_s_meta_reversal_bt]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Backtest+branch:master
-[ghim_s_meta_reversal_bt]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Backtest/badge.svg?branch=master
-
-[ghld_s_meta_reversal_check]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Check+branch:dev
-[ghid_s_meta_reversal_check]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Check/badge.svg?branch=dev
-[ghld_s_meta_reversal_compile]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Compile+branch:dev
-[ghid_s_meta_reversal_compile]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Compile/badge.svg?branch=dev
-[ghld_s_meta_reversal_bt]: https://github.com/EA31337/Strategy-Meta_Reversal/actions?query=workflow:Backtest+branch:dev
-[ghid_s_meta_reversal_bt]: https://github.com/EA31337/Strategy-Meta_Reversal/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_ac_check]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Check+branch:master
 [ghim_s_ac_check]: https://github.com/EA31337/Strategy-AC/workflows/Check/badge.svg?branch=master
@@ -732,6 +698,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghld_s_ma_bt]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Backtest+branch:dev
 [ghid_s_ma_bt]: https://github.com/EA31337/Strategy-MA/workflows/Backtest/badge.svg?branch=dev
 
+[ghlm_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Check+branch:master
+[ghim_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Check/badge.svg?branch=master
+[ghlm_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Compile+branch:master
+[ghim_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Compile/badge.svg?branch=master
+[ghlm_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Backtest+branch:master
+[ghim_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Check+branch:dev
+[ghid_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Check/badge.svg?branch=dev
+[ghld_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Compile+branch:dev
+[ghid_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Compile/badge.svg?branch=dev
+[ghld_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Backtest+branch:dev
+[ghid_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Backtest/badge.svg?branch=dev
+
 [ghlm_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Check+branch:master
 [ghim_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Check/badge.svg?branch=master
 [ghlm_s_ma_cross_pivot_compile]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Compile+branch:master
@@ -773,6 +753,34 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_ma_cross_sup_res_compile]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Compile/badge.svg?branch=dev
 [ghld_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Backtest+branch:dev
 [ghid_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Check+branch:master
+[ghim_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Check/badge.svg?branch=master
+[ghlm_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Compile+branch:master
+[ghim_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Compile/badge.svg?branch=master
+[ghlm_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Backtest+branch:master
+[ghim_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Check+branch:dev
+[ghid_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Check/badge.svg?branch=dev
+[ghld_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Compile+branch:dev
+[ghid_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Compile/badge.svg?branch=dev
+[ghld_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Backtest+branch:dev
+[ghid_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Check+branch:master
+[ghim_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Check/badge.svg?branch=master
+[ghlm_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Compile+branch:master
+[ghim_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Compile/badge.svg?branch=master
+[ghlm_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Backtest+branch:master
+[ghim_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Check+branch:dev
+[ghid_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Check/badge.svg?branch=dev
+[ghld_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Compile+branch:dev
+[ghid_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Compile/badge.svg?branch=dev
+[ghld_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Backtest+branch:dev
+[ghid_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_macd_check]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Check+branch:master
 [ghim_s_macd_check]: https://github.com/EA31337/Strategy-MACD/workflows/Check/badge.svg?branch=master
@@ -872,6 +880,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghld_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Backtest+branch:dev
 [ghid_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Backtest/badge.svg?branch=dev
 
+[ghlm_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Check+branch:master
+[ghim_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Check/badge.svg?branch=master
+[ghlm_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Compile+branch:master
+[ghim_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Compile/badge.svg?branch=master
+[ghlm_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Backtest+branch:master
+[ghim_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Check+branch:dev
+[ghid_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Check/badge.svg?branch=dev
+[ghld_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Compile+branch:dev
+[ghid_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Compile/badge.svg?branch=dev
+[ghld_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Backtest+branch:dev
+[ghid_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Backtest/badge.svg?branch=dev
+
 [ghlm_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Check+branch:master
 [ghim_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Check/badge.svg?branch=master
 [ghlm_s_osc_cross_zero_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Compile+branch:master
@@ -900,6 +922,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghld_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Backtest+branch:dev
 [ghid_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Backtest/badge.svg?branch=dev
 
+[ghlm_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Check+branch:master
+[ghim_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Check/badge.svg?branch=master
+[ghlm_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Compile+branch:master
+[ghim_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Compile/badge.svg?branch=master
+[ghlm_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Backtest+branch:master
+[ghim_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Check+branch:dev
+[ghid_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Check/badge.svg?branch=dev
+[ghld_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Compile+branch:dev
+[ghid_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Compile/badge.svg?branch=dev
+[ghld_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Backtest+branch:dev
+[ghid_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Backtest/badge.svg?branch=dev
+
 [ghlm_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Check+branch:master
 [ghim_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Check/badge.svg?branch=master
 [ghlm_s_osc_multi_compile]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Compile+branch:master
@@ -914,6 +950,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghld_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Backtest+branch:dev
 [ghid_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Backtest/badge.svg?branch=dev
 
+[ghlm_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Check+branch:master
+[ghim_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Check/badge.svg?branch=master
+[ghlm_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Compile+branch:master
+[ghim_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Compile/badge.svg?branch=master
+[ghlm_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Backtest+branch:master
+[ghim_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Check+branch:dev
+[ghid_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Check/badge.svg?branch=dev
+[ghld_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Compile+branch:dev
+[ghid_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Compile/badge.svg?branch=dev
+[ghld_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Backtest+branch:dev
+[ghid_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Backtest/badge.svg?branch=dev
+
 [ghlm_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Check+branch:master
 [ghim_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Check/badge.svg?branch=master
 [ghlm_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Compile+branch:master
@@ -927,6 +977,20 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghid_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Compile/badge.svg?branch=dev
 [ghld_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Backtest+branch:dev
 [ghid_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Backtest/badge.svg?branch=dev
+
+[ghlm_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Check+branch:master
+[ghim_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Check/badge.svg?branch=master
+[ghlm_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Compile+branch:master
+[ghim_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Compile/badge.svg?branch=master
+[ghlm_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Backtest+branch:master
+[ghim_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Backtest/badge.svg?branch=master
+
+[ghld_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Check+branch:dev
+[ghid_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Check/badge.svg?branch=dev
+[ghld_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Compile+branch:dev
+[ghid_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Compile/badge.svg?branch=dev
+[ghld_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Backtest+branch:dev
+[ghid_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Backtest/badge.svg?branch=dev
 
 [ghlm_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Check+branch:master
 [ghim_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/workflows/Check/badge.svg?branch=master

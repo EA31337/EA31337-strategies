@@ -21,7 +21,85 @@ on:
       - 'docs/**'
 
 jobs:
-  Compile:
+  Compile-MQL4:
+    defaults:
+      run:
+        shell: powershell
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: recursive
+      - uses: actions/checkout@v3
+        with:
+          path: Include/EA31337-classes
+          ref: v3.000.1
+          repository: EA31337/EA31337-classes
+      - uses: actions/checkout@v3
+        with:
+          path: Include/EA31337-strategies
+          ref: v2.000-dev
+          repository: EA31337/EA31337-strategies
+          submodules: recursive
+      - name: Deletes Arrows as it fails to compile
+        run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
+      - name: Deletes SVE_Bollinger_Bands as it fails to compile
+        run: Remove-Item -LiteralPath "SVE_Bollinger_Bands" -Force -Recurse
+      - name: Deletes TMAT_SVEBB as it fails to compile
+        run: Remove-Item -LiteralPath "TMAT_SVEBB" -Force -Recurse -Verbose
+      - name: Compile for MQL4
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-version: 5.0.0.2361
+          path: "*/Stg_*.mq4"
+          verbose: true
+      - name: List compiled files
+        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
+      - run: Get-Location
+  Compile-MQL5:
+    defaults:
+      run:
+        shell: powershell
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: recursive
+      - uses: actions/checkout@v3
+        with:
+          path: Include/EA31337-classes
+          ref: v3.000.1
+          repository: EA31337/EA31337-classes
+      - uses: actions/checkout@v3
+        with:
+          path: Include/EA31337-strategies
+          ref: v2.000-dev
+          repository: EA31337/EA31337-strategies
+          submodules: recursive
+      - name: Deletes Arrows as it fails to compile
+        run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
+      - name: Deletes SAWA as it fails to compile
+        run: Remove-Item -LiteralPath "SAWA" -Force -Recurse -Verbose
+      - name: Deletes SVE_Bollinger_Bands as it fails to compile
+        run: Remove-Item -LiteralPath "SVE_Bollinger_Bands" -Force -Recurse
+      - name: Deletes TMAT_SVEBB as it fails to compile
+        run: Remove-Item -LiteralPath "TMAT_SVEBB" -Force -Recurse -Verbose
+      - name: Deletes TMA_True as it fails to compile
+        run: Remove-Item -LiteralPath "TMA_True" -Force -Recurse -Verbose
+      - name: Deletes ElliottWave as it fails to compile
+        run: Remove-Item -LiteralPath "ElliottWave" -Force -Recurse -Verbose
+      - name: Compile for MQL5
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-version: 5.0.0.2515
+          path: "*/Stg_*.mq5"
+          verbose: true
+      - name: List compiled files
+        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
+      - run: Get-Location
+  Compile-Test:
     defaults:
       run:
         shell: powershell

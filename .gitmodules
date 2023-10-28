@@ -85,6 +85,9 @@
 [submodule "MA"]
 	path = MA
 	url = https://github.com/EA31337/Strategy-MA.git
+[submodule "MA_Breakout"]
+	path = MA_Breakout
+	url = https://github.com/EA31337/Strategy-MA_Breakout.git
 [submodule "MA_Cross_Pivot"]
 	path = MA_Cross_Pivot
 	url = https://github.com/EA31337/Strategy-MA_Cross_Pivot.git
@@ -94,18 +97,15 @@
 [submodule "MA_Cross_Sup_Res"]
 	path = MA_Cross_Sup_Res
 	url = https://github.com/EA31337/Strategy-MA_Cross_Sup_Res.git
+[submodule "MA_Cross_Timeframe"]
+	path = MA_Cross_Timeframe
+	url = https://github.com/EA31337/Strategy-MA_Cross_Timeframe.git
+[submodule "MA_Trend"]
+	path = MA_Trend
+	url = https://github.com/EA31337/Strategy-MA_Trend.git
 [submodule "MACD"]
 	path = MACD
 	url = https://github.com/EA31337/Strategy-MACD.git
-[submodule "Meta_Mirror"]
-	path = Meta_Mirror
-	url = https://github.com/EA31337/Strategy-Meta_Mirror.git
-[submodule "Meta_Multi"]
-	path = Meta_Multi
-	url = https://github.com/EA31337/Strategy-Meta_Multi.git
-[submodule "Meta_Reversal"]
-	path = Meta_Reversal
-	url = https://github.com/EA31337/Strategy-Meta_Reversal.git
 [submodule "Momentum"]
 	path = Momentum
 	url = https://github.com/EA31337/Strategy-Momentum.git
@@ -127,18 +127,30 @@
 [submodule "Oscillator_Cross_Shift"]
 	path = Oscillator_Cross_Shift
 	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Shift.git
+[submodule "Oscillator_Cross_Timeframe"]
+	path = Oscillator_Cross_Timeframe
+	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe.git
 [submodule "Oscillator_Cross_Zero"]
 	path = Oscillator_Cross_Zero
 	url = https://github.com/EA31337/Strategy-Oscillator_Cross_Zero.git
 [submodule "Oscillator_Divergence"]
 	path = Oscillator_Divergence
 	url = https://github.com/EA31337/Strategy-Oscillator_Divergence.git
+[submodule "Oscillator_Martingale"]
+	path = Oscillator_Martingale
+	url = https://github.com/EA31337/Strategy-Oscillator_Martingale.git
 [submodule "Oscillator_Multi"]
 	path = Oscillator_Multi
 	url = https://github.com/EA31337/Strategy-Oscillator_Multi.git
+[submodule "Oscillator_Overlay"]
+	path = Oscillator_Overlay
+	url = https://github.com/EA31337/Strategy-Oscillator_Overlay.git
 [submodule "Oscillator_Range"]
 	path = Oscillator_Range
 	url = https://github.com/EA31337/Strategy-Oscillator_Range.git
+[submodule "Oscillator_Trend"]
+	path = Oscillator_Trend
+	url = https://github.com/EA31337/Strategy-Oscillator_Trend.git
 [submodule "Pattern"]
 	path = Pattern
 	url = https://github.com/EA31337/Strategy-Pattern.git
