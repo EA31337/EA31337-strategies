@@ -28,6 +28,19 @@ class StrategiesManager {
   DictStruct<long, Ref<Strategy>> strats;
 
  public:
+  /**
+   * Initialize strategy with the specific timeframe.
+   *
+   * @param
+   *   _tf - timeframe to initialize
+   *
+   * @return
+   *   Returns strategy pointer on successful initialization, otherwise NULL.
+   */
+  template <typename SClass>
+  static Strategy* StrategyInit(ENUM_TIMEFRAMES _tf) {
+    return ((SClass*)NULL).Init(_tf);
+  }
 };
 
 #endif  // STRATEGIES_MANAGER_H
