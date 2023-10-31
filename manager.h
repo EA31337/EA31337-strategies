@@ -156,6 +156,8 @@ class StrategiesManager {
         return StrategyInit<Stg_Stochastic>(_tf);
       case STRAT_TMAT_SVEBB:
         return StrategyInit<Stg_TMAT_SVEBB>(_tf);
+      case STRAT_TMA_TRUE:
+        return StrategyInit<Stg_TMA_True>(_tf);
       case STRAT_WPR:
         return StrategyInit<Stg_WPR>(_tf);
       case STRAT_ZIGZAG:
