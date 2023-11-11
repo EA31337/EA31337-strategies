@@ -50,6 +50,7 @@
 #include "MA/Stg_MA.mqh"
 #include "MACD/Stg_MACD.mqh"
 #include "MA_Breakout/Stg_MA_Breakout.mqh"
+#include "MA_Cross_Candle/Stg_MA_Cross_Candle.mqh"
 #include "MA_Cross_Pivot/Stg_MA_Cross_Pivot.mqh"
 #include "MA_Cross_Shift/Stg_MA_Cross_Shift.mqh"
 #include "MA_Cross_Sup_Res/Stg_MA_Cross_Sup_Res.mqh"
