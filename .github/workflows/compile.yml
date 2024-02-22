@@ -21,26 +21,58 @@ on:
       - 'docs/**'
 
 jobs:
-  Compile-MQL4:
-    defaults:
-      run:
-        shell: powershell
-    runs-on: windows-latest
+  checkout:
+    name: Checkout
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: recursive
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           path: Include/EA31337-classes
           ref: v3.000.1
           repository: EA31337/EA31337-classes
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           path: Include/EA31337-strategies
           ref: v2.000-dev
           repository: EA31337/EA31337-strategies
           submodules: recursive
+      - name: Uploads source code
+        uses: actions/upload-artifact@v4
+        with:
+          name: src
+          path: src
+  mt4:
+    name: Installs platform (4)
+    uses: EA31337/EA-Tester/.github/workflows/platform-linux.yml@dev
+    with:
+      artifact_name: mt4
+      version: 4
+  mt5:
+    name: Installs platform (5)
+    uses: EA31337/EA-Tester/.github/workflows/platform-linux.yml@dev
+    with:
+      artifact_name: mt5
+      version: 5
+
+  compile-mql4:
+    defaults:
+      run:
+        shell: powershell
+    name: Compile MQL4
+    needs: [checkout, mt4, mt5]
+    runs-on: windows-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: src
+          path: src
+      - uses: actions/download-artifact@v4
+        with:
+          name: mt4
+          path: .mt4
       - name: Deletes Arrows as it fails to compile
         run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
       - name: Deletes SVE_Bollinger_Bands as it fails to compile
@@ -51,32 +83,29 @@ jobs:
         uses: fx31337/mql-compile-action@master
         with:
           include: .
-          mt-version: 5.0.0.2361
+          mt-path: .mt4
           path: "*/Stg_*.mq4"
           verbose: true
       - name: List compiled files
         run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
       - run: Get-Location
-  Compile-MQL5:
+
+  compile-mql5:
     defaults:
       run:
         shell: powershell
+    name: Compile MQL5
+    needs: [checkout, mt4, mt5]
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v4
         with:
-          submodules: recursive
-      - uses: actions/checkout@v3
+          name: src
+          path: src
+      - uses: actions/download-artifact@v4
         with:
-          path: Include/EA31337-classes
-          ref: v3.000.1
-          repository: EA31337/EA31337-classes
-      - uses: actions/checkout@v3
-        with:
-          path: Include/EA31337-strategies
-          ref: v2.000-dev
-          repository: EA31337/EA31337-strategies
-          submodules: recursive
+          name: mt5
+          path: .mt5
       - name: Deletes Arrows as it fails to compile
         run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
       - name: Deletes SAWA as it fails to compile
@@ -93,38 +122,41 @@ jobs:
         uses: fx31337/mql-compile-action@master
         with:
           include: .
-          mt-version: 5.0.0.2515
+          mt-path: .mt5
           path: "*/Stg_*.mq5"
           verbose: true
       - name: List compiled files
         run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
       - run: Get-Location
-  Compile-Test:
+
+  compile-test:
     defaults:
       run:
         shell: powershell
+    name: Compile Test
+    needs: [checkout, mt4, mt5]
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v4
         with:
-          submodules: recursive
-      - uses: actions/checkout@v3
+          name: src
+          path: src
+      - uses: actions/download-artifact@v4
         with:
-          path: Include/EA31337-classes
-          ref: v3.000.1
-          repository: EA31337/EA31337-classes
+          path: .
+          pattern: mt?
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
         with:
           include: .
-          mt-version: 5.0.0.2361
+          mt-path: .mt4
           path: ./.github/Test.mq4
           verbose: true
       - name: Compile for MQL5
         uses: fx31337/mql-compile-action@master
         with:
           include: .
-          mt-version: 5.0.0.2515
+          mt-path: .mt5
           path: ./.github/Test.mq5
           verbose: true
       - name: List compiled files
