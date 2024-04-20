@@ -51,13 +51,13 @@ jobs:
     name: Installs platform (4)
     uses: EA31337/EA-Tester/.github/workflows/platform-linux.yml@dev
     with:
-      artifact_name: mt4
+      artifact_name: .mt4
       version: 4
   mt5:
     name: Installs platform (5)
     uses: EA31337/EA-Tester/.github/workflows/platform-linux.yml@dev
     with:
-      artifact_name: mt5
+      artifact_name: .mt5
       version: 5
 
   compile-mql4:
@@ -78,8 +78,7 @@ jobs:
           path: Include/EA31337-classes
       - uses: actions/download-artifact@v4
         with:
-          name: mt4
-          path: .mt4
+          pattern: .mt?
       - name: Deletes Arrows as it fails to compile
         run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
       - name: Deletes SVE_Bollinger_Bands as it fails to compile
@@ -115,8 +114,7 @@ jobs:
           path: Include/EA31337-classes
       - uses: actions/download-artifact@v4
         with:
-          name: mt5
-          path: .mt5
+          pattern: .mt?
       - name: Deletes Arrows as it fails to compile
         run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
       - name: Deletes SAWA as it fails to compile
@@ -158,8 +156,7 @@ jobs:
           path: Include/EA31337-classes
       - uses: actions/download-artifact@v4
         with:
-          path: .
-          pattern: mt?
+          pattern: .mt?
       - name: Compile for MQL4
         uses: fx31337/mql-compile-action@master
         with:
