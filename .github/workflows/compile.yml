@@ -25,15 +25,15 @@ jobs:
     name: Checkout
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.3
         with:
           submodules: recursive
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.3
         with:
           path: Include/EA31337-classes
           ref: v3.000.1
           repository: EA31337/EA31337-classes
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.3
         with:
           path: Include/EA31337-strategies
           ref: v2.000-dev
