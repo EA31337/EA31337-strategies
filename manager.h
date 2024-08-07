@@ -88,6 +88,8 @@ class StrategiesManager {
         return StrategyInit<Stg_DeMarker>(_tf);
       case STRAT_ENVELOPES:
         return StrategyInit<Stg_Envelopes>(_tf);
+      case STRAT_EWO:
+        return StrategyInit<Stg_ElliottWave>(_tf);
       case STRAT_FORCE:
         return StrategyInit<Stg_Force>(_tf);
       case STRAT_FRACTALS:
@@ -110,6 +112,8 @@ class StrategiesManager {
         return StrategyInit<Stg_MA_Cross_Shift>(_tf);
       case STRAT_MA_CROSS_SUP_RES:
         return StrategyInit<Stg_MA_Cross_Sup_Res>(_tf);
+      case STRAT_MA_CROSS_TIMEFRAME:
+        return StrategyInit<Stg_MA_Cross_Timeframe>(_tf);
       case STRAT_MA_TREND:
         return StrategyInit<Stg_MA_Trend>(_tf);
       case STRAT_MACD:
@@ -132,6 +136,12 @@ class StrategiesManager {
         return StrategyInit<Stg_Oscillator_Cross_Shift>(_tf);
       case STRAT_OSCILLATOR_CROSS_ZERO:
         return StrategyInit<Stg_Oscillator_Cross_Zero>(_tf);
+      case STRAT_OSCILLATOR_CROSS_TIMEFRAME:
+        return StrategyInit<Stg_Oscillator_Cross_Timeframe>(_tf);
+      case STRAT_OSCILLATOR_MARTINGALE:
+        return StrategyInit<Stg_Oscillator_Martingale>(_tf);
+      case STRAT_OSCILLATOR_OVERLAY:
+        return StrategyInit<Stg_Oscillator_Overlay>(_tf);
       case STRAT_OSCILLATOR_RANGE:
         return StrategyInit<Stg_Oscillator_Range>(_tf);
       case STRAT_OSCILLATOR_TREND:
@@ -144,6 +154,8 @@ class StrategiesManager {
         return StrategyInit<Stg_Pinbar>(_tf);
       case STRAT_PIVOT:
         return StrategyInit<Stg_Pivot>(_tf);
+      case STRAT_RETRACEMENT:
+        return StrategyInit<Stg_Retracement>(_tf);
       case STRAT_RSI:
         return StrategyInit<Stg_RSI>(_tf);
       case STRAT_RVI:
@@ -154,6 +166,8 @@ class StrategiesManager {
         return StrategyInit<Stg_StdDev>(_tf);
       case STRAT_STOCHASTIC:
         return StrategyInit<Stg_Stochastic>(_tf);
+      case STRAT_SVE_BB:
+        return StrategyInit<Stg_SVE_Bollinger_Bands>(_tf);
       case STRAT_TMAT_SVEBB:
         return StrategyInit<Stg_TMAT_SVEBB>(_tf);
       case STRAT_TMA_TRUE:
