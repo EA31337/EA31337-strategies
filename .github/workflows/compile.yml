@@ -83,8 +83,6 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           pattern: .mt?
-      - name: Deletes Arrows as it fails to compile
-        run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
       - name: Deletes SVE_Bollinger_Bands as it fails to compile
         run: Remove-Item -LiteralPath "SVE_Bollinger_Bands" -Force -Recurse
       - name: Deletes TMAT_SVEBB as it fails to compile
@@ -119,8 +117,6 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           pattern: .mt?
-      - name: Deletes Arrows as it fails to compile
-        run: Remove-Item -LiteralPath "Arrows" -Force -Recurse -Verbose
       - name: Deletes SAWA as it fails to compile
         run: Remove-Item -LiteralPath "SAWA" -Force -Recurse -Verbose
       - name: Deletes SVE_Bollinger_Bands as it fails to compile
