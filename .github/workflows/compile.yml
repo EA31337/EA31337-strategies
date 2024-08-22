@@ -64,85 +64,11 @@ jobs:
       skip_cleanup: true
       version: 5
 
-  compile-mql4:
+  compile:
     defaults:
       run:
         shell: powershell
-    name: Compile MQL4
-    needs: [checkout-classes, checkout-strategies, mt4]
-    runs-on: windows-latest
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: src-strategies
-          path: .
-      - uses: actions/download-artifact@v4
-        with:
-          name: src-classes
-          path: Include/EA31337-classes
-      - uses: actions/download-artifact@v4
-        with:
-          pattern: .mt?
-      - name: Deletes SVE_Bollinger_Bands as it fails to compile
-        run: Remove-Item -LiteralPath "SVE_Bollinger_Bands" -Force -Recurse
-      - name: Deletes TMAT_SVEBB as it fails to compile
-        run: Remove-Item -LiteralPath "TMAT_SVEBB" -Force -Recurse -Verbose
-      - name: Compile for MQL4
-        uses: fx31337/mql-compile-action@master
-        with:
-          include: .
-          mt-path: .mt4
-          path: "*/Stg_*.mq4"
-          verbose: true
-      - name: List compiled files
-        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
-      - run: Get-Location
-
-  compile-mql5:
-    defaults:
-      run:
-        shell: powershell
-    name: Compile MQL5
-    needs: [checkout-classes, checkout-strategies, mt5]
-    runs-on: windows-latest
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: src-strategies
-          path: .
-      - uses: actions/download-artifact@v4
-        with:
-          name: src-classes
-          path: Include/EA31337-classes
-      - uses: actions/download-artifact@v4
-        with:
-          pattern: .mt?
-      - name: Deletes SAWA as it fails to compile
-        run: Remove-Item -LiteralPath "SAWA" -Force -Recurse -Verbose
-      - name: Deletes SVE_Bollinger_Bands as it fails to compile
-        run: Remove-Item -LiteralPath "SVE_Bollinger_Bands" -Force -Recurse
-      - name: Deletes TMAT_SVEBB as it fails to compile
-        run: Remove-Item -LiteralPath "TMAT_SVEBB" -Force -Recurse -Verbose
-      - name: Deletes TMA_True as it fails to compile
-        run: Remove-Item -LiteralPath "TMA_True" -Force -Recurse -Verbose
-      - name: Deletes ElliottWave as it fails to compile
-        run: Remove-Item -LiteralPath "ElliottWave" -Force -Recurse -Verbose
-      - name: Compile for MQL5
-        uses: fx31337/mql-compile-action@master
-        with:
-          include: .
-          mt-path: .mt5
-          path: "*/Stg_*.mq5"
-          verbose: true
-      - name: List compiled files
-        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
-      - run: Get-Location
-
-  compile-test:
-    defaults:
-      run:
-        shell: powershell
-    name: Compile Test
+    name: Compile
     needs: [checkout-classes, checkout-strategies, mt4, mt5]
     runs-on: windows-latest
     steps:
@@ -156,21 +82,21 @@ jobs:
           path: Include/EA31337-classes
       - uses: actions/download-artifact@v4
         with:
-          pattern: .mt?
-      - name: Compile for MQL4
+          pattern: .mt${{ matrix.version }}
+      - name: Compile
         uses: fx31337/mql-compile-action@master
         with:
           include: .
-          mt-path: .mt4
-          path: ./.github/Test.mq4
-          verbose: true
-      - name: Compile for MQL5
-        uses: fx31337/mql-compile-action@master
-        with:
-          include: .
-          mt-path: .mt5
-          path: ./.github/Test.mq5
+          mt-path: .mt${{ matrix.version }}
+          path: "*/Stg_*.mq${{ matrix.version }}"
           verbose: true
       - name: List compiled files
-        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
+        run: (Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname
       - run: Get-Location
+    strategy:
+      matrix:
+        version:
+          - 4
+          - 5
+      max-parallel: 2
+    timeout-minutes: 10
