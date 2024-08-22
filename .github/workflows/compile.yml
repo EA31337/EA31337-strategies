@@ -83,7 +83,14 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           pattern: .mt${{ matrix.version }}
-      - name: Compile
+      - name: Compile indicators
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-path: .mt${{ matrix.version }}
+          path: "**/indicators-*/**/*.mq${{ matrix.version }}"
+          verbose: true
+      - name: Compile strategy
         uses: fx31337/mql-compile-action@master
         with:
           include: .
