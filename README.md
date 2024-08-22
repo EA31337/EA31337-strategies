@@ -301,12 +301,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ac_bt]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Backtest+branch:master
 [ghim_s_ac_bt]: https://github.com/EA31337/Strategy-AC/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ac_check]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Check+branch:dev
-[ghid_s_ac_check]: https://github.com/EA31337/Strategy-AC/workflows/Check/badge.svg?branch=dev
-[ghld_s_ac_compile]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Compile+branch:dev
-[ghid_s_ac_compile]: https://github.com/EA31337/Strategy-AC/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ac_bt]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ac_bt]: https://github.com/EA31337/Strategy-AC/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ac_check]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ac_check]: https://github.com/EA31337/Strategy-AC/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ac_compile]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ac_compile]: https://github.com/EA31337/Strategy-AC/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ac_bt]: https://github.com/EA31337/Strategy-AC/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ac_bt]: https://github.com/EA31337/Strategy-AC/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ad_check]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Check+branch:master
 [ghim_s_ad_check]: https://github.com/EA31337/Strategy-AD/workflows/Check/badge.svg?branch=master
@@ -315,12 +315,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ad_bt]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Backtest+branch:master
 [ghim_s_ad_bt]: https://github.com/EA31337/Strategy-AD/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ad_check]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Check+branch:dev
-[ghid_s_ad_check]: https://github.com/EA31337/Strategy-AD/workflows/Check/badge.svg?branch=dev
-[ghld_s_ad_compile]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Compile+branch:dev
-[ghid_s_ad_compile]: https://github.com/EA31337/Strategy-AD/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ad_bt]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ad_bt]: https://github.com/EA31337/Strategy-AD/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ad_check]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ad_check]: https://github.com/EA31337/Strategy-AD/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ad_compile]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ad_compile]: https://github.com/EA31337/Strategy-AD/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ad_bt]: https://github.com/EA31337/Strategy-AD/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ad_bt]: https://github.com/EA31337/Strategy-AD/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_adx_check]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Check+branch:master
 [ghim_s_adx_check]: https://github.com/EA31337/Strategy-ADX/workflows/Check/badge.svg?branch=master
@@ -329,12 +329,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Backtest+branch:master
 [ghim_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_adx_check]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Check+branch:dev
-[ghid_s_adx_check]: https://github.com/EA31337/Strategy-ADX/workflows/Check/badge.svg?branch=dev
-[ghld_s_adx_compile]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Compile+branch:dev
-[ghid_s_adx_compile]: https://github.com/EA31337/Strategy-ADX/workflows/Compile/badge.svg?branch=dev
-[ghld_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Backtest+branch:dev
-[ghid_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_adx_check]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_adx_check]: https://github.com/EA31337/Strategy-ADX/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_adx_compile]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_adx_compile]: https://github.com/EA31337/Strategy-ADX/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_adx_bt]: https://github.com/EA31337/Strategy-ADX/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ama_check]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Check+branch:master
 [ghim_s_ama_check]: https://github.com/EA31337/Strategy-AMA/workflows/Check/badge.svg?branch=master
@@ -343,12 +343,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Backtest+branch:master
 [ghim_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ama_check]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Check+branch:dev
-[ghid_s_ama_check]: https://github.com/EA31337/Strategy-AMA/workflows/Check/badge.svg?branch=dev
-[ghld_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Compile+branch:dev
-[ghid_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ama_check]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ama_check]: https://github.com/EA31337/Strategy-AMA/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ama_compile]: https://github.com/EA31337/Strategy-AMA/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ama_bt]: https://github.com/EA31337/Strategy-AMA/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_asi_check]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Check+branch:master
 [ghim_s_asi_check]: https://github.com/EA31337/Strategy-ASI/workflows/Check/badge.svg?branch=master
@@ -357,12 +357,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Backtest+branch:master
 [ghim_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_asi_check]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Check+branch:dev
-[ghid_s_asi_check]: https://github.com/EA31337/Strategy-ASI/workflows/Check/badge.svg?branch=dev
-[ghld_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Compile+branch:dev
-[ghid_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/workflows/Compile/badge.svg?branch=dev
-[ghld_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Backtest+branch:dev
-[ghid_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_asi_check]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_asi_check]: https://github.com/EA31337/Strategy-ASI/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_asi_compile]: https://github.com/EA31337/Strategy-ASI/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_asi_bt]: https://github.com/EA31337/Strategy-ASI/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_atr_check]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Check+branch:master
 [ghim_s_atr_check]: https://github.com/EA31337/Strategy-ATR/workflows/Check/badge.svg?branch=master
@@ -371,12 +371,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_atr_bt]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Backtest+branch:master
 [ghim_s_atr_bt]: https://github.com/EA31337/Strategy-ATR/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_atr_check]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Check+branch:dev
-[ghid_s_atr_check]: https://github.com/EA31337/Strategy-ATR/workflows/Check/badge.svg?branch=dev
-[ghld_s_atr_compile]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Compile+branch:dev
-[ghid_s_atr_compile]: https://github.com/EA31337/Strategy-ATR/workflows/Compile/badge.svg?branch=dev
-[ghld_s_atr_bt]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Backtest+branch:dev
-[ghid_s_atr_bt]: https://github.com/EA31337/Strategy-ATR/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_atr_check]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_atr_check]: https://github.com/EA31337/Strategy-ATR/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_atr_compile]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_atr_compile]: https://github.com/EA31337/Strategy-ATR/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_atr_bt]: https://github.com/EA31337/Strategy-ATR/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_atr_bt]: https://github.com/EA31337/Strategy-ATR/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Check+branch:master
 [ghim_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Check/badge.svg?branch=master
@@ -385,12 +385,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Backtest+branch:master
 [ghim_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Check+branch:dev
-[ghid_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Check/badge.svg?branch=dev
-[ghld_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Compile+branch:dev
-[ghid_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Compile/badge.svg?branch=dev
-[ghld_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Backtest+branch:dev
-[ghid_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_atr_ma_trend_check]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_atr_ma_trend_compile]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_atr_ma_trend_bt]: https://github.com/EA31337/Strategy-ATR_MA_Trend/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Check+branch:master
 [ghim_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/workflows/Check/badge.svg?branch=master
@@ -399,12 +399,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Backtest+branch:master
 [ghim_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Check+branch:dev
-[ghid_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/workflows/Check/badge.svg?branch=dev
-[ghld_s_alli_compile]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Compile+branch:dev
-[ghid_s_alli_compile]: https://github.com/EA31337/Strategy-Alligator/workflows/Compile/badge.svg?branch=dev
-[ghld_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Backtest+branch:dev
-[ghid_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_alli_check]: https://github.com/EA31337/Strategy-Alligator/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_alli_compile]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_alli_compile]: https://github.com/EA31337/Strategy-Alligator/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_alli_bt]: https://github.com/EA31337/Strategy-Alligator/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Check+branch:master
 [ghim_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/workflows/Check/badge.svg?branch=master
@@ -413,12 +413,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Backtest+branch:master
 [ghim_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Check+branch:dev
-[ghid_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/workflows/Check/badge.svg?branch=dev
-[ghld_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Compile+branch:dev
-[ghid_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/workflows/Compile/badge.svg?branch=dev
-[ghld_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Backtest+branch:dev
-[ghid_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_arrows_check]: https://github.com/EA31337/Strategy-Arrows/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_arrows_compile]: https://github.com/EA31337/Strategy-Arrows/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_arrows_bt]: https://github.com/EA31337/Strategy-Arrows/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Check+branch:master
 [ghim_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/workflows/Check/badge.svg?branch=master
@@ -427,12 +427,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ao_bt]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Backtest+branch:master
 [ghim_s_ao_bt]: https://github.com/EA31337/Strategy-Awesome/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Check+branch:dev
-[ghid_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/workflows/Check/badge.svg?branch=dev
-[ghld_s_ao_compile]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Compile+branch:dev
-[ghid_s_ao_compile]: https://github.com/EA31337/Strategy-Awesome/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ao_bt]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ao_bt]: https://github.com/EA31337/Strategy-Awesome/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ao_check]: https://github.com/EA31337/Strategy-Awesome/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ao_compile]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ao_compile]: https://github.com/EA31337/Strategy-Awesome/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ao_bt]: https://github.com/EA31337/Strategy-Awesome/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ao_bt]: https://github.com/EA31337/Strategy-Awesome/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_bwmfi_check]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Check+branch:master
 [ghim_s_bwmfi_check]: https://github.com/EA31337/Strategy-BWMFI/workflows/Check/badge.svg?branch=master
@@ -441,12 +441,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_bwmfi_bt]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Backtest+branch:master
 [ghim_s_bwmfi_bt]: https://github.com/EA31337/Strategy-BWMFI/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_bwmfi_check]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Check+branch:dev
-[ghid_s_bwmfi_check]: https://github.com/EA31337/Strategy-BWMFI/workflows/Check/badge.svg?branch=dev
-[ghld_s_bwmfi_compile]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Compile+branch:dev
-[ghid_s_bwmfi_compile]: https://github.com/EA31337/Strategy-BWMFI/workflows/Compile/badge.svg?branch=dev
-[ghld_s_bwmfi_bt]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Backtest+branch:dev
-[ghid_s_bwmfi_bt]: https://github.com/EA31337/Strategy-BWMFI/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_bwmfi_check]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_bwmfi_check]: https://github.com/EA31337/Strategy-BWMFI/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_bwmfi_compile]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_bwmfi_compile]: https://github.com/EA31337/Strategy-BWMFI/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_bwmfi_bt]: https://github.com/EA31337/Strategy-BWMFI/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_bwmfi_bt]: https://github.com/EA31337/Strategy-BWMFI/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_bands_check]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Check+branch:master
 [ghim_s_bands_check]: https://github.com/EA31337/Strategy-Bands/workflows/Check/badge.svg?branch=master
@@ -455,12 +455,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_bands_bt]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Backtest+branch:master
 [ghim_s_bands_bt]: https://github.com/EA31337/Strategy-Bands/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_bands_check]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Check+branch:dev
-[ghid_s_bands_check]: https://github.com/EA31337/Strategy-Bands/workflows/Check/badge.svg?branch=dev
-[ghld_s_bands_compile]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Compile+branch:dev
-[ghid_s_bands_compile]: https://github.com/EA31337/Strategy-Bands/workflows/Compile/badge.svg?branch=dev
-[ghld_s_bands_bt]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Backtest+branch:dev
-[ghid_s_bands_bt]: https://github.com/EA31337/Strategy-Bands/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_bands_check]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_bands_check]: https://github.com/EA31337/Strategy-Bands/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_bands_compile]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_bands_compile]: https://github.com/EA31337/Strategy-Bands/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_bands_bt]: https://github.com/EA31337/Strategy-Bands/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_bands_bt]: https://github.com/EA31337/Strategy-Bands/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_bears_check]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Check+branch:master
 [ghim_s_bears_check]: https://github.com/EA31337/Strategy-BearsPower/workflows/Check/badge.svg?branch=master
@@ -469,12 +469,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_bears_bt]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Backtest+branch:master
 [ghim_s_bears_bt]: https://github.com/EA31337/Strategy-BearsPower/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_bears_check]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Check+branch:dev
-[ghid_s_bears_check]: https://github.com/EA31337/Strategy-BearsPower/workflows/Check/badge.svg?branch=dev
-[ghld_s_bears_compile]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Compile+branch:dev
-[ghid_s_bears_compile]: https://github.com/EA31337/Strategy-BearsPower/workflows/Compile/badge.svg?branch=dev
-[ghld_s_bears_bt]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Backtest+branch:dev
-[ghid_s_bears_bt]: https://github.com/EA31337/Strategy-BearsPower/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_bears_check]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_bears_check]: https://github.com/EA31337/Strategy-BearsPower/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_bears_compile]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_bears_compile]: https://github.com/EA31337/Strategy-BearsPower/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_bears_bt]: https://github.com/EA31337/Strategy-BearsPower/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_bears_bt]: https://github.com/EA31337/Strategy-BearsPower/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_bulls_check]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Check+branch:master
 [ghim_s_bulls_check]: https://github.com/EA31337/Strategy-BullsPower/workflows/Check/badge.svg?branch=master
@@ -483,12 +483,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_bulls_bt]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Backtest+branch:master
 [ghim_s_bulls_bt]: https://github.com/EA31337/Strategy-BullsPower/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_bulls_check]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Check+branch:dev
-[ghid_s_bulls_check]: https://github.com/EA31337/Strategy-BullsPower/workflows/Check/badge.svg?branch=dev
-[ghld_s_bulls_compile]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Compile+branch:dev
-[ghid_s_bulls_compile]: https://github.com/EA31337/Strategy-BullsPower/workflows/Compile/badge.svg?branch=dev
-[ghld_s_bulls_bt]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Backtest+branch:dev
-[ghid_s_bulls_bt]: https://github.com/EA31337/Strategy-BullsPower/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_bulls_check]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_bulls_check]: https://github.com/EA31337/Strategy-BullsPower/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_bulls_compile]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_bulls_compile]: https://github.com/EA31337/Strategy-BullsPower/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_bulls_bt]: https://github.com/EA31337/Strategy-BullsPower/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_bulls_bt]: https://github.com/EA31337/Strategy-BullsPower/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_cci_check]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Check+branch:master
 [ghim_s_cci_check]: https://github.com/EA31337/Strategy-CCI/workflows/Check/badge.svg?branch=master
@@ -497,12 +497,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_cci_bt]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Backtest+branch:master
 [ghim_s_cci_bt]: https://github.com/EA31337/Strategy-CCI/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_cci_check]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Check+branch:dev
-[ghid_s_cci_check]: https://github.com/EA31337/Strategy-CCI/workflows/Check/badge.svg?branch=dev
-[ghld_s_cci_compile]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Compile+branch:dev
-[ghid_s_cci_compile]: https://github.com/EA31337/Strategy-CCI/workflows/Compile/badge.svg?branch=dev
-[ghld_s_cci_bt]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Backtest+branch:dev
-[ghid_s_cci_bt]: https://github.com/EA31337/Strategy-CCI/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_cci_check]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_cci_check]: https://github.com/EA31337/Strategy-CCI/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_cci_compile]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_cci_compile]: https://github.com/EA31337/Strategy-CCI/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_cci_bt]: https://github.com/EA31337/Strategy-CCI/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_cci_bt]: https://github.com/EA31337/Strategy-CCI/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Check+branch:master
 [ghim_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/workflows/Check/badge.svg?branch=master
@@ -511,12 +511,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Backtest+branch:master
 [ghim_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Check+branch:dev
-[ghid_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/workflows/Check/badge.svg?branch=dev
-[ghld_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Compile+branch:dev
-[ghid_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/workflows/Compile/badge.svg?branch=dev
-[ghld_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Backtest+branch:dev
-[ghid_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_cho_check]: https://github.com/EA31337/Strategy-Chaikin/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_cho_compile]: https://github.com/EA31337/Strategy-Chaikin/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_cho_bt]: https://github.com/EA31337/Strategy-Chaikin/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Check+branch:master
 [ghim_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/workflows/Check/badge.svg?branch=master
@@ -525,12 +525,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_dema_bt]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Backtest+branch:master
 [ghim_s_dema_bt]: https://github.com/EA31337/Strategy-DEMA/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Check+branch:dev
-[ghid_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/workflows/Check/badge.svg?branch=dev
-[ghld_s_dema_compile]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Compile+branch:dev
-[ghid_s_dema_compile]: https://github.com/EA31337/Strategy-DEMA/workflows/Compile/badge.svg?branch=dev
-[ghld_s_dema_bt]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Backtest+branch:dev
-[ghid_s_dema_bt]: https://github.com/EA31337/Strategy-DEMA/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_dema_check]: https://github.com/EA31337/Strategy-DEMA/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_dema_compile]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_dema_compile]: https://github.com/EA31337/Strategy-DEMA/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_dema_bt]: https://github.com/EA31337/Strategy-DEMA/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_dema_bt]: https://github.com/EA31337/Strategy-DEMA/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_demo_check]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Check+branch:master
 [ghim_s_demo_check]: https://github.com/EA31337/Strategy-Demo/workflows/Check/badge.svg?branch=master
@@ -539,12 +539,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Backtest+branch:master
 [ghim_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_demo_check]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Check+branch:dev
-[ghid_s_demo_check]: https://github.com/EA31337/Strategy-Demo/workflows/Check/badge.svg?branch=dev
-[ghld_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Compile+branch:dev
-[ghid_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/workflows/Compile/badge.svg?branch=dev
-[ghld_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Backtest+branch:dev
-[ghid_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_demo_check]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_demo_check]: https://github.com/EA31337/Strategy-Demo/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_demo_compile]: https://github.com/EA31337/Strategy-Demo/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_demo_bt]: https://github.com/EA31337/Strategy-Demo/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Check+branch:master
 [ghim_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/workflows/Check/badge.svg?branch=master
@@ -553,12 +553,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Backtest+branch:master
 [ghim_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Check+branch:dev
-[ghid_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/workflows/Check/badge.svg?branch=dev
-[ghld_s_dm_compile]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Compile+branch:dev
-[ghid_s_dm_compile]: https://github.com/EA31337/Strategy-DeMarker/workflows/Compile/badge.svg?branch=dev
-[ghld_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Backtest+branch:dev
-[ghid_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_dm_check]: https://github.com/EA31337/Strategy-DeMarker/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_dm_compile]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_dm_compile]: https://github.com/EA31337/Strategy-DeMarker/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_dm_bt]: https://github.com/EA31337/Strategy-DeMarker/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Check+branch:master
 [ghim_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/workflows/Check/badge.svg?branch=master
@@ -567,12 +567,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Backtest+branch:master
 [ghim_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Check+branch:dev
-[ghid_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/workflows/Check/badge.svg?branch=dev
-[ghld_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Compile+branch:dev
-[ghid_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/workflows/Compile/badge.svg?branch=dev
-[ghld_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Backtest+branch:dev
-[ghid_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_dpo_check]: https://github.com/EA31337/Strategy-DPO/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_dpo_compile]: https://github.com/EA31337/Strategy-DPO/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_dpo_bt]: https://github.com/EA31337/Strategy-DPO/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Check+branch:master
 [ghim_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Check/badge.svg?branch=master
@@ -581,12 +581,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_elliott_bt]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Backtest+branch:master
 [ghim_s_elliott_bt]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Check+branch:dev
-[ghid_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Check/badge.svg?branch=dev
-[ghld_s_elliott_compile]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Compile+branch:dev
-[ghid_s_elliott_compile]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Compile/badge.svg?branch=dev
-[ghld_s_elliott_bt]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Backtest+branch:dev
-[ghid_s_elliott_bt]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_elliott_check]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_elliott_compile]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_elliott_compile]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_elliott_bt]: https://github.com/EA31337/Strategy-ElliottWave/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_elliott_bt]: https://github.com/EA31337/Strategy-ElliottWave/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_env_check]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Check+branch:master
 [ghim_s_env_check]: https://github.com/EA31337/Strategy-Envelopes/workflows/Check/badge.svg?branch=master
@@ -595,12 +595,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_env_bt]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Backtest+branch:master
 [ghim_s_env_bt]: https://github.com/EA31337/Strategy-Envelopes/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_env_check]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Check+branch:dev
-[ghid_s_env_check]: https://github.com/EA31337/Strategy-Envelopes/workflows/Check/badge.svg?branch=dev
-[ghld_s_env_compile]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Compile+branch:dev
-[ghid_s_env_compile]: https://github.com/EA31337/Strategy-Envelopes/workflows/Compile/badge.svg?branch=dev
-[ghld_s_env_bt]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Backtest+branch:dev
-[ghid_s_env_bt]: https://github.com/EA31337/Strategy-Envelopes/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_env_check]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_env_check]: https://github.com/EA31337/Strategy-Envelopes/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_env_compile]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_env_compile]: https://github.com/EA31337/Strategy-Envelopes/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_env_bt]: https://github.com/EA31337/Strategy-Envelopes/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_env_bt]: https://github.com/EA31337/Strategy-Envelopes/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_force_check]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Check+branch:master
 [ghim_s_force_check]: https://github.com/EA31337/Strategy-Force/workflows/Check/badge.svg?branch=master
@@ -609,12 +609,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_force_bt]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Backtest+branch:master
 [ghim_s_force_bt]: https://github.com/EA31337/Strategy-Force/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_force_check]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Check+branch:dev
-[ghid_s_force_check]: https://github.com/EA31337/Strategy-Force/workflows/Check/badge.svg?branch=dev
-[ghld_s_force_compile]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Compile+branch:dev
-[ghid_s_force_compile]: https://github.com/EA31337/Strategy-Force/workflows/Compile/badge.svg?branch=dev
-[ghld_s_force_bt]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Backtest+branch:dev
-[ghid_s_force_bt]: https://github.com/EA31337/Strategy-Force/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_force_check]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_force_check]: https://github.com/EA31337/Strategy-Force/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_force_compile]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_force_compile]: https://github.com/EA31337/Strategy-Force/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_force_bt]: https://github.com/EA31337/Strategy-Force/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_force_bt]: https://github.com/EA31337/Strategy-Force/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_fractals_check]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Check+branch:master
 [ghim_s_fractals_check]: https://github.com/EA31337/Strategy-Fractals/workflows/Check/badge.svg?branch=master
@@ -623,12 +623,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_fractals_bt]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Backtest+branch:master
 [ghim_s_fractals_bt]: https://github.com/EA31337/Strategy-Fractals/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_fractals_check]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Check+branch:dev
-[ghid_s_fractals_check]: https://github.com/EA31337/Strategy-Fractals/workflows/Check/badge.svg?branch=dev
-[ghld_s_fractals_compile]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Compile+branch:dev
-[ghid_s_fractals_compile]: https://github.com/EA31337/Strategy-Fractals/workflows/Compile/badge.svg?branch=dev
-[ghld_s_fractals_bt]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Backtest+branch:dev
-[ghid_s_fractals_bt]: https://github.com/EA31337/Strategy-Fractals/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_fractals_check]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_fractals_check]: https://github.com/EA31337/Strategy-Fractals/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_fractals_compile]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_fractals_compile]: https://github.com/EA31337/Strategy-Fractals/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_fractals_bt]: https://github.com/EA31337/Strategy-Fractals/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_fractals_bt]: https://github.com/EA31337/Strategy-Fractals/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_gator_check]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Check+branch:master
 [ghim_s_gator_check]: https://github.com/EA31337/Strategy-Gator/workflows/Check/badge.svg?branch=master
@@ -637,12 +637,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_gator_bt]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Backtest+branch:master
 [ghim_s_gator_bt]: https://github.com/EA31337/Strategy-Gator/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_gator_check]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Check+branch:dev
-[ghid_s_gator_check]: https://github.com/EA31337/Strategy-Gator/workflows/Check/badge.svg?branch=dev
-[ghld_s_gator_compile]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Compile+branch:dev
-[ghid_s_gator_compile]: https://github.com/EA31337/Strategy-Gator/workflows/Compile/badge.svg?branch=dev
-[ghld_s_gator_bt]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Backtest+branch:dev
-[ghid_s_gator_bt]: https://github.com/EA31337/Strategy-Gator/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_gator_check]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_gator_check]: https://github.com/EA31337/Strategy-Gator/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_gator_compile]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_gator_compile]: https://github.com/EA31337/Strategy-Gator/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_gator_bt]: https://github.com/EA31337/Strategy-Gator/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_gator_bt]: https://github.com/EA31337/Strategy-Gator/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ha_check]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Check+branch:master
 [ghim_s_ha_check]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Check/badge.svg?branch=master
@@ -651,12 +651,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ha_bt]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Backtest+branch:master
 [ghim_s_ha_bt]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ha_check]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Check+branch:dev
-[ghid_s_ha_check]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Check/badge.svg?branch=dev
-[ghld_s_ha_compile]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Compile+branch:dev
-[ghid_s_ha_compile]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ha_bt]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ha_bt]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ha_check]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ha_check]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ha_compile]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ha_compile]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ha_bt]: https://github.com/EA31337/Strategy-HeikenAshi/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ha_bt]: https://github.com/EA31337/Strategy-HeikenAshi/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ichi_check]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Check+branch:master
 [ghim_s_ichi_check]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Check/badge.svg?branch=master
@@ -665,12 +665,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ichi_bt]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Backtest+branch:master
 [ghim_s_ichi_bt]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ichi_check]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Check+branch:dev
-[ghid_s_ichi_check]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Check/badge.svg?branch=dev
-[ghld_s_ichi_compile]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Compile+branch:dev
-[ghid_s_ichi_compile]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ichi_bt]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ichi_bt]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ichi_check]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ichi_check]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ichi_compile]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ichi_compile]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ichi_bt]: https://github.com/EA31337/Strategy-Ichimoku/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ichi_bt]: https://github.com/EA31337/Strategy-Ichimoku/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Check+branch:master
 [ghim_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/workflows/Check/badge.svg?branch=master
@@ -679,12 +679,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Backtest+branch:master
 [ghim_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Check+branch:dev
-[ghid_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/workflows/Check/badge.svg?branch=dev
-[ghld_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Compile+branch:dev
-[ghid_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/workflows/Compile/badge.svg?branch=dev
-[ghld_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Backtest+branch:dev
-[ghid_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_indi_check]: https://github.com/EA31337/Strategy-Indicator/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_indi_compile]: https://github.com/EA31337/Strategy-Indicator/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_indi_bt]: https://github.com/EA31337/Strategy-Indicator/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_check]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Check+branch:master
 [ghim_s_ma_check]: https://github.com/EA31337/Strategy-MA/workflows/Check/badge.svg?branch=master
@@ -693,12 +693,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_bt]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_bt]: https://github.com/EA31337/Strategy-MA/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_check]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_check]: https://github.com/EA31337/Strategy-MA/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_compile]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_compile]: https://github.com/EA31337/Strategy-MA/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_bt]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_bt]: https://github.com/EA31337/Strategy-MA/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_check]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_check]: https://github.com/EA31337/Strategy-MA/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_compile]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_compile]: https://github.com/EA31337/Strategy-MA/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_bt]: https://github.com/EA31337/Strategy-MA/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_bt]: https://github.com/EA31337/Strategy-MA/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Check+branch:master
 [ghim_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Check/badge.svg?branch=master
@@ -707,12 +707,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_breakout_check]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_breakout_compile]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_breakout_bt]: https://github.com/EA31337/Strategy-MA_Breakout/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_cross_candle_check]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Check+branch:master
 [ghim_s_ma_cross_candle_check]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Check/badge.svg?branch=master
@@ -721,12 +721,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_cross_candle_bt]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_cross_candle_bt]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_cross_candle_check]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_cross_candle_check]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_cross_candle_compile]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_cross_candle_compile]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_cross_candle_bt]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_cross_candle_bt]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_cross_candle_check]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_cross_candle_check]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_candle_compile]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_cross_candle_compile]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_candle_bt]: https://github.com/EA31337/Strategy-MA_Cross_Candle/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_cross_candle_bt]: https://github.com/EA31337/Strategy-MA_Cross_Candle/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Check+branch:master
 [ghim_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Check/badge.svg?branch=master
@@ -735,12 +735,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_cross_pivot_bt]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_cross_pivot_bt]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_cross_pivot_compile]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_cross_pivot_compile]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_cross_pivot_bt]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_cross_pivot_bt]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_cross_pivot_check]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_pivot_compile]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_cross_pivot_compile]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_pivot_bt]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_cross_pivot_bt]: https://github.com/EA31337/Strategy-MA_Cross_Pivot/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_cross_shift_check]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Check+branch:master
 [ghim_s_ma_cross_shift_check]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Check/badge.svg?branch=master
@@ -749,12 +749,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_cross_shift_bt]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_cross_shift_bt]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_cross_shift_check]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_cross_shift_check]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_cross_shift_compile]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_cross_shift_compile]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_cross_shift_bt]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_cross_shift_bt]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_cross_shift_check]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_cross_shift_check]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_shift_compile]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_cross_shift_compile]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_shift_bt]: https://github.com/EA31337/Strategy-MA_Cross_Shift/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_cross_shift_bt]: https://github.com/EA31337/Strategy-MA_Cross_Shift/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_cross_sup_res_check]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Check+branch:master
 [ghim_s_ma_cross_sup_res_check]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Check/badge.svg?branch=master
@@ -763,12 +763,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_cross_sup_res_check]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_cross_sup_res_check]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_cross_sup_res_compile]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_cross_sup_res_compile]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_cross_sup_res_check]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_cross_sup_res_check]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_sup_res_compile]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_cross_sup_res_compile]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_cross_sup_res_bt]: https://github.com/EA31337/Strategy-MA_Cross_Sup_Res/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Check+branch:master
 [ghim_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Check/badge.svg?branch=master
@@ -777,12 +777,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_cross_tf_check]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_cross_tf_compile]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_cross_tf_bt]: https://github.com/EA31337/Strategy-MA_Cross_Timeframe/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Check+branch:master
 [ghim_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Check/badge.svg?branch=master
@@ -791,12 +791,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Backtest+branch:master
 [ghim_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Check+branch:dev
-[ghid_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Check/badge.svg?branch=dev
-[ghld_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Compile+branch:dev
-[ghid_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Compile/badge.svg?branch=dev
-[ghld_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Backtest+branch:dev
-[ghid_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_ma_trend_check]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_ma_trend_compile]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_ma_trend_bt]: https://github.com/EA31337/Strategy-MA_Trend/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_macd_check]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Check+branch:master
 [ghim_s_macd_check]: https://github.com/EA31337/Strategy-MACD/workflows/Check/badge.svg?branch=master
@@ -805,12 +805,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_macd_bt]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Backtest+branch:master
 [ghim_s_macd_bt]: https://github.com/EA31337/Strategy-MACD/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_macd_check]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Check+branch:dev
-[ghid_s_macd_check]: https://github.com/EA31337/Strategy-MACD/workflows/Check/badge.svg?branch=dev
-[ghld_s_macd_compile]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Compile+branch:dev
-[ghid_s_macd_compile]: https://github.com/EA31337/Strategy-MACD/workflows/Compile/badge.svg?branch=dev
-[ghld_s_macd_bt]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Backtest+branch:dev
-[ghid_s_macd_bt]: https://github.com/EA31337/Strategy-MACD/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_macd_check]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_macd_check]: https://github.com/EA31337/Strategy-MACD/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_macd_compile]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_macd_compile]: https://github.com/EA31337/Strategy-MACD/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_macd_bt]: https://github.com/EA31337/Strategy-MACD/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_macd_bt]: https://github.com/EA31337/Strategy-MACD/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_mfi_check]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Check+branch:master
 [ghim_s_mfi_check]: https://github.com/EA31337/Strategy-MFI/workflows/Check/badge.svg?branch=master
@@ -819,12 +819,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_mfi_bt]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Backtest+branch:master
 [ghim_s_mfi_bt]: https://github.com/EA31337/Strategy-MFI/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_mfi_check]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Check+branch:dev
-[ghid_s_mfi_check]: https://github.com/EA31337/Strategy-MFI/workflows/Check/badge.svg?branch=dev
-[ghld_s_mfi_compile]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Compile+branch:dev
-[ghid_s_mfi_compile]: https://github.com/EA31337/Strategy-MFI/workflows/Compile/badge.svg?branch=dev
-[ghld_s_mfi_bt]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Backtest+branch:dev
-[ghid_s_mfi_bt]: https://github.com/EA31337/Strategy-MFI/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_mfi_check]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_mfi_check]: https://github.com/EA31337/Strategy-MFI/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_mfi_compile]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_mfi_compile]: https://github.com/EA31337/Strategy-MFI/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_mfi_bt]: https://github.com/EA31337/Strategy-MFI/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_mfi_bt]: https://github.com/EA31337/Strategy-MFI/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_mom_check]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Check+branch:master
 [ghim_s_mom_check]: https://github.com/EA31337/Strategy-Momentum/workflows/Check/badge.svg?branch=master
@@ -833,12 +833,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_mom_bt]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Backtest+branch:master
 [ghim_s_mom_bt]: https://github.com/EA31337/Strategy-Momentum/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_mom_check]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Check+branch:dev
-[ghid_s_mom_check]: https://github.com/EA31337/Strategy-Momentum/workflows/Check/badge.svg?branch=dev
-[ghld_s_mom_compile]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Compile+branch:dev
-[ghid_s_mom_compile]: https://github.com/EA31337/Strategy-Momentum/workflows/Compile/badge.svg?branch=dev
-[ghld_s_mom_bt]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Backtest+branch:dev
-[ghid_s_mom_bt]: https://github.com/EA31337/Strategy-Momentum/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_mom_check]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_mom_check]: https://github.com/EA31337/Strategy-Momentum/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_mom_compile]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_mom_compile]: https://github.com/EA31337/Strategy-Momentum/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_mom_bt]: https://github.com/EA31337/Strategy-Momentum/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_mom_bt]: https://github.com/EA31337/Strategy-Momentum/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_obv_check]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Check+branch:master
 [ghim_s_obv_check]: https://github.com/EA31337/Strategy-OBV/workflows/Check/badge.svg?branch=master
@@ -847,12 +847,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Backtest+branch:master
 [ghim_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_obv_check]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Check+branch:dev
-[ghid_s_obv_check]: https://github.com/EA31337/Strategy-OBV/workflows/Check/badge.svg?branch=dev
-[ghld_s_obv_compile]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Compile+branch:dev
-[ghid_s_obv_compile]: https://github.com/EA31337/Strategy-OBV/workflows/Compile/badge.svg?branch=dev
-[ghld_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Backtest+branch:dev
-[ghid_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_obv_check]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_obv_check]: https://github.com/EA31337/Strategy-OBV/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_obv_compile]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_obv_compile]: https://github.com/EA31337/Strategy-OBV/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_obv_bt]: https://github.com/EA31337/Strategy-OBV/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Check+branch:master
 [ghim_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/workflows/Check/badge.svg?branch=master
@@ -861,12 +861,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_check]: https://github.com/EA31337/Strategy-Oscillator/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_compile]: https://github.com/EA31337/Strategy-Oscillator/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_bt]: https://github.com/EA31337/Strategy-Oscillator/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_cross_check]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Check+branch:master
 [ghim_s_osc_cross_check]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Check/badge.svg?branch=master
@@ -875,12 +875,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_cross_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_cross_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_cross_check]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_cross_check]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_cross_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_cross_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_cross_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_cross_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_cross_check]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_cross_check]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_cross_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_cross_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_cross_shift_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Check+branch:master
 [ghim_s_osc_cross_shift_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Check/badge.svg?branch=master
@@ -889,12 +889,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_cross_shift_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_cross_shift_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_cross_shift_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_cross_shift_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_cross_shift_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_cross_shift_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_shift_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_cross_shift_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_cross_shift_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Shift/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Check+branch:master
 [ghim_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Check/badge.svg?branch=master
@@ -903,12 +903,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_cross_tf_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_cross_tf_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_cross_tf_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Timeframe/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Check+branch:master
 [ghim_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Check/badge.svg?branch=master
@@ -917,12 +917,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_cross_zero_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_cross_zero_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_cross_zero_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_cross_zero_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_cross_zero_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_cross_zero_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_cross_zero_check]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_zero_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_cross_zero_compile]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_cross_zero_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_cross_zero_bt]: https://github.com/EA31337/Strategy-Oscillator_Cross_Zero/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_div_check]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Check+branch:master
 [ghim_s_osc_div_check]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Check/badge.svg?branch=master
@@ -931,12 +931,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_div_check]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_div_check]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_div_compile]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_div_compile]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_div_check]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_div_check]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_div_compile]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_div_compile]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_div_bt]: https://github.com/EA31337/Strategy-Oscillator_Divergence/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Check+branch:master
 [ghim_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Check/badge.svg?branch=master
@@ -945,12 +945,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_martingale_check]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_martingale_compile]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_martingale_bt]: https://github.com/EA31337/Strategy-Oscillator_Martingale/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Check+branch:master
 [ghim_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Check/badge.svg?branch=master
@@ -959,12 +959,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_multi_compile]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_multi_compile]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_multi_check]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_multi_compile]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_multi_compile]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_multi_bt]: https://github.com/EA31337/Strategy-Oscillator_Multi/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Check+branch:master
 [ghim_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Check/badge.svg?branch=master
@@ -973,12 +973,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_overlay_check]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_overlay_compile]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_overlay_bt]: https://github.com/EA31337/Strategy-Oscillator_Overlay/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Check+branch:master
 [ghim_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Check/badge.svg?branch=master
@@ -987,12 +987,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_range_check]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_range_compile]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_range_bt]: https://github.com/EA31337/Strategy-Oscillator_Range/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Check+branch:master
 [ghim_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Check/badge.svg?branch=master
@@ -1001,12 +1001,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Backtest+branch:master
 [ghim_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Check+branch:dev
-[ghid_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Check/badge.svg?branch=dev
-[ghld_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Compile+branch:dev
-[ghid_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osc_trend_check]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osc_trend_compile]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osc_trend_bt]: https://github.com/EA31337/Strategy-Oscillator_Trend/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Check+branch:master
 [ghim_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/workflows/Check/badge.svg?branch=master
@@ -1015,12 +1015,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_osma_bt]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Backtest+branch:master
 [ghim_s_osma_bt]: https://github.com/EA31337/Strategy-OsMA/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Check+branch:dev
-[ghid_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/workflows/Check/badge.svg?branch=dev
-[ghld_s_osma_compile]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Compile+branch:dev
-[ghid_s_osma_compile]: https://github.com/EA31337/Strategy-OsMA/workflows/Compile/badge.svg?branch=dev
-[ghld_s_osma_bt]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Backtest+branch:dev
-[ghid_s_osma_bt]: https://github.com/EA31337/Strategy-OsMA/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_osma_check]: https://github.com/EA31337/Strategy-OsMA/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_osma_compile]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_osma_compile]: https://github.com/EA31337/Strategy-OsMA/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_osma_bt]: https://github.com/EA31337/Strategy-OsMA/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_osma_bt]: https://github.com/EA31337/Strategy-OsMA/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_pinbar_check]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Check+branch:master
 [ghim_s_pinbar_check]: https://github.com/EA31337/Strategy-Pinbar/workflows/Check/badge.svg?branch=master
@@ -1029,12 +1029,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_pinbar_bt]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Backtest+branch:master
 [ghim_s_pinbar_bt]: https://github.com/EA31337/Strategy-Pinbar/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_pinbar_check]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Check+branch:dev
-[ghid_s_pinbar_check]: https://github.com/EA31337/Strategy-Pinbar/workflows/Check/badge.svg?branch=dev
-[ghld_s_pinbar_compile]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Compile+branch:dev
-[ghid_s_pinbar_compile]: https://github.com/EA31337/Strategy-Pinbar/workflows/Compile/badge.svg?branch=dev
-[ghld_s_pinbar_bt]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Backtest+branch:dev
-[ghid_s_pinbar_bt]: https://github.com/EA31337/Strategy-Pinbar/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_pinbar_check]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_pinbar_check]: https://github.com/EA31337/Strategy-Pinbar/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_pinbar_compile]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_pinbar_compile]: https://github.com/EA31337/Strategy-Pinbar/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_pinbar_bt]: https://github.com/EA31337/Strategy-Pinbar/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_pinbar_bt]: https://github.com/EA31337/Strategy-Pinbar/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Check+branch:master
 [ghim_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/workflows/Check/badge.svg?branch=master
@@ -1043,12 +1043,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Backtest+branch:master
 [ghim_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Check+branch:dev
-[ghid_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/workflows/Check/badge.svg?branch=dev
-[ghld_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Compile+branch:dev
-[ghid_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/workflows/Compile/badge.svg?branch=dev
-[ghld_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Backtest+branch:dev
-[ghid_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_pivot_check]: https://github.com/EA31337/Strategy-Pivot/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_pivot_compile]: https://github.com/EA31337/Strategy-Pivot/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_pivot_bt]: https://github.com/EA31337/Strategy-Pivot/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Check+branch:master
 [ghim_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/workflows/Check/badge.svg?branch=master
@@ -1057,12 +1057,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Backtest+branch:master
 [ghim_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Check+branch:dev
-[ghid_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/workflows/Check/badge.svg?branch=dev
-[ghld_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Compile+branch:dev
-[ghid_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/workflows/Compile/badge.svg?branch=dev
-[ghld_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Backtest+branch:dev
-[ghid_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_retracement_check]: https://github.com/EA31337/Strategy-Retracement/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_retracement_compile]: https://github.com/EA31337/Strategy-Retracement/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_retracement_bt]: https://github.com/EA31337/Strategy-Retracement/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Check+branch:master
 [ghim_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/workflows/Check/badge.svg?branch=master
@@ -1071,12 +1071,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_rsi_bt]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Backtest+branch:master
 [ghim_s_rsi_bt]: https://github.com/EA31337/Strategy-RSI/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Check+branch:dev
-[ghid_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/workflows/Check/badge.svg?branch=dev
-[ghld_s_rsi_compile]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Compile+branch:dev
-[ghid_s_rsi_compile]: https://github.com/EA31337/Strategy-RSI/workflows/Compile/badge.svg?branch=dev
-[ghld_s_rsi_bt]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Backtest+branch:dev
-[ghid_s_rsi_bt]: https://github.com/EA31337/Strategy-RSI/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_rsi_check]: https://github.com/EA31337/Strategy-RSI/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_rsi_compile]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_rsi_compile]: https://github.com/EA31337/Strategy-RSI/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_rsi_bt]: https://github.com/EA31337/Strategy-RSI/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_rsi_bt]: https://github.com/EA31337/Strategy-RSI/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_rvi_check]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Check+branch:master
 [ghim_s_rvi_check]: https://github.com/EA31337/Strategy-RVI/workflows/Check/badge.svg?branch=master
@@ -1085,12 +1085,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_rvi_bt]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Backtest+branch:master
 [ghim_s_rvi_bt]: https://github.com/EA31337/Strategy-RVI/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_rvi_check]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Check+branch:dev
-[ghid_s_rvi_check]: https://github.com/EA31337/Strategy-RVI/workflows/Check/badge.svg?branch=dev
-[ghld_s_rvi_compile]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Compile+branch:dev
-[ghid_s_rvi_compile]: https://github.com/EA31337/Strategy-RVI/workflows/Compile/badge.svg?branch=dev
-[ghld_s_rvi_bt]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Backtest+branch:dev
-[ghid_s_rvi_bt]: https://github.com/EA31337/Strategy-RVI/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_rvi_check]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_rvi_check]: https://github.com/EA31337/Strategy-RVI/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_rvi_compile]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_rvi_compile]: https://github.com/EA31337/Strategy-RVI/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_rvi_bt]: https://github.com/EA31337/Strategy-RVI/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_rvi_bt]: https://github.com/EA31337/Strategy-RVI/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_sar_check]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Check+branch:master
 [ghim_s_sar_check]: https://github.com/EA31337/Strategy-SAR/workflows/Check/badge.svg?branch=master
@@ -1099,12 +1099,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_sar_bt]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Backtest+branch:master
 [ghim_s_sar_bt]: https://github.com/EA31337/Strategy-SAR/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_sar_check]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Check+branch:dev
-[ghid_s_sar_check]: https://github.com/EA31337/Strategy-SAR/workflows/Check/badge.svg?branch=dev
-[ghld_s_sar_compile]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Compile+branch:dev
-[ghid_s_sar_compile]: https://github.com/EA31337/Strategy-SAR/workflows/Compile/badge.svg?branch=dev
-[ghld_s_sar_bt]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Backtest+branch:dev
-[ghid_s_sar_bt]: https://github.com/EA31337/Strategy-SAR/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_sar_check]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_sar_check]: https://github.com/EA31337/Strategy-SAR/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_sar_compile]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_sar_compile]: https://github.com/EA31337/Strategy-SAR/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_sar_bt]: https://github.com/EA31337/Strategy-SAR/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_sar_bt]: https://github.com/EA31337/Strategy-SAR/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_svebb_check]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Check+branch:master
 [ghim_s_svebb_check]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Check/badge.svg?branch=master
@@ -1113,12 +1113,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_svebb_bt]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Backtest+branch:master
 [ghim_s_svebb_bt]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_svebb_check]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Check+branch:dev
-[ghid_s_svebb_check]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Check/badge.svg?branch=dev
-[ghld_s_svebb_compile]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Compile+branch:dev
-[ghid_s_svebb_compile]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Compile/badge.svg?branch=dev
-[ghld_s_svebb_bt]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Backtest+branch:dev
-[ghid_s_svebb_bt]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_svebb_check]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_svebb_check]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_svebb_compile]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_svebb_compile]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_svebb_bt]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_svebb_bt]: https://github.com/EA31337/Strategy-SVE_Bollinger_Bands/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_stddev_check]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Check+branch:master
 [ghim_s_stddev_check]: https://github.com/EA31337/Strategy-StdDev/workflows/Check/badge.svg?branch=master
@@ -1127,12 +1127,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_stddev_bt]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Backtest+branch:master
 [ghim_s_stddev_bt]: https://github.com/EA31337/Strategy-StdDev/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_stddev_check]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Check+branch:dev
-[ghid_s_stddev_check]: https://github.com/EA31337/Strategy-StdDev/workflows/Check/badge.svg?branch=dev
-[ghld_s_stddev_compile]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Compile+branch:dev
-[ghid_s_stddev_compile]: https://github.com/EA31337/Strategy-StdDev/workflows/Compile/badge.svg?branch=dev
-[ghld_s_stddev_bt]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Backtest+branch:dev
-[ghid_s_stddev_bt]: https://github.com/EA31337/Strategy-StdDev/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_stddev_check]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_stddev_check]: https://github.com/EA31337/Strategy-StdDev/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_stddev_compile]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_stddev_compile]: https://github.com/EA31337/Strategy-StdDev/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_stddev_bt]: https://github.com/EA31337/Strategy-StdDev/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_stddev_bt]: https://github.com/EA31337/Strategy-StdDev/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_stoch_check]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Check+branch:master
 [ghim_s_stoch_check]: https://github.com/EA31337/Strategy-Stochastic/workflows/Check/badge.svg?branch=master
@@ -1141,12 +1141,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_stoch_bt]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Backtest+branch:master
 [ghim_s_stoch_bt]: https://github.com/EA31337/Strategy-Stochastic/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_stoch_check]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Check+branch:dev
-[ghid_s_stoch_check]: https://github.com/EA31337/Strategy-Stochastic/workflows/Check/badge.svg?branch=dev
-[ghld_s_stoch_compile]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Compile+branch:dev
-[ghid_s_stoch_compile]: https://github.com/EA31337/Strategy-Stochastic/workflows/Compile/badge.svg?branch=dev
-[ghld_s_stoch_bt]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Backtest+branch:dev
-[ghid_s_stoch_bt]: https://github.com/EA31337/Strategy-Stochastic/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_stoch_check]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_stoch_check]: https://github.com/EA31337/Strategy-Stochastic/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_stoch_compile]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_stoch_compile]: https://github.com/EA31337/Strategy-Stochastic/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_stoch_bt]: https://github.com/EA31337/Strategy-Stochastic/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_stoch_bt]: https://github.com/EA31337/Strategy-Stochastic/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Check+branch:master
 [ghim_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Check/badge.svg?branch=master
@@ -1155,12 +1155,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Backtest+branch:master
 [ghim_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Check+branch:dev
-[ghid_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Check/badge.svg?branch=dev
-[ghld_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Compile+branch:dev
-[ghid_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Compile/badge.svg?branch=dev
-[ghld_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Backtest+branch:dev
-[ghid_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_supertrend_check]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_supertrend_compile]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_supertrend_bt]: https://github.com/EA31337/Strategy-SuperTrend/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_tmacg_check]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Check+branch:master
 [ghim_s_tmacg_check]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Check/badge.svg?branch=master
@@ -1169,12 +1169,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_tmacg_bt]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Backtest+branch:master
 [ghim_s_tmacg_bt]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_tmacg_check]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Check+branch:dev
-[ghid_s_tmacg_check]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Check/badge.svg?branch=dev
-[ghld_s_tmacg_compile]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Compile+branch:dev
-[ghid_s_tmacg_compile]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Compile/badge.svg?branch=dev
-[ghld_s_tmacg_bt]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Backtest+branch:dev
-[ghid_s_tmacg_bt]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_tmacg_check]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_tmacg_check]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_tmacg_compile]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_tmacg_compile]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_tmacg_bt]: https://github.com/EA31337/Strategy-TMA_CG/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_tmacg_bt]: https://github.com/EA31337/Strategy-TMA_CG/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Check+branch:master
 [ghim_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/workflows/Check/badge.svg?branch=master
@@ -1183,12 +1183,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_tmatrue_bt]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Backtest+branch:master
 [ghim_s_tmatrue_bt]: https://github.com/EA31337/Strategy-TMA_True/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Check+branch:dev
-[ghid_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/workflows/Check/badge.svg?branch=dev
-[ghld_s_tmatrue_compile]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Compile+branch:dev
-[ghid_s_tmatrue_compile]: https://github.com/EA31337/Strategy-TMA_True/workflows/Compile/badge.svg?branch=dev
-[ghld_s_tmatrue_bt]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Backtest+branch:dev
-[ghid_s_tmatrue_bt]: https://github.com/EA31337/Strategy-TMA_True/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_tmatrue_check]: https://github.com/EA31337/Strategy-TMA_True/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_tmatrue_compile]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_tmatrue_compile]: https://github.com/EA31337/Strategy-TMA_True/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_tmatrue_bt]: https://github.com/EA31337/Strategy-TMA_True/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_tmatrue_bt]: https://github.com/EA31337/Strategy-TMA_True/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Check+branch:master
 [ghim_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Check/badge.svg?branch=master
@@ -1197,12 +1197,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Backtest+branch:master
 [ghim_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Check+branch:dev
-[ghid_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Check/badge.svg?branch=dev
-[ghld_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Compile+branch:dev
-[ghid_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Compile/badge.svg?branch=dev
-[ghld_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Backtest+branch:dev
-[ghid_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_tmatsvebb_check]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_tmatsvebb_compile]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_tmatsvebb_bt]: https://github.com/EA31337/Strategy-TMAT_SVEBB/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Check+branch:master
 [ghim_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/workflows/Check/badge.svg?branch=master
@@ -1211,12 +1211,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_wpr_bt]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Backtest+branch:master
 [ghim_s_wpr_bt]: https://github.com/EA31337/Strategy-WPR/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Check+branch:dev
-[ghid_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/workflows/Check/badge.svg?branch=dev
-[ghld_s_wpr_compile]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Compile+branch:dev
-[ghid_s_wpr_compile]: https://github.com/EA31337/Strategy-WPR/workflows/Compile/badge.svg?branch=dev
-[ghld_s_wpr_bt]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Backtest+branch:dev
-[ghid_s_wpr_bt]: https://github.com/EA31337/Strategy-WPR/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_wpr_check]: https://github.com/EA31337/Strategy-WPR/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_wpr_compile]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_wpr_compile]: https://github.com/EA31337/Strategy-WPR/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_wpr_bt]: https://github.com/EA31337/Strategy-WPR/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_wpr_bt]: https://github.com/EA31337/Strategy-WPR/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_zigzag_check]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Check+branch:master
 [ghim_s_zigzag_check]: https://github.com/EA31337/Strategy-ZigZag/workflows/Check/badge.svg?branch=master
@@ -1225,12 +1225,12 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_zigzag_bt]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Backtest+branch:master
 [ghim_s_zigzag_bt]: https://github.com/EA31337/Strategy-ZigZag/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_zigzag_check]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Check+branch:dev
-[ghid_s_zigzag_check]: https://github.com/EA31337/Strategy-ZigZag/workflows/Check/badge.svg?branch=dev
-[ghld_s_zigzag_compile]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Compile+branch:dev
-[ghid_s_zigzag_compile]: https://github.com/EA31337/Strategy-ZigZag/workflows/Compile/badge.svg?branch=dev
-[ghld_s_zigzag_bt]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Backtest+branch:dev
-[ghid_s_zigzag_bt]: https://github.com/EA31337/Strategy-ZigZag/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_zigzag_check]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_zigzag_check]: https://github.com/EA31337/Strategy-ZigZag/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_zigzag_compile]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_zigzag_compile]: https://github.com/EA31337/Strategy-ZigZag/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_zigzag_bt]: https://github.com/EA31337/Strategy-ZigZag/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_zigzag_bt]: https://github.com/EA31337/Strategy-ZigZag/workflows/Backtest/badge.svg?branch=v2.000-dev
 
 [ghlm_s_sawa_check]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Check+branch:master
 [ghim_s_sawa_check]: https://github.com/EA31337/Strategy-SAWA/workflows/Check/badge.svg?branch=master
@@ -1239,9 +1239,9 @@ NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PR
 [ghlm_s_sawa_bt]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Backtest+branch:master
 [ghim_s_sawa_bt]: https://github.com/EA31337/Strategy-SAWA/workflows/Backtest/badge.svg?branch=master
 
-[ghld_s_sawa_check]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Check+branch:dev
-[ghid_s_sawa_check]: https://github.com/EA31337/Strategy-SAWA/workflows/Check/badge.svg?branch=dev
-[ghld_s_sawa_compile]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Compile+branch:dev
-[ghid_s_sawa_compile]: https://github.com/EA31337/Strategy-SAWA/workflows/Compile/badge.svg?branch=dev
-[ghld_s_sawa_bt]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Backtest+branch:dev
-[ghid_s_sawa_bt]: https://github.com/EA31337/Strategy-SAWA/workflows/Backtest/badge.svg?branch=dev
+[ghld_s_sawa_check]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Check+branch:v2.000-dev
+[ghid_s_sawa_check]: https://github.com/EA31337/Strategy-SAWA/workflows/Check/badge.svg?branch=v2.000-dev
+[ghld_s_sawa_compile]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Compile+branch:v2.000-dev
+[ghid_s_sawa_compile]: https://github.com/EA31337/Strategy-SAWA/workflows/Compile/badge.svg?branch=v2.000-dev
+[ghld_s_sawa_bt]: https://github.com/EA31337/Strategy-SAWA/actions?query=workflow:Backtest+branch:v2.000-dev
+[ghid_s_sawa_bt]: https://github.com/EA31337/Strategy-SAWA/workflows/Backtest/badge.svg?branch=v2.000-dev
