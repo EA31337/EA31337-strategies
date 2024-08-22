@@ -106,4 +106,4 @@ jobs:
           - 4
           - 5
       max-parallel: 2
-    timeout-minutes: 10
+    timeout-minutes: 20
