@@ -38,7 +38,7 @@ jobs:
     name: Checkout Strategies repo
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.1.3
+      - uses: actions/checkout@v4
         with:
           submodules: recursive
       - name: Uploads source code
@@ -83,14 +83,14 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           pattern: .mt${{ matrix.version }}
-      - name: Compile indicators
+      - name: Compile strategies
         uses: fx31337/mql-compile-action@master
         with:
           include: .
           mt-path: .mt${{ matrix.version }}
           path: "**/indicators-*/**/*.mq${{ matrix.version }}"
           verbose: true
-      - name: Compile strategy
+      - name: Compile strategies
         uses: fx31337/mql-compile-action@master
         with:
           include: .
@@ -107,3 +107,40 @@ jobs:
           - 5
       max-parallel: 2
     timeout-minutes: 20
+
+  compile-test:
+    defaults:
+      run:
+        shell: powershell
+    name: Compile Test
+    needs: [checkout-classes, checkout-strategies, mt4, mt5]
+    runs-on: windows-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: src-strategies
+          path: Include/EA31337-strategies
+      - uses: actions/download-artifact@v4
+        with:
+          name: src-classes
+          path: Include/EA31337-classes
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: .mt?
+      - name: Compile for MQL4
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-path: .mt4
+          path: ./.github/Test.mq4
+          verbose: true
+      - name: Compile for MQL5
+        uses: fx31337/mql-compile-action@master
+        with:
+          include: .
+          mt-path: .mt5
+          path: ./.github/Test.mq5
+          verbose: true
+      - name: List compiled files
+        run: '(Get-ChildItem -Recurse -Path . -Include *.ex[45]).fullname'
+      - run: Get-Location
